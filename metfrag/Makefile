@@ -78,7 +78,7 @@ $(RES_DIR)%.csv.gz: %.conf %.peaks %.cands.gz
 		ResultsPath=$(@D)
 	rm -f $(subst .gz,, $(word 3, $^))
 	@echo "---------"
-	@echox "Simplify:" $(basename $@)
+	@echo "Simplify:" $(basename $@)
 	python simplify_metfrag_output.py $(basename $@)
 	gzip $(basename $@)
 
