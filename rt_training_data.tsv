@@ -1,0 +1,1466 @@
+inchikey1	smiles	dataset	rt	superclass	class
+SEEPANYCNGTZFQ	Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1	Eawag_XBridgeC18	2.2	 Benzenoids	 Benzene and substituted derivatives
+DKZBBWMURDFHNE	COc1cc(C=CC=O)ccc1O	Eugster_et_al_2015	6.35	 Benzenoids	 Phenols
+LZPNXAULYJPXEH	COc1cccc(C=CC(=O)O)c1	RIKEN	1.67	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+AFDXODALSZRGIH	COc1ccc(C=CC(=O)O)cc1	RIKEN	1.65	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+FEGVSPGUHMGGBO	COc1ccccc1C=CC(=O)O	RIKEN	1.68	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+QURCVMIEKCOAJU	COc1ccc(C=CC(=O)O)cc1O	Boudah_et_al_2014_C18	7.21	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+KSEBMYQBYZTDHS	COc1cc(C=CC(=O)O)ccc1O	Boudah_et_al_2014_C18	7.43	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+KSEBMYQBYZTDHS	COc1cc(C=CC(=O)O)ccc1O	Eugster_et_al_2015	5.36	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+KSEBMYQBYZTDHS	COc1cc(C=CC(=O)O)ccc1O	FEM_long	25.9	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+KSEBMYQBYZTDHS	COc1cc(C=CC(=O)O)ccc1O	RIKEN	1.44	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+WCXDHFDTOYPNIE	CC(=NC#N)N(C)Cc1ccc(Cl)nc1	Eawag_XBridgeC18	5.3	 Organoheterocyclic compounds	 Pyridines and derivatives
+LEZHOZPJYAQQNU	N=C(O)N=C1SCCN1Cc1ccc(Cl)nc1	Eawag_XBridgeC18	4.6	 Organoheterocyclic compounds	 Pyridines and derivatives
+TXCGAZHTZHNUAI	CC(C)(Oc1ccc(Cl)cc1)C(=O)O	Eawag_XBridgeC18	10	 Benzenoids	 Benzene and substituted derivatives
+WNTGYJSOUMFZEP	Cc1cc(Cl)ccc1OC(C)C(=O)O	Eawag_XBridgeC18	10.8	 Benzenoids	 Benzene and substituted derivatives
+JLKIGFTWXXRPMT	Cc1cc(NS(=O)(=O)c2ccc(N)cc2)no1	Eawag_XBridgeC18	4.6	 Benzenoids	 Benzene and substituted derivatives
+QHMTXANCGGJZRX	CC1=NN=C(O)N(N=Cc2cccnc2)C1	Eawag_XBridgeC18	1.5	 Organoheterocyclic compounds	 Triazines
+MBBOMCVGYCRMEA	OCCc1c[nH]c2ccccc12	FEM_long	26.215	 Organoheterocyclic compounds	 Indoles and derivatives
+XTKVNQKOTKPCKM	COC(=O)CN=C(O)c1ccccc1	Boudah_et_al_2014_C18	6.77	 Organic acids and derivatives	 Carboxylic acids and derivatives
+NRSCPTLHWVWLLH	Cc1ccc(C(=O)NCC(=O)O)cc1	Boudah_et_al_2014_C18	7.01	 Benzenoids	 Benzene and substituted derivatives
+YKAKNMHEIJUKEX	Cc1cccc(C(O)=NCC(=O)O)c1	Boudah_et_al_2014_C18	7.04	 Organic acids and derivatives	 Carboxylic acids and derivatives
+YOEBAVRJHRCKRE	Cc1ccccc1C(O)=NCC(=O)O	Boudah_et_al_2014_C18	6.18	 Benzenoids	 Benzene and substituted derivatives
+YOEBAVRJHRCKRE	Cc1ccccc1C(O)=NCC(=O)O	LIFE_new	3.4050166667000004	 Benzenoids	 Benzene and substituted derivatives
+UTYVDVLMYQPLQB	O=C(O)CN=C(O)Cc1ccccc1	Boudah_et_al_2014_C18	6.19	 Organic acids and derivatives	 Carboxylic acids and derivatives
+UTYVDVLMYQPLQB	O=C(O)CN=C(O)Cc1ccccc1	LIFE_new	3.3805	 Organic acids and derivatives	 Carboxylic acids and derivatives
+UTYVDVLMYQPLQB	O=C(O)CN=C(O)Cc1ccccc1	RIKEN	1.36	 Organic acids and derivatives	 Carboxylic acids and derivatives
+KPYSYYIEGFHWSV	NCC(CC(=O)O)c1ccc(Cl)cc1	RIKEN	1.24	 Organic acids and derivatives	 Carboxylic acids and derivatives
+APJYDQYYACXCRM	NCCc1c[nH]c2ccccc12	LIFE_new	2.6512	 Organoheterocyclic compounds	 Indoles and derivatives
+APJYDQYYACXCRM	NCCc1c[nH]c2ccccc12	LIFE_old	1.5278333333	 Organoheterocyclic compounds	 Indoles and derivatives
+APJYDQYYACXCRM	NCCc1c[nH]c2ccccc12	RIKEN	1.22	 Organoheterocyclic compounds	 Indoles and derivatives
+QZAYGJVTTNCVMB	NCCc1c[nH]c2ccc(O)cc12	FEM_long	11.1	 Organoheterocyclic compounds	 Indoles and derivatives
+QZAYGJVTTNCVMB	NCCc1c[nH]c2ccc(O)cc12	RIKEN	1.08	 Organoheterocyclic compounds	 Indoles and derivatives
+YGPSJZOEDVAXAB	Nc1ccccc1C(=O)CC(N)C(=O)O	FEM_long	11.005	 Organic oxygen compounds	 Organooxygen compounds
+YGPSJZOEDVAXAB	Nc1ccccc1C(=O)CC(N)C(=O)O	LIFE_old	1.3445833333000001	 Organic oxygen compounds	 Organooxygen compounds
+YGPSJZOEDVAXAB	Nc1ccccc1C(=O)CC(N)C(=O)O	RIKEN	1.1	 Organic oxygen compounds	 Organooxygen compounds
+ZOMSMJKLGFBRBS	CC(C)N1C(=O)c2ccccc2NS1(=O)=O	Eawag_XBridgeC18	7.5	 Benzenoids	
+VCKPUUFAIGNJHC	Nc1c(O)cccc1C(=O)CC(N)C(=O)O	LIFE_old	1.03485	 Organic oxygen compounds	 Organooxygen compounds
+OWZPCEFYPSAJFR	CCC(C)c1cc([N+](=O)[O-])cc([N+](=O)[O-])c1O	Eawag_XBridgeC18	13	 Benzenoids	 Phenols
+WTWBUQJHJGUZCY	CC(C)c1ccc(C=O)cc1	FEM_long	38.6	 Lipids and lipid-like molecules	 Prenol lipids
+FUWUEFKEXZQKKA	CC(C)c1cccc(O)c(=O)c1	RIKEN	1.49	 Hydrocarbon derivatives	 Tropones
+NJGBTKGETPDVIK	CC(=O)CCc1ccc(O)cc1	FEM_long	24.6	 Benzenoids	 Phenols
+JMFRWRFFLBVWSI	COc1cc(C=CCO)ccc1O	FEM_long	22.8	 Benzenoids	 Phenols
+DHZBEENLJMYSHQ	CC12C(=O)OC(=O)C1(C)C1CCC2O1	Eugster_et_al_2015	4.07	 Organoheterocyclic compounds	 Furofurans
+VHFVKMTVMIZMIK	Clc1cccc(N2CCNCC2)c1	Eawag_XBridgeC18	5.2	 Organoheterocyclic compounds	 Diazinanes
+JXCGFZXSOMJFOA	Cc1ccc(N=C(O)N(C)C)cc1Cl	Eawag_XBridgeC18	8.2	 Benzenoids	 Benzene and substituted derivatives
+PHNGFPPXDJJADG	O=P(O)(O)OCC1OC(n2cnc3c(O)ncnc32)CC1O	RIKEN	0.7	 Nucleosides, nucleotides, and analogues	 Purine nucleotides
+DCTLYFZHFGENCW	O=P(O)(O)OCC1OC(n2cnc3c(O)nc(O)nc32)C(O)C1O	RIKEN	0.48	 Nucleosides, nucleotides, and analogues	 Purine nucleotides
+HYVABZIGRDEKCD	CC(C)=CCNc1nc[nH]c2ncnc1-2	RIKEN	1.32	 Organoheterocyclic compounds	 Imidazopyrimidines
+UZKQTCBAMSWPJD	CC(=CCNc1nc[nH]c2ncnc1-2)CO	RIKEN	1.11	 Organoheterocyclic compounds	 Imidazopyrimidines
+OLXZPDWKRNYJJZ	Nc1ncnc2c1ncn2C1CC(O)C(CO)O1	RIKEN	1.07	 Nucleosides, nucleotides, and analogues	 Purine nucleosides
+NYHBQMYGNKIUIF	N=c1nc(O)c2ncn(C3OC(CO)C(O)C3O)c2[nH]1	LIFE_old	1.2639166667	 Nucleosides, nucleotides, and analogues	 Purine nucleosides
+NYHBQMYGNKIUIF	N=c1nc(O)c2ncn(C3OC(CO)C(O)C3O)c2[nH]1	RIKEN	1.08	 Nucleosides, nucleotides, and analogues	 Purine nucleosides
+DGMPVYSXXIOGJY	CCCCc1ccc(C(=O)O)nc1	RIKEN	1.37	 Organoheterocyclic compounds	 Pyridines and derivatives
+OFVBLKINTLPEGH	NC(CC(=O)O)Cc1ccccc1	RIKEN	1.16	 Organic acids and derivatives	 Carboxylic acids and derivatives
+SNICXCGAKADSCV	CN1CCCC1c1cccnc1	FEM_long	4.64	 Organoheterocyclic compounds	 Pyridines and derivatives
+JIIOLEGNERQDIP	CN=CNc1ccc(C)cc1C	Eawag_XBridgeC18	4.5	 Benzenoids	 Benzene and substituted derivatives
+ABBKOIZWGCVCKE	CC(C)c1ccc(NC(=N)O)cc1	Eawag_XBridgeC18	8	 Benzenoids	 Benzene and substituted derivatives
+WZUJXVZQPZOEFE	O=C(O)CCC1N=C(O)C2CCCN2C1=O	LIFE_old	1.4281666667	 Organic acids and derivatives	 Carboxylic acids and derivatives
+PFEJJYZYEFRQEA	O=C(O)C1CCCN1C(=O)C1CCC(O)=N1	LIFE_new	2.0172666667	 Organic acids and derivatives	 Carboxylic acids and derivatives
+PFEJJYZYEFRQEA	O=C(O)C1CCCN1C(=O)C1CCC(O)=N1	LIFE_old	1.42855	 Organic acids and derivatives	 Carboxylic acids and derivatives
+KHWCHTKSEGGWEX	Nc1ncnc2c1ncn2C1CC(O)C(COP(=O)(O)O)O1	RIKEN	0.62	 Nucleosides, nucleotides, and analogues	 Purine nucleotides
+LTFMZDNNPPEQNG	N=c1nc(O)c2ncn(C3CC(O)C(COP(=O)(O)O)O3)c2[nH]1	RIKEN	0.72	 Nucleosides, nucleotides, and analogues	 Purine nucleotides
+LNQVTSROQXJCDD	Nc1ncnc2c1ncn2C1OC(CO)C(OP(=O)(O)O)C1O	RIKEN	0.64	 Nucleosides, nucleotides, and analogues	 Ribonucleoside 3'-phosphates
+UDMBCSSLTHHNCD	Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O	FEM_long	4.08	 Nucleosides, nucleotides, and analogues	 Purine nucleotides
+ULDHMXUKGWMISQ	C=C(C)C1CC=C(C)C(=O)C1	Eugster_et_al_2015	12.47	 Lipids and lipid-like molecules	 Prenol lipids
+BGNXCDMCOKJUMV	CC(C)(C)c1cc(O)ccc1O	FEM_long	30.5	 Benzenoids	 Benzene and substituted derivatives
+CDSMSBUVCWHORP	C=C(C)C1CC=C(C(=O)O)CC1	LIFE_new	3.8101	 Lipids and lipid-like molecules	 Prenol lipids
+MYWUZJCMWCOHBA	CNC(C)Cc1ccccc1	Eawag_XBridgeC18	3.7	 Benzenoids	 Benzene and substituted derivatives
+ZAYHVCMSTBRABG	Cc1cn(C2OC(CO)C(O)C2O)c(O)nc1=N	LIFE_old	1.27845	 Nucleosides, nucleotides, and analogues	 Pyrimidine nucleosides
+XXFACTAYGKKOQB	CC(CO)CCNc1nc[nH]c2ncnc1-2	RIKEN	1.11	 Organoheterocyclic compounds	 Imidazopyrimidines
+KWGRBVOPPLSCSI	CNC(C)C(O)c1ccccc1	Eawag_XBridgeC18	2.9	 Benzenoids	 Benzene and substituted derivatives
+GRWFGVWFFZKLTI	CC1=CCC2CC1C2(C)C	Eugster_et_al_2015	12.75	 Lipids and lipid-like molecules	 Prenol lipids
+WTARULDDTDQWMU	C=C1CCC2CC1C2(C)C	Eugster_et_al_2015	12.62	 Lipids and lipid-like molecules	 Prenol lipids
+XLUAWXQORJEMBD	CC(C)C1N=C(O)C2CCCN2C1=O	LIFE_new	3.10075	 Organic acids and derivatives	 Carboxylic acids and derivatives
+XLUAWXQORJEMBD	CC(C)C1N=C(O)C2CCCN2C1=O	LIFE_old	1.7357833333000001	 Organic acids and derivatives	 Carboxylic acids and derivatives
+YBJHBAHKTGYVGT	O=C(O)CCCCC1SCC2N=C(O)NC21	Boudah_et_al_2014_C18	6.41	 Organoheterocyclic compounds	 Biotin and derivatives
+YBJHBAHKTGYVGT	O=C(O)CCCCC1SCC2N=C(O)NC21	FEM_long	21.6	 Organoheterocyclic compounds	 Biotin and derivatives
+MUXWSLGRSPTQTH	CCC(C)C1N=C(O)C(CC(=O)O)N=C1O	LIFE_old	1.6506833333000002	 Organic acids and derivatives	 Peptidomimetics
+NHOXLNLQCPBCFP	CC(C)CC1N=C(O)C(CC(=O)O)N=C1O	LIFE_old	1.6753666666999998	 Organic acids and derivatives	 Peptidomimetics
+DTSWLLBBGHRXQH	CC(C)C(N=C(O)C1CCC(O)=N1)C(=O)O	LIFE_old	1.5743	 Organic acids and derivatives	 Carboxylic acids and derivatives
+OPFQZSJENUEYCX	CC(C)C1N=C(O)C(CCC(=O)O)N=C1O	LIFE_old	1.4983833333	 Organic acids and derivatives	 Carboxylic acids and derivatives
+NZGWDASTMWDZIW	CC(C)=C1CCC(C)CC1=O	FEM_long	38.9	 Lipids and lipid-like molecules	 Prenol lipids
+NDTYTMIUWGWIMO	C=C(C)C1CC=C(CO)CC1	Boudah_et_al_2014_C18	6.65	 Lipids and lipid-like molecules	 Prenol lipids
+WTEVQBCEXWBHNA	CC(C)=CCCC(C)=CC=O	Eugster_et_al_2015	14.63	 Lipids and lipid-like molecules	 Prenol lipids
+DSSYKIVIOFKYAU	CC12CCC(CC1=O)C2(C)C	FEM_long	36.5	 Lipids and lipid-like molecules	 Prenol lipids
+DKNWSYNQZKUICI	NC12CC3CC(CC(C3)C1)C2	RIKEN	1.28	 Organic nitrogen compounds	 Organonitrogen compounds
+AUTOLBMXDDTRRT	CC1N=C(O)NC1CCCCCC(=O)O	Boudah_et_al_2014_C18	6.57	 Organoheterocyclic compounds	 Azoles
+SITLTJHOQZFJGG	CC(C)C(N=C(O)C(N)CCC(=O)O)C(=O)O	LIFE_old	1.3219833333	 Organic acids and derivatives	 Carboxylic acids and derivatives
+UPJONISHZRADBH	CC(C)C(N)C(O)=NC(CCC(=O)O)C(=O)O	LIFE_old	0.9060583333	 Organic acids and derivatives	 Carboxylic acids and derivatives
+LNLCRJXCNQABMV	COC(=O)CCCCCCC(=O)OC	Boudah_et_al_2014_C18	10.64	 Lipids and lipid-like molecules	 Fatty Acyls
+NVEBCYZIHQCMHT	CCC(CC)(CCCC(=O)O)C(=O)O	Boudah_et_al_2014_C18	10.69	 Lipids and lipid-like molecules	 Fatty Acyls
+CXMXRPHRNRROMY	O=C(O)CCCCCCCCC(=O)O	Boudah_et_al_2014_C18	8.82	 Lipids and lipid-like molecules	 Fatty Acyls
+ZJMZZNVGNSWOOM	CCN=c1nc(OC)[nH]c(=NC(C)CC)[nH]1	Eawag_XBridgeC18	6.7	 Organoheterocyclic compounds	 Triazines
+ISEUFVQQFVOBCY	COc1nc(=NC(C)C)[nH]c(=NC(C)C)[nH]1	Eawag_XBridgeC18	6.7	 Organoheterocyclic compounds	 Triazines
+BCQMBFHBDZVHKU	CCN=c1nc(NC(C)(C)C)[nH]c(OC)n1	Eawag_XBridgeC18	6.7	 Organoheterocyclic compounds	 Triazines
+AAEVYOVXGOFMJO	CSc1nc(=NC(C)C)[nH]c(=NC(C)C)[nH]1	Eawag_XBridgeC18	8.5	 Organoheterocyclic compounds	 Triazines
+IROINLKCQGIITA	CCN=c1nc(NC(C)(C)C)[nH]c(SC)n1	Eawag_XBridgeC18	8.5	 Organoheterocyclic compounds	 Triazines
+UFAHZIUFPNSHSL	CCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C	LIFE_old	1.3520833333000002	 Lipids and lipid-like molecules	 Fatty Acyls
+GHVNFZFCNZKVNT	CCCCCCCCCC(=O)O	FEM_long	45.615	 Lipids and lipid-like molecules	 Fatty Acyls
+RBNWAMSGVWEHFP	CC1(O)CCC(C(C)(C)O)CC1	FEM_long	27.9	 Lipids and lipid-like molecules	 Prenol lipids
+FYSSBMZUBSBFJL	CCCCCCCC(O)CC(=O)O	Boudah_et_al_2014_C18	10.99	 Organic acids and derivatives	 Hydroxy acids and derivatives
+YJCJVMMDTBEITC	O=C(O)CCCCCCCCCO	Boudah_et_al_2014_C18	9.15	 Organic acids and derivatives	 Hydroxy acids and derivatives
+AEUTYOVWOVBAKS	CCC(CO)NCCNC(CC)CO	Eawag_XBridgeC18	9.6	 Organic nitrogen compounds	 Organonitrogen compounds
+WHZXTVOEGZRRJM	O=C(O)C=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	16.1	 Lipids and lipid-like molecules	 Fatty Acyls
+AYLOUUCBACYHAB	O=C(O)CNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	15.9	 Organohalogen compounds	 Alkyl halides
+CCEKAJIANROZEO	CCNS(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	17.1	 Organohalogen compounds	 Alkyl halides
+MIABSAQIFYEDJP	O=P(O)(O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	14.7	 Organic acids and derivatives	 Organic phosphoric acids and derivatives
+KQPYUDDGWXQXHS	O=C1C=CC(=O)c2c(O)cccc21	Eugster_et_al_2015	9.24	 Benzenoids	 Naphthalenes
+LOAUVZALPPNFOQ	O=C(O)c1ccc2ccccc2n1	LIFE_new	2.8640833333	 Organoheterocyclic compounds	 Quinolines and derivatives
+LOAUVZALPPNFOQ	O=C(O)c1ccc2ccccc2n1	LIFE_old	1.68315	 Organoheterocyclic compounds	 Quinolines and derivatives
+HCZHHEIFKROPDY	O=C(O)c1cc(=O)c2ccccc2[nH]1	Boudah_et_al_2014_C18	4.95	 Organoheterocyclic compounds	 Quinolines and derivatives
+HCZHHEIFKROPDY	O=C(O)c1cc(=O)c2ccccc2[nH]1	RIKEN	1.19	 Organoheterocyclic compounds	 Quinolines and derivatives
+FBZONXHGGPHHIY	O=C(O)c1cc(O)c2cccc(O)c2n1	Boudah_et_al_2014_C18	4.65	 Organoheterocyclic compounds	 Quinolines and derivatives
+WYKYKTKDBLFHCY	Nc1cnn(-c2ccccc2)c(=O)c1Cl	Eawag_XBridgeC18	5.2	 Organoheterocyclic compounds	 Diazines
+KJCVRFUGPWSIIH	Oc1cccc2ccccc12	Eugster_et_al_2015	11.32	 Benzenoids	 Naphthalenes
+LIIALPBMIOVAHH	COc1ccc2ccc(=O)oc2c1	Eugster_et_al_2015	8.55	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+HSHNITRMYYLLCV	Cc1cc(=O)oc2cc(O)ccc12	Eugster_et_al_2015	6.67	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+HSHNITRMYYLLCV	Cc1cc(=O)oc2cc(O)ccc12	FEM_long	27.81	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+KVBGVZZKJNLNJU	O=S(=O)(O)c1ccc2ccccc2c1	Eawag_XBridgeC18	5.2	 Benzenoids	 Naphthalenes
+KIGCGZUAVODHMD	COc1ccc2ccc(=O)oc2c1O	Eugster_et_al_2015	5.66	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+RODXRVNMMDRFIK	COc1cc2ccc(=O)oc2cc1O	Eugster_et_al_2015	5.33	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+RODXRVNMMDRFIK	COc1cc2ccc(=O)oc2cc1O	FEM_long	24.58	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+SYTYLPHCLSSCOJ	COc1cc2oc(=O)ccc2cc1O	Eugster_et_al_2015	5.01	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+HAVWRBANWNTOJX	COc1cc2ccc(=O)oc2c(O)c1O	Eugster_et_al_2015	4.35	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+HOKKPVIRMVDYPB	N#CN=C1SCCN1Cc1ccc(Cl)nc1	Eawag_XBridgeC18	5.8	 Organoheterocyclic compounds	 Pyridines and derivatives
+OUSYWCQYMPDAEO	Cc1nnc(-c2ccccc2)c(O)n1	Eawag_XBridgeC18	5.1	 Organoheterocyclic compounds	 Triazines
+QANMHLXAZMSUEX	c1coc(CNc2nc[nH]c3ncnc2-3)c1	LIFE_new	3.0295	 Organoheterocyclic compounds	 Imidazopyrimidines
+JBOPQACSHPPKEP	CC(=O)Oc1c[nH]c2ccccc12	Boudah_et_al_2014_C18	9.93	 Organoheterocyclic compounds	 Indoles and derivatives
+SEOVTRFCIGRIMH	O=C(O)Cc1c[nH]c2ccccc12	Boudah_et_al_2014_C18	8.24	 Organoheterocyclic compounds	 Indoles and derivatives
+SEOVTRFCIGRIMH	O=C(O)Cc1c[nH]c2ccccc12	FEM_long	26.605	 Organoheterocyclic compounds	 Indoles and derivatives
+SEOVTRFCIGRIMH	O=C(O)Cc1c[nH]c2ccccc12	LIFE_new	3.6338833333	 Organoheterocyclic compounds	 Indoles and derivatives
+DUUGKQCEGZLZNO	O=C(O)Cc1c[nH]c2ccc(O)cc12	Boudah_et_al_2014_C18	5.84	 Organoheterocyclic compounds	 Indoles and derivatives
+DUUGKQCEGZLZNO	O=C(O)Cc1c[nH]c2ccc(O)cc12	LIFE_new	2.9208833333	 Organoheterocyclic compounds	 Indoles and derivatives
+DUUGKQCEGZLZNO	O=C(O)Cc1c[nH]c2ccc(O)cc12	LIFE_old	1.61105	 Organoheterocyclic compounds	 Indoles and derivatives
+DUUGKQCEGZLZNO	O=C(O)Cc1c[nH]c2ccc(O)cc12	RIKEN	1.27	 Organoheterocyclic compounds	 Indoles and derivatives
+PCIUEQPBYFRTEM	O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	15.2	 Organohalogen compounds	 Alkyl halides
+GUAFOGOEJLSQBT	COc1cc2ccc(=O)oc2cc1OC	Eugster_et_al_2015	7.18	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+HOEVRHHMDJKUMZ	COc1cc2ccc(=O)oc2c(OC)c1O	UniToyama_Atlantis	11.835	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+KXNXWINFSDKMHD	CC(O)=Nc1ccc(S(=O)(=O)Nc2nccs2)cc1	Eawag_XBridgeC18	4.1	 Benzenoids	 Benzene and substituted derivatives
+KTHADMDGDNYQRX	COC(=O)Cc1c[nH]c2ccccc12	Boudah_et_al_2014_C18	10.01	 Organoheterocyclic compounds	 Indoles and derivatives
+GOLXRNDWAUTYKT	O=C(O)CCc1c[nH]c2ccccc12	FEM_long	30.275	 Organoheterocyclic compounds	 Indoles and derivatives
+COCNDHOPIHDTHK	COc1ccc2[nH]cc(CC(=O)O)c2c1	Boudah_et_al_2014_C18	8.23	 Organoheterocyclic compounds	 Indoles and derivatives
+XGILAAMKEQUXLS	O=C(O)C(O)Cc1c[nH]c2ccccc12	FEM_long	24.6	 Organoheterocyclic compounds	 Indoles and derivatives
+XGILAAMKEQUXLS	O=C(O)C(O)Cc1c[nH]c2ccccc12	LIFE_new	3.5210833333	 Organoheterocyclic compounds	 Indoles and derivatives
+XGILAAMKEQUXLS	O=C(O)C(O)Cc1c[nH]c2ccccc12	LIFE_old	2.1344833333	 Organoheterocyclic compounds	 Indoles and derivatives
+YAADMLWHGMUGQL	O=C(O)CN=C(O)C=Cc1ccccc1	Boudah_et_al_2014_C18	7.7	 Organic acids and derivatives	 Carboxylic acids and derivatives
+FFKNXXCOXIZLJD	CC(C)N(C(=O)C(=O)O)c1ccc(F)cc1	Eawag_XBridgeC18	6.2	 Organic acids and derivatives	 Carboxylic acids and derivatives
+VEQOALNAAJBPNY	Cc1cc(=O)n(-c2ccccc2)n1C	Eawag_XBridgeC18	4.6	 Organoheterocyclic compounds	 Azoles
+QIVBCDIJIAJPQS	NC(Cc1c[nH]c2ccccc12)C(=O)O	Boudah_et_al_2014_C18	5.12	 Organoheterocyclic compounds	 Indoles and derivatives
+QIVBCDIJIAJPQS	NC(Cc1c[nH]c2ccccc12)C(=O)O	FEM_long	16	 Organoheterocyclic compounds	 Indoles and derivatives
+QIVBCDIJIAJPQS	NC(Cc1c[nH]c2ccccc12)C(=O)O	LIFE_new	2.4249166666999997	 Organoheterocyclic compounds	 Indoles and derivatives
+QIVBCDIJIAJPQS	NC(Cc1c[nH]c2ccccc12)C(=O)O	LIFE_old	1.4865	 Organoheterocyclic compounds	 Indoles and derivatives
+QIVBCDIJIAJPQS	NC(Cc1c[nH]c2ccccc12)C(=O)O	RIKEN	1.16	 Organoheterocyclic compounds	 Indoles and derivatives
+HLFSDGLLUJUHTE	c1ccc(C2CN3CCSC3=N2)cc1	Eawag_XBridgeC18	2.9	 Organoheterocyclic compounds	 Imidazothiazoles
+HJBWJAPEBGSQPR	COc1ccc(C=CC(=O)O)cc1OC	RIKEN	1.57	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+PCMORTLOPMLEFB	COc1cc(C=CC(=O)O)cc(OC)c1O	Eugster_et_al_2015	5.42	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+PCMORTLOPMLEFB	COc1cc(C=CC(=O)O)cc(OC)c1O	FEM_long	25.9	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+PCMORTLOPMLEFB	COc1cc(C=CC(=O)O)cc(OC)c1O	RIKEN	1.44	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+DFFWZNDCNBOKDI	O=C1CC(C(=O)O)CC(=O)C1=C(O)C1CC1	Eawag_XBridgeC18	6.9	 Organic acids and derivatives	 Vinylogous acids
+CXWYCAYNZXSHTF	CC1(C)C(=O)Oc2ccc(OS(C)(=O)=O)cc21	Eawag_XBridgeC18	6	 Organoheterocyclic compounds	 Benzofurans
+LLWADFLAOKUBDR	Cc1cc(Cl)ccc1OCCCC(=O)O	Eawag_XBridgeC18	11.9	 Benzenoids	 Phenol ethers
+KKIMDKMETPPURN	FC(F)(F)c1cccc(N2CCNCC2)c1	Eawag_XBridgeC18	5.9	 Organoheterocyclic compounds	 Diazinanes
+RLFWWDJHLFCNIJ	Cc1c(N)c(=O)n(-c2ccccc2)n1C	Eawag_XBridgeC18	2.6	 Organoheterocyclic compounds	 Azoles
+CBQJSKKFNMDLON	CC(O)=NC(Cc1ccccc1)C(=O)O	Boudah_et_al_2014_C18	6.95	 Organic acids and derivatives	 Carboxylic acids and derivatives
+HYHJOUPYTUBFIX	CC(C)N(C(=O)C(=O)O)c1ccccc1	Eawag_XBridgeC18	5.6	 Organic acids and derivatives	 Carboxylic acids and derivatives
+CAHKINHBCWCHCF	CC(O)=NC(Cc1ccc(O)cc1)C(=O)O	Boudah_et_al_2014_C18	4.49	 Organic acids and derivatives	 Carboxylic acids and derivatives
+CAHKINHBCWCHCF	CC(O)=NC(Cc1ccc(O)cc1)C(=O)O	FEM_long	17.38	 Organic acids and derivatives	 Carboxylic acids and derivatives
+CAHKINHBCWCHCF	CC(O)=NC(Cc1ccc(O)cc1)C(=O)O	LIFE_new	2.6782666667	 Organic acids and derivatives	 Carboxylic acids and derivatives
+CAHKINHBCWCHCF	CC(O)=NC(Cc1ccc(O)cc1)C(=O)O	LIFE_old	1.5307833333	 Organic acids and derivatives	 Carboxylic acids and derivatives
+MFOUDYKPLGXPGO	CC(C)N(C(=O)CCl)c1ccccc1	Eawag_XBridgeC18	8.6	 Benzenoids	 Benzene and substituted derivatives
+SZCMHDLOUVZYST	CC(C)N(C(=O)CS(=O)(=O)O)c1ccc(F)cc1	Eawag_XBridgeC18	6	 Benzenoids	 Benzene and substituted derivatives
+JOUIQRNQJGXQDC	O=C(O)c1ccc[n+](C2OC(COP(=O)([O-])O)C(O)C2O)c1	FEM_long	2.1	 Nucleosides, nucleotides, and analogues	 Pyridine nucleotides
+AZKVWQKMDGGDSV	COC(=O)C1=COC(O)C2C(CO)=CCC12	FEM_long	24.2	 Lipids and lipid-like molecules	 Prenol lipids
+WUUGFSXJNOTRMR	CSCC1OC(n2cnc3c(N)ncnc32)C(O)C1O	RIKEN	1.14	 Nucleosides, nucleotides, and analogues	 5'-deoxyribonucleosides
+YELGFTGWJGBAQU	CNC(C)C(=O)c1ccc(C)cc1	Eawag_XBridgeC18	4.3	 Organic oxygen compounds	 Organooxygen compounds
+YFBPRJGDJKVWAH	CN=C(O)Oc1cc(C)c(SC)c(C)c1	Eawag_XBridgeC18	10.4	 Benzenoids	 Benzene and substituted derivatives
+FNCMBMZOZQAWJA	CN=C(O)Oc1cc(C)c(S(C)=O)c(C)c1	Eawag_XBridgeC18	4.9	 Benzenoids	 Benzene and substituted derivatives
+BFSZJLBDHMMCAH	CC(C)N(C(=O)CS(=O)(=O)O)c1ccccc1	Eawag_XBridgeC18	5.9	 Benzenoids	 Benzene and substituted derivatives
+MCHWKJRTMPIHRA	c1ccc(NCC2CCCN2)cc1	RIKEN	1.27	 Organic nitrogen compounds	 Organonitrogen compounds
+DOULWWSSZVEPIN	CN=C(O)Nc1ccc(C(C)C)cc1	Eawag_XBridgeC18	8.6	 Benzenoids	 Benzene and substituted derivatives
+PORQOHRXAJJKGK	CCCCCCCCn1sc(Cl)c(Cl)c1=O	Eawag_XBridgeC18	15.3	 Organohalogen compounds	 Aryl halides
+IUJDSEJGGMCXSG	CCCC(C)C1(CC)C(O)=NC(=S)N=C1O	Eawag_XBridgeC18	9	 Organoheterocyclic compounds	 Diazines
+MKCVLTRITQNGQI	CCC(C)C(N=C(O)C1CCC(O)=N1)C(=O)O	LIFE_old	1.82585	 Organic acids and derivatives	 Carboxylic acids and derivatives
+HUNKOLLSBWNBAS	CCC(C)C1N=C(O)C(CCC(=O)O)N=C1O	LIFE_old	1.7130833333000002	 Organic acids and derivatives	 Carboxylic acids and derivatives
+XXSAFGVAPGOYNT	CC(C)CC(N=C(O)C1CCC(O)=N1)C(=O)O	LIFE_old	1.89025	 Organic acids and derivatives	 Carboxylic acids and derivatives
+YFGYUFNIOHWBOB	Cc1nc(N(C)C)nc(OC(=O)N(C)C)c1C	Eawag_XBridgeC18	5	 Organic nitrogen compounds	 Organonitrogen compounds
+HDHLIWCXDDZUFH	CSc1nc(=NC2CC2)nc(NC(C)(C)C)[nH]1	Eawag_XBridgeC18	9.2	 Organoheterocyclic compounds	 Triazines
+JPMIIZHYYWMHDT	CCCCCCCCn1sccc1=O	Eawag_XBridgeC18	11.6	 Organoheterocyclic compounds	 Azoles
+XIQXUFYJMBDYSU	CCC(C)C1N=C(O)C(C(C)C)N=C1O	LIFE_old	2.31205	 Organic acids and derivatives	 Carboxylic acids and derivatives
+VTJUNIYRYIAIHF	CC(C)CC(N)C(=O)N1CCCC1C(=O)O	Boudah_et_al_2014_C18	4.32	 Organic acids and derivatives	 Carboxylic acids and derivatives
+IIHBKTCHILXGOT	CC(O)=NC(CSC(S)=NCCCCS(C)=O)C(=O)O	LIFE_new	3.2432333332999996	 Organic acids and derivatives	 Carboxylic acids and derivatives
+LWBHHRRTOZQPDM	O=C(O)CCCCCCCCCC(=O)O	Boudah_et_al_2014_C18	9.62	 Lipids and lipid-like molecules	 Fatty Acyls
+IMYZQPCYWPFTAG	CNC1(C)C2CCC(C2)C1(C)C	RIKEN	1.35	 Lipids and lipid-like molecules	 Prenol lipids
+QNDHIRFIMVNHBN	CN(CC(=O)O)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	16.5	 Organohalogen compounds	 Alkyl halides
+ZCCUUQDIBDJBTK	O=c1ccc2cc3ccoc3cc2o1	Eugster_et_al_2015	9.31	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+VCMMXZQDRFWYSE	CC1=CC(=O)c2c(O)cccc2C1=O	Eugster_et_al_2015	12.09	 Benzenoids	 Naphthalenes
+YVPYQUNUQOZFHG	CC(O)=Nc1c(I)c(N=C(C)O)c(I)c(C(=O)O)c1I	Eawag_XBridgeC18	1.6	 Benzenoids	 Benzene and substituted derivatives
+SXOUIMVOMIGLHO	O=C(O)C=Cc1cc2ccccc2[nH]1	Boudah_et_al_2014_C18	8.99	 Organoheterocyclic compounds	 Indoles and derivatives
+RSTKLPZEZYGQPY	O=C(O)C(=O)Cc1c[nH]c2ccccc12	FEM_long	30.285	 Organoheterocyclic compounds	 Indoles and derivatives
+SIDINRCMMRKXGQ	O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	16.3	 Organohalogen compounds	 Alkyl halides
+HXVZGASCDAGAPS	CC(=O)Oc1ccc2c(C)cc(=O)oc2c1	RIKEN	1.69	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+ZZUFCTLCJUWOSV	NS(=O)(=O)c1cc(C(=O)O)c(NCc2ccco2)cc1Cl	Eawag_XBridgeC18	6.8	 Benzenoids	 Benzene and substituted derivatives
+OLAOYPRJVHUHCF	CC(O)=Nc1c(I)c(C(=O)O)c(I)c(C(O)=NCCO)c1I	Eawag_XBridgeC18	1.3	 Benzenoids	 Benzene and substituted derivatives
+NJIZUWGMNCUKGU	CC(O)=Nc1ccc(S(=O)(=O)Nc2ncccn2)cc1	Eawag_XBridgeC18	3.6	 Benzenoids	 Benzene and substituted derivatives
+RGTSAUBIQAKKLC	COc1cc2oc(C)cc(=O)c2c(O)c1C	Eugster_et_al_2015	13.96	 Organoheterocyclic compounds	 Benzopyrans
+ZLIBICFPKPWGIZ	Cc1cc(C)nc(Nc2ccccc2)n1	Eawag_XBridgeC18	7.6	 Benzenoids	 Benzene and substituted derivatives
+WSJBSKRPKADYRQ	Cc1c(N=CO)c(=O)n(-c2ccccc2)n1C	Eawag_XBridgeC18	3.7	 Organoheterocyclic compounds	 Azoles
+GXPIUNZCALHVBA	CC(O)=Nc1ccc(S(=O)(=O)Nc2cc(C)on2)cc1	Eawag_XBridgeC18	5.5	 Benzenoids	 Benzene and substituted derivatives
+AHTPATJNIAFOLR	COC(=O)c1sccc1S(=O)(=O)N=C(O)N=c1nc(C)nc(OC)[nH]1	Eawag_XBridgeC18	7.2	 Organoheterocyclic compounds	 Thiophenes
+HUDBDWIQSIGUDI	CCOC(=O)Cc1c[nH]c2ccccc12	FEM_long	35.5	 Organoheterocyclic compounds	 Indoles and derivatives
+KIEDNEWSYUYDSN	CC1(C)CON(Cc2ccccc2Cl)C1=O	Eawag_XBridgeC18	9.4	 Benzenoids	 Benzene and substituted derivatives
+DQMZLTXERSFNPB	CCC1(c2ccccc2)C(O)=NCN=C1O	Eawag_XBridgeC18	5.4	 Organoheterocyclic compounds	 Diazines
+MVAWJSIDNICKHF	CC(O)=NCCc1c[nH]c2ccc(O)cc12	Boudah_et_al_2014_C18	5.46	 Organoheterocyclic compounds	 Indoles and derivatives
+ASWVTGNCAZCNNR	Cc1cc(C)nc(NS(=O)(=O)c2ccc(N)cc2)n1	Eawag_XBridgeC18	3.9	 Benzenoids	 Benzene and substituted derivatives
+ZZORFUFYDOWNEF	COc1cc(NS(=O)(=O)c2ccc(N)cc2)nc(OC)n1	Eawag_XBridgeC18	5.7	 Benzenoids	 Benzene and substituted derivatives
+SCCDQYPEOIRVGX	C=CCc1ccc(OC(C)=O)c(OC)c1	FEM_long	38.3	 Benzenoids	 Phenol esters
+YTFVRYKNXDADBI	COc1cc(C=CC(=O)O)cc(OC)c1OC	Eugster_et_al_2015	8.56	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+ICPYZFZFSLTYID	O=C(O)C1OC(Oc2ccccc2O)C(O)C(O)C1O	LIFE_new	2.8057666667000003	 Organic oxygen compounds	 Organooxygen compounds
+LLLFASISUZUJEQ	CCN(CC)C(=O)SCc1ccccc1Cl	Eawag_XBridgeC18	13.3	 Benzenoids	 Benzene and substituted derivatives
+AMRQXHFXNZFDCH	CCN=C(O)C(C)OC(O)=Nc1ccccc1	Eawag_XBridgeC18	6.6	 Benzenoids	 Benzene and substituted derivatives
+MJTPMXWJHPOWGH	CC(C)C(=O)OCCOc1ccccc1	FEM_long	40.2	 Benzenoids	 Phenol ethers
+WMCQWXZMVIETAO	CCCc1oc(CCC(=O)O)c(C(=O)O)c1C	LIFE_new	4.0790166667	 Lipids and lipid-like molecules	 Fatty Acyls
+NEZJDVYDSZTRFS	OCC1OC(Oc2ccccc2)C(O)C(O)C1O	FEM_long	16.4	 Organic oxygen compounds	 Organooxygen compounds
+BJRNKVDFDLYUGJ	OCC1OC(Oc2ccc(O)cc2)C(O)C(O)C1O	FEM_long	7.605	 Organic oxygen compounds	 Organooxygen compounds
+MMOXZBCLCQITDF	CCN(CC)C(=O)c1cccc(C)c1	Eawag_XBridgeC18	8.6	 Benzenoids	 Benzene and substituted derivatives
+HOYCASTVMCEOTP	COCC(C)N(C(=O)C(=O)O)c1c(C)csc1C	Eawag_XBridgeC18	7.5	 Organic acids and derivatives	 Carboxylic acids and derivatives
+JLYFCTQDENRSOL	COCC(C)N(C(=O)CCl)c1c(C)csc1C	Eawag_XBridgeC18	10	 Organoheterocyclic compounds	 Heteroaromatic compounds
+PUIYMUZLKQOUOZ	CC(C)c1ccc(NC(=O)N(C)C)cc1	Eawag_XBridgeC18	8.7	 Benzenoids	 Benzene and substituted derivatives
+ZNJFBWYDHIGLCU	CCC=CCC1C(=O)CCC1CC(=O)O	Eugster_et_al_2015	10.04	 Lipids and lipid-like molecules	 Fatty Acyls
+ZNJFBWYDHIGLCU	CCC=CCC1C(=O)CCC1CC(=O)O	FEM_long	33.7	 Lipids and lipid-like molecules	 Fatty Acyls
+ZNJFBWYDHIGLCU	CCC=CCC1C(=O)CCC1CC(=O)O	RIKEN	1.68	 Lipids and lipid-like molecules	 Fatty Acyls
+BAQAVOSOZGMPRM	OCC1OC(OC2(CCl)OC(CCl)C(O)C2O)C(O)C(O)C1Cl	Eawag_XBridgeC18	4.4	 Organic oxygen compounds	 Organooxygen compounds
+YMYKMSAZEZQEER	COCC(C)N(C(=O)CS(=O)(=O)O)c1c(C)csc1C	Eawag_XBridgeC18	6.7	 Organoheterocyclic compounds	 Heteroaromatic compounds
+VBLJFQYCTRKKKF	CCOP(=O)(OCC)Oc1cc(C)nc(C(C)C)n1	Eawag_XBridgeC18	9.5	 Organic acids and derivatives	 Organic phosphoric acids and derivatives
+ZDHCZVWCTKTBRY	O=C(O)CCCCCCCCCCCO	Boudah_et_al_2014_C18	10.64	 Organic acids and derivatives	 Hydroxy acids and derivatives
+ZRKZFNZPJKEWPC	CCCCCCCCCC[N+](C)(C)[O-]	Eawag_XBridgeC18	10.4	 Organic nitrogen compounds	 Organonitrogen compounds
+JWKXVHLIRTVXLD	N#Cc1nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c(N)c1C(F)(F)F	Eawag_XBridgeC18	12.5	 Organoheterocyclic compounds	 Azoles
+LGHZJDKSVUTELU	N#Cc1nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c(N)c1S(=O)(=O)C(F)(F)F	Eawag_XBridgeC18	13.5	 Organoheterocyclic compounds	 Azoles
+ZOCSXAVNDGMNBV	N#Cc1nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c(N)c1S(=O)C(F)(F)F	Eawag_XBridgeC18	12.6	 Organoheterocyclic compounds	 Azoles
+FQXWEKADCSXYOC	N#Cc1nn(-c2c(Cl)cc(C(F)(F)F)cc2Cl)c(N)c1SC(F)(F)F	Eawag_XBridgeC18	13	 Organoheterocyclic compounds	 Azoles
+MUJOIMFVNIBMKC	N#Cc1c[nH]cc1-c1cccc2c1OC(F)(F)O2	Eawag_XBridgeC18	10.7	 Organoheterocyclic compounds	 Benzodioxoles
+CKRXVVGETMYFIO	CCN(CC(=O)O)S(=O)(=O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	16.9	 Organohalogen compounds	 Alkyl halides
+DGEZNRSVGBDHLK	c1cnc2c(c1)ccc1cccnc12	RIKEN	1.18	 Organoheterocyclic compounds	 Phenanthrolines
+QXKHYNVANLEOEG	COc1c2occc2cc2ccc(=O)oc12	Eugster_et_al_2015	9.98	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+BGEBZHIAGXMEMV	COc1c2ccoc2cc2oc(=O)ccc12	Eugster_et_al_2015	11.04	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+RWCCWEUUXYIKHB	O=C(c1ccccc1)c1ccccc1	FEM_long	39.1	 Benzenoids	 Benzene and substituted derivatives
+NXTDJHZGHOFSQG	O=C(O)c1cccc(Oc2ccccc2)c1	Eawag_XBridgeC18	11.5	 Benzenoids	 Benzene and substituted derivatives
+NZVQLVGOZRELTG	COc1c2ccoc2cc2oc(C)cc(=O)c12	Eugster_et_al_2015	9.67	 Organoheterocyclic compounds	 Benzopyrans
+DFMAXQKDIGCMTL	COc1c2ccoc2c(OC)c2oc(=O)ccc12	Eugster_et_al_2015	11.1	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+RFHAOTPXVQNOHP	OC(Cn1cncn1)(Cn1cncn1)c1ccc(F)cc1F	Eawag_XBridgeC18	5.3	 Benzenoids	 Benzene and substituted derivatives
+DUIFVCFSAWHIOD	O=C(O)CN=C(O)C=Cc1c[nH]c2ccccc12	LIFE_new	3.5645166667000003	 Organic acids and derivatives	 Carboxylic acids and derivatives
+DUIFVCFSAWHIOD	O=C(O)CN=C(O)C=Cc1c[nH]c2ccccc12	LIFE_old	2.12965	 Organic acids and derivatives	 Carboxylic acids and derivatives
+KGANAERDZBAECK	OCc1cccc(Oc2ccccc2)c1	Eawag_XBridgeC18	9.8	 Benzenoids	 Benzene and substituted derivatives
+INYJZRKTYXTZHP	O=C(C=Cc1ccc(O)cc1)OC(C(=O)O)C(O)C(=O)O	FEM_long	17.99	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+SWGKAHCIOQPKFW	O=C(C=Cc1ccc(O)c(O)c1)OC(C(=O)O)C(O)C(=O)O	FEM_long	15.5	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+DZTHIGRZJZPRDV	CC(O)=NC(Cc1c[nH]c2ccccc12)C(=O)O	Boudah_et_al_2014_C18	7.3	 Organic acids and derivatives	 Carboxylic acids and derivatives
+OIAGWXKSCXPNNZ	CC(O)=Nc1c(C)n(C)n(-c2ccccc2)c1=O	Eawag_XBridgeC18	3.7	 Organoheterocyclic compounds	 Azoles
+YQEZLKZALYSWHR	CNC1(c2ccccc2Cl)CCCCC1=O	Eawag_XBridgeC18	4.6	 Benzenoids	 Benzene and substituted derivatives
+ZSDSQXJSNMTJDA	CCCN(CCC)c1c([N+](=O)[O-])cc(C(F)(F)F)cc1[N+](=O)[O-]	Eawag_XBridgeC18	16.5	 Benzenoids	 Benzene and substituted derivatives
+NWJBWNIUGNXJGO	CC(=O)OC1C(C)OC(n2cc(F)c(=N)nc2O)C1OC(C)=O	Eawag_XBridgeC18	5.2	 Nucleosides, nucleotides, and analogues	 5'-deoxyribonucleosides
+OMYMRCXOJJZYKE	COc1cc2c(CCN=C(C)O)c[nH]c2cc1O	Boudah_et_al_2014_C18	6.46	 Organoheterocyclic compounds	 Indoles and derivatives
+JYWNYMJKURVPFH	COc1ccc(N=CO)c(C(=O)CCN=C(C)O)c1	Boudah_et_al_2014_C18	6.8	 Organic oxygen compounds	 Organooxygen compounds
+JFLIEFSWGNOPJJ	N=C(O)CCC(N=C(O)Cc1ccccc1)C(=O)O	Boudah_et_al_2014_C18	5.64	 Organic acids and derivatives	 Carboxylic acids and derivatives
+HWMGTNOVUDIKRE	NC(Cc1ccccc1)C(O)=NC(CC(=O)O)C(=O)O	LIFE_old	1.53665	 Organic acids and derivatives	 Carboxylic acids and derivatives
+YZQCXOFQZKCETR	NC(CC(=O)O)C(O)=NC(Cc1ccccc1)C(=O)O	LIFE_new	2.6743833333	 Organic acids and derivatives	 Carboxylic acids and derivatives
+RVKCCVTVZORVGD	CCOC(=O)C1CC(=O)C(=C(O)C2CC2)C(=O)C1	Eawag_XBridgeC18	8.9	 Organic acids and derivatives	 Vinylogous acids
+YHXISWVBGDMDLQ	O=C(NCCN1CCOCC1)c1ccc(Cl)cc1	Eawag_XBridgeC18	4.5	 Benzenoids	 Benzene and substituted derivatives
+RMMXTBMQSGEXHJ	Cc1c(N(C)C)c(=O)n(-c2ccccc2)n1C	Eawag_XBridgeC18	2.6	 Organoheterocyclic compounds	 Azoles
+IRTZMJWVZQYURE	CC(=O)N(C)N(C(=O)C(=O)N(C)C)c1ccccc1	Eawag_XBridgeC18	5.2	 Organic acids and derivatives	 Carboxylic acids and derivatives
+INGSNVSERUZOAK	O=C(O)C(c1ccccc1)C1CCCCN1	Eawag_XBridgeC18	4.7	 Organic nitrogen compounds	 Organonitrogen compounds
+OZQCZEAFOVHVSC	CSCCC(N=C(O)Cc1ccccc1)C(=O)O	LIFE_new	3.7855833333	 Organic acids and derivatives	 Carboxylic acids and derivatives
+OZQCZEAFOVHVSC	CSCCC(N=C(O)Cc1ccccc1)C(=O)O	LIFE_old	2.57615	 Organic acids and derivatives	 Carboxylic acids and derivatives
+MHGMSAFPNAKIRZ	COCCN(C(=O)C(=O)O)c1c(C)cccc1C	Eawag_XBridgeC18	6.6	 Organic acids and derivatives	 Carboxylic acids and derivatives
+SNPPWIUOZRMYNY	CC(NC(C)(C)C)C(=O)c1cccc(Cl)c1	Eawag_XBridgeC18	5.8	 Organic oxygen compounds	 Organooxygen compounds
+SCCDDNKJYDZXMM	COCCN(C(=O)CCl)c1c(C)cccc1C	Eawag_XBridgeC18	9.1	 Benzenoids	 Benzene and substituted derivatives
+HEFNNWSXXWATRW	CC(C)Cc1ccc(C(C)C(=O)O)cc1	Eawag_XBridgeC18	13.6	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+NGFMICBWJRZIBI	OCc1ccccc1OC1OC(CO)C(O)C(O)C1O	FEM_long	16.1	 Organic oxygen compounds	 Organooxygen compounds
+RVSCDWJKJDBFRS	COCCN(C(=O)CS(=O)(=O)O)c1c(C)cccc1C	Eawag_XBridgeC18	5.9	 Benzenoids	 Benzene and substituted derivatives
+GEWDNTWNSAZUDX	CCC=CCC1C(=O)CCC1CC(=O)OC	FEM_long	38.425	 Lipids and lipid-like molecules	 Fatty Acyls
+GEWDNTWNSAZUDX	CCC=CCC1C(=O)CCC1CC(=O)OC	RIKEN	1.93	 Lipids and lipid-like molecules	 Fatty Acyls
+VDYDCVUWILIYQF	CC(O)C(=O)SCC(N=C(O)CCC(N)C(=O)O)C(O)=NCC(=O)O	RIKEN	1.06	 Organic acids and derivatives	 Carboxylic acids and derivatives
+NDAUXUAQIAJITI	CC(C)(C)NCC(O)c1ccc(O)c(CO)c1	Eawag_XBridgeC18	2	 Benzenoids	 Benzene and substituted derivatives
+DFJVUWAHTQPQCV	CNC(=C[N+](=O)[O-])NCCSCc1ccc(C[N+](C)(C)[O-])o1	Eawag_XBridgeC18	2.4	 Organoheterocyclic compounds	 Heteroaromatic compounds
+GYUZHTWCNKINPY	CC1=CCCC(C)(C)C12CCC(C)O2	FEM_long	48.08	 Organoheterocyclic compounds	 Tetrahydrofurans
+YJRODKCOICMRBO	CC(=O)C=CC1C(C)CCCC1(C)C	FEM_long	46.1	 Lipids and lipid-like molecules	 Prenol lipids
+CNOPDZWOYFOHGN	CC1=C(C=CC(C)O)C(C)(C)CCC1	FEM_long	46.3	 Lipids and lipid-like molecules	 Prenol lipids
+HNZUNIKWNYHEJJ	CC(=O)CCC=C(C)CCC=C(C)C	FEM_long	46.5	 Lipids and lipid-like molecules	 Prenol lipids
+BYCHQEILESTMQU	CCC(=O)OCC=C(C)CCC=C(C)C	FEM_long	48.2	 Lipids and lipid-like molecules	 Fatty Acyls
+UZCGKGPEKUCDTF	O=[N+]([O-])c1cc(C(F)(F)F)c(Cl)c([N+](=O)[O-])c1Nc1ncc(C(F)(F)F)cc1Cl	Eawag_XBridgeC18	15.9	 Benzenoids	 Benzene and substituted derivatives
+ICUTUKXCWQYESQ	OC(=Nc1ccc(Cl)c(Cl)c1)Nc1ccc(Cl)cc1	Eawag_XBridgeC18	14.8	 Benzenoids	 Benzene and substituted derivatives
+KVEQCVKVIFQSGC	COc1nc(C(F)(F)F)nc(=NC(O)=NS(=O)(=O)c2ccccc2C(F)(F)F)[nH]1	Eawag_XBridgeC18	10.8	 Organic nitrogen compounds	 Organonitrogen compounds
+LPEPZBJOKDYZAD	O=C(O)c1ccccc1Nc1cccc(C(F)(F)F)c1	Eawag_XBridgeC18	14.6	 Benzenoids	 Benzene and substituted derivatives
+RJGDLRCDCYRQOQ	O=C1c2ccccc2Cc2ccccc21	Eugster_et_al_2015	14.77	 Benzenoids	 Anthracenes
+LCGTWRLJTMHIQZ	C1=Cc2ccccc2Nc2ccccc21	Eawag_XBridgeC18	11	 Organoheterocyclic compounds	 Benzazepines
+QVLMUEOXQBUPAH	Oc1ccc(C=Cc2ccccc2)cc1	FEM_long	41.8	 Phenylpropanoids and polyketides	 Stilbenes
+SESFRYSPDFLNCH	O=C(OCc1ccccc1)c1ccccc1	FEM_long	43.5	 Benzenoids	 Benzene and substituted derivatives
+DXGLGDHPHMLXJC	COc1ccc(C(=O)c2ccccc2)c(O)c1	Eawag_XBridgeC18	12.1	 Benzenoids	 Benzene and substituted derivatives
+LUKBXSAWLPMMSZ	Oc1ccc(C=Cc2cc(O)cc(O)c2)cc1	FEM_long	30.35	 Phenylpropanoids and polyketides	 Stilbenes
+CDRPUGZCRXZLFL	Oc1cc(O)cc(C=Cc2ccc(O)c(O)c2)c1	FEM_long	26.54	 Phenylpropanoids and polyketides	 Stilbenes
+HSMPDPBYAYSOBC	COc1c2occc2c(OC)c2c(=O)cc(C)oc12	Eugster_et_al_2015	9.56	 Organoheterocyclic compounds	 Benzopyrans
+PQTBTIFWAXVEPB	CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c(Cl)c1	Eawag_XBridgeC18	6.8	 Organic oxygen compounds	 Organooxygen compounds
+IANUJLZYFUDJIH	CC(C)N(C(=O)COc1nnc(C(F)(F)F)s1)c1ccc(F)cc1	Eawag_XBridgeC18	11.7	 Benzenoids	 Benzene and substituted derivatives
+KPUREKXXPHOJQT	CS(=O)(=O)c1ccc(C(=O)C2C(=O)CCCC2=O)c([N+](=O)[O-])c1	Eawag_XBridgeC18	6.2	 Organic oxygen compounds	 Organooxygen compounds
+XEAQIWGXBXCYFX	COC1=CC(=O)OC(C=Cc2ccccc2)C1	Eugster_et_al_2015	12.66	 Phenylpropanoids and polyketides	 Kavalactones
+CMWTZPSULFXXJA	COc1ccc2cc(C(C)C(=O)O)ccc2c1	Eawag_XBridgeC18	10.2	 Benzenoids	 Naphthalenes
+XIWXUSFCUBAMFH	COc1cc(C=CC(=O)OC(C(=O)O)C(O)C(=O)O)ccc1O	FEM_long	19.5	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+HAORKNGNJCEJBX	Cc1cc(C2CC2)nc(Nc2ccccc2)n1	Eawag_XBridgeC18	9.4	 Benzenoids	 Benzene and substituted derivatives
+PHMHHVKFXZNTKU	Cc1cccc(C)c1N(Cn1cccn1)C(=O)C(=O)O	Eawag_XBridgeC18	5.5	 Organic acids and derivatives	 Carboxylic acids and derivatives
+RSMUVYRMZCOLBH	COC(=O)c1ccccc1S(=O)(=O)N=C(O)N=c1nc(C)nc(OC)[nH]1	Eawag_XBridgeC18	7.1	 Benzenoids	 Benzene and substituted derivatives
+KUYNOZVWCFXSNE	O=C(O)C1OC(Oc2c[nH]c3ccccc23)C(O)C(O)C1O	LIFE_new	2.9454	 Organic oxygen compounds	 Organooxygen compounds
+KUYNOZVWCFXSNE	O=C(O)C1OC(Oc2c[nH]c3ccccc23)C(O)C(O)C1O	LIFE_old	1.7035666666999998	 Organic oxygen compounds	 Organooxygen compounds
+LJKAKWDUZRJNPJ	CC(O)=Nc1ccc(S(=O)(=O)Nc2nc(C)cc(C)n2)cc1	Eawag_XBridgeC18	4.5	 Benzenoids	 Benzene and substituted derivatives
+DQWIIKBKAIPUPY	COc1cc(OC)nc(NS(=O)(=O)c2ccc(N=C(C)O)cc2)n1	Eawag_XBridgeC18	6.3	 Benzenoids	 Benzene and substituted derivatives
+YWJXCIXBAKGUKZ	COc1c(O)cc2c(c1O)C1OC(CO)C(O)C(O)C1OC2=O	UniToyama_Atlantis	6.930783	 Benzenoids	 Benzene and substituted derivatives
+IPVCSECPEVHQOV	Cc1cccc(C)c1N(Cn1cccn1)C(=O)CS(=O)(=O)O	Eawag_XBridgeC18	5.5	 Benzenoids	 Benzene and substituted derivatives
+MEFOUWRMVYJCQC	CCS(=O)(=O)c1cccnc1S(=O)(=O)NC(O)=Nc1nc(OC)cc(OC)n1	Eawag_XBridgeC18	7.9	 Organoheterocyclic compounds	 Pyridines and derivatives
+XVARCVCWNFACQC	OCC1OC(Oc2c[nH]c3ccccc23)C(O)C(O)C1O	LIFE_new	2.9234666667	 Organic oxygen compounds	 Organooxygen compounds
+XVARCVCWNFACQC	OCC1OC(Oc2c[nH]c3ccccc23)C(O)C(O)C1O	LIFE_old	1.69675	 Organic oxygen compounds	 Organooxygen compounds
+OQQPOHUVAQPSHJ	CC(C)C1N=C(O)C(Cc2ccccc2)N=C1O	LIFE_old	2.3876666667	 Organic acids and derivatives	 Carboxylic acids and derivatives
+IAOZJIPTCAWIRG	COC(=O)C(Cc1ccccc1)N=C(O)C(N)CC(=O)O	Eawag_XBridgeC18	4.8	 Organic acids and derivatives	 Carboxylic acids and derivatives
+IEDVJHCEMCRBQM	COc1cc(Cc2c[nH]c(=N)[nH]c2=N)cc(OC)c1OC	Eawag_XBridgeC18	3.8	 Benzenoids	 Phenol ethers
+OFBHPPMPBOJXRT	O=C(O)CC(Nc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O)C(=O)O	FEM_long	12.715	 Nucleosides, nucleotides, and analogues	 Purine nucleotides
+GLEVLJDDWXEYCO	Cc1c(C)c2c(c(C)c1O)CCC(C)(C(=O)O)O2	Eugster_et_al_2015	10.68	 Organoheterocyclic compounds	 Benzopyrans
+SOECUQMRSRVZQQ	COC1=C(OC)C(=O)C(CC=C(C)C)=C(C)C1=O	LIFE_new	4.4743333333	 Lipids and lipid-like molecules	 Prenol lipids
+SOECUQMRSRVZQQ	COC1=C(OC)C(=O)C(CC=C(C)C)=C(C)C1=O	LIFE_old	3.9242	 Lipids and lipid-like molecules	 Prenol lipids
+DVBDYPDVNRJKNJ	CCc1cccc(C)c1N1C(=O)COCC1C	Eawag_XBridgeC18	8.2	 Organoheterocyclic compounds	 Oxazinanes
+MHCYOELBTPOBIU	CCc1cccc(CC)c1N(COC)C(=O)C(=O)O	Eawag_XBridgeC18	7.4	 Organic acids and derivatives	 Carboxylic acids and derivatives
+OTKTUNJJKYTOFF	CCOCN(C(=O)C(=O)O)c1c(C)cccc1CC	Eawag_XBridgeC18	7.5	 Organic acids and derivatives	 Carboxylic acids and derivatives
+XCSGPAVHZFQHGE	CCc1cccc(CC)c1N(COC)C(=O)CCl	Eawag_XBridgeC18	11.7	 Benzenoids	 Benzene and substituted derivatives
+VTNQPKFIQCLBDU	CCOCN(C(=O)CCl)c1c(C)cccc1CC	Eawag_XBridgeC18	11.7	 Benzenoids	 Benzene and substituted derivatives
+IEHDJWSAXBGJIP	CC(C)C(N=C(O)C(N)Cc1ccccc1)C(=O)O	LIFE_old	1.62985	 Organic acids and derivatives	 Carboxylic acids and derivatives
+GJNDXQBALKCYSZ	CC(C)C(N)C(O)=NC(Cc1ccccc1)C(=O)O	LIFE_old	1.7005333333000001	 Organic acids and derivatives	 Carboxylic acids and derivatives
+PUQIRTNPJRFRCZ	CC(C)NCC(O)COc1ccc(CC(=O)O)cc1	Eawag_XBridgeC18	3.8	 Benzenoids	 Phenol ethers
+UTCJUUGCHWHUNI	CCc1cccc(CC)c1N(COC)C(=O)CS(=O)(=O)O	Eawag_XBridgeC18	7.7	 Benzenoids	 Benzene and substituted derivatives
+HXAIQOCRALNGKB	CCOCN(C(=O)CS(=O)(=O)O)c1c(C)cccc1CC	Eawag_XBridgeC18	7.7	 Benzenoids	 Benzene and substituted derivatives
+NQLVQOSNDJXLKG	CCCN(CCC)C(=O)SCc1ccccc1	Eawag_XBridgeC18	14.4	 Benzenoids	 Benzene and substituted derivatives
+TTWJBBZEZQICBI	CCN(CC)CCN=C(O)c1cc(Cl)c(N)cc1OC	Eawag_XBridgeC18	4.3	 Benzenoids	 Phenol ethers
+NENPYTRHICXVCS	CCC(CC)OC1C=C(C(=O)O)CC(N)C1N=C(C)O	Eawag_XBridgeC18	5.1	 Organic acids and derivatives	 Carboxylic acids and derivatives
+ASFORWUCPCKFPY	CCCCCCCC(=O)OC1OC(C(=O)O)C(O)C(O)C1O	LIFE_new	3.9209666667	 Organic oxygen compounds	 Organooxygen compounds
+HEGSGKPQLMEBJL	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	Boudah_et_al_2014_C18	9.7	 Lipids and lipid-like molecules	 Fatty Acyls
+HEGSGKPQLMEBJL	CCCCCCCCOC1OC(CO)C(O)C(O)C1O	FEM_long	37.6	 Lipids and lipid-like molecules	 Fatty Acyls
+CJDWRQLODFKPEL	OC(=Nc1cc(Cl)c(F)c(Cl)c1F)N=C(O)c1c(F)cccc1F	Eawag_XBridgeC18	16.1	 Benzenoids	 Benzene and substituted derivatives
+AFSDNFLWKVMVRB	O=c1oc2c(O)c(O)cc3c(=O)oc4c(O)c(O)cc1c4c23	Eugster_et_al_2015	5.15	 Phenylpropanoids and polyketides	 Tannins
+AFSDNFLWKVMVRB	O=c1oc2c(O)c(O)cc3c(=O)oc4c(O)c(O)cc1c4c23	FEM_long	30.2	 Phenylpropanoids and polyketides	 Tannins
+RZVHIXYEVGDQDX	O=C1c2ccccc2C(=O)c2ccccc21	Eugster_et_al_2015	14.62	 Benzenoids	 Anthracenes
+BTLXPCBPYBNQNR	O=C1c2ccccc2C(=O)c2c(O)cccc21	Eugster_et_al_2015	15.91	 Benzenoids	 Anthracenes
+RGCKGOZRHPZPFP	O=C1c2ccccc2C(=O)c2c1ccc(O)c2O	Eugster_et_al_2015	11.82	 Benzenoids	 Anthracenes
+APAJFZPFBHMFQR	O=C1c2ccc(O)cc2C(=O)c2ccc(O)cc21	Eugster_et_al_2015	8.68	 Benzenoids	 Anthracenes
+JPICKYUTICNNNJ	O=C1c2cccc(O)c2C(=O)c2cccc(O)c21	Eugster_et_al_2015	13.24	 Benzenoids	 Anthracenes
+VHBFFQKBGNRLFZ	O=c1cc(-c2ccccc2)oc2ccccc12	Eugster_et_al_2015	13.82	 Phenylpropanoids and polyketides	 Flavonoids
+IRZTUXPRIUZXMP	Cc1c(O)cc2c(c1O)C(=O)c1ccccc1C2=O	Eugster_et_al_2015	16.64	 Benzenoids	 Anthracenes
+LQGUBLBATBMXHT	Cc1cc(O)c2c(c1)C(=O)c1cccc(O)c1C2=O	Eugster_et_al_2015	18.11	 Benzenoids	 Anthracenes
+ZQSIJRDFPHDXIC	O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12	Eugster_et_al_2015	7.94	 Phenylpropanoids and polyketides	 Isoflavonoids
+ZQSIJRDFPHDXIC	O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12	FEM_long	32.5	 Phenylpropanoids and polyketides	 Isoflavonoids
+ZQSIJRDFPHDXIC	O=c1c(-c2ccc(O)cc2)coc2cc(O)ccc12	RIKEN	1.57	 Phenylpropanoids and polyketides	 Isoflavonoids
+RTIXKCRFFJGDFG	O=c1cc(-c2ccccc2)oc2cc(O)cc(O)c12	Eugster_et_al_2015	13.11	 Phenylpropanoids and polyketides	 Flavonoids
+RTIXKCRFFJGDFG	O=c1cc(-c2ccccc2)oc2cc(O)cc(O)c12	FEM_long	40.88	 Phenylpropanoids and polyketides	 Flavonoids
+RHMXXJGYXNZAPX	Cc1cc(O)c2c(c1)C(=O)c1cc(O)cc(O)c1C2=O	Eugster_et_al_2015	15.8	 Benzenoids	 Anthracenes
+RHMXXJGYXNZAPX	Cc1cc(O)c2c(c1)C(=O)c1cc(O)cc(O)c1C2=O	FEM_long	46.405	 Benzenoids	 Anthracenes
+AMIDUPFSOUCLQB	O=C1c2ccccc2C(=O)c2c1cc(O)c(CO)c2O	Eugster_et_al_2015	11.07	 Benzenoids	 Anthracenes
+YDQWDHRMZQUTBA	O=C1c2cccc(O)c2C(=O)c2c(O)cc(CO)cc21	Eugster_et_al_2015	12.1	 Benzenoids	 Anthracenes
+TZBJGXHYKVUXJN	O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12	Eugster_et_al_2015	9.64	 Phenylpropanoids and polyketides	 Isoflavonoids
+TZBJGXHYKVUXJN	O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12	FEM_long	35.1	 Phenylpropanoids and polyketides	 Isoflavonoids
+TZBJGXHYKVUXJN	O=c1c(-c2ccc(O)cc2)coc2cc(O)cc(O)c12	UniToyama_Atlantis	16.343332999999998	 Phenylpropanoids and polyketides	 Isoflavonoids
+KZNIFHPLKGYRTM	O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	Eugster_et_al_2015	9.75	 Phenylpropanoids and polyketides	 Flavonoids
+KZNIFHPLKGYRTM	O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	FEM_long	37.1	 Phenylpropanoids and polyketides	 Flavonoids
+KZNIFHPLKGYRTM	O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	UniToyama_Atlantis	16.401667	 Phenylpropanoids and polyketides	 Flavonoids
+VCCRNZQBSJXYJD	O=c1c(O)c(-c2ccccc2)oc2cc(O)cc(O)c12	FEM_long	41.38	 Phenylpropanoids and polyketides	 Flavonoids
+FXNFHKRTJBSTCS	O=c1cc(-c2ccccc2)oc2cc(O)c(O)c(O)c12	FEM_long	36.65	 Phenylpropanoids and polyketides	 Flavonoids
+FXNFHKRTJBSTCS	O=c1cc(-c2ccccc2)oc2cc(O)c(O)c(O)c12	UniToyama_Atlantis	16.365	 Phenylpropanoids and polyketides	 Flavonoids
+XHEFDIBZLJXQHF	O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)ccc12	Eugster_et_al_2015	6.94	 Phenylpropanoids and polyketides	 Flavonoids
+IYRMWMYZSQPJKC	O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	Boudah_et_al_2014_C18	9.62	 Phenylpropanoids and polyketides	 Flavonoids
+IYRMWMYZSQPJKC	O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	Eugster_et_al_2015	9.94	 Phenylpropanoids and polyketides	 Flavonoids
+IYRMWMYZSQPJKC	O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	LIFE_new	3.8827666667000003	 Phenylpropanoids and polyketides	 Flavonoids
+IYRMWMYZSQPJKC	O=c1c(O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	UniToyama_Atlantis	16.655783	 Phenylpropanoids and polyketides	 Flavonoids
+VEVZSMAEJFVWIL	[O-]c1cc2c(O)cc(O)cc2[o+]c1-c1ccc(O)c(O)c1	FEM_long	28.9	 Phenylpropanoids and polyketides	 Flavonoids
+IQPNAANSBPBGFQ	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	Eugster_et_al_2015	8.44	 Phenylpropanoids and polyketides	 Flavonoids
+IQPNAANSBPBGFQ	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	FEM_long	34.69	 Phenylpropanoids and polyketides	 Flavonoids
+IQPNAANSBPBGFQ	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	LIFE_new	3.745875	 Phenylpropanoids and polyketides	 Flavonoids
+IQPNAANSBPBGFQ	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	UniToyama_Atlantis	14.685	 Phenylpropanoids and polyketides	 Flavonoids
+YXOLAZRVSSWPPT	O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12	Eugster_et_al_2015	7.56	 Phenylpropanoids and polyketides	 Flavonoids
+YXOLAZRVSSWPPT	O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12	FEM_long	31.915	 Phenylpropanoids and polyketides	 Flavonoids
+YXOLAZRVSSWPPT	O=c1c(O)c(-c2ccc(O)cc2O)oc2cc(O)cc(O)c12	UniToyama_Atlantis	10.155783	 Phenylpropanoids and polyketides	 Flavonoids
+JKHRCGUTYDNCLE	[O-]c1c(O)cc(-c2[o+]c3cc(O)cc(O)c3cc2O)cc1O	FEM_long	27.1	 Phenylpropanoids and polyketides	 Flavonoids
+REFJWTPEDVJJIY	O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	Eugster_et_al_2015	8.43	 Phenylpropanoids and polyketides	 Flavonoids
+REFJWTPEDVJJIY	O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	FEM_long	33.98	 Phenylpropanoids and polyketides	 Flavonoids
+REFJWTPEDVJJIY	O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	LIFE_new	3.7395166667	 Phenylpropanoids and polyketides	 Flavonoids
+REFJWTPEDVJJIY	O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	UniToyama_Atlantis	14.618332999999998	 Phenylpropanoids and polyketides	 Flavonoids
+IKMDFBPHZNJCSN	O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12	Eugster_et_al_2015	6.79	 Phenylpropanoids and polyketides	 Flavonoids
+IKMDFBPHZNJCSN	O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12	FEM_long	30.89	 Phenylpropanoids and polyketides	 Flavonoids
+IKMDFBPHZNJCSN	O=c1c(O)c(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12	UniToyama_Atlantis	12.835	 Phenylpropanoids and polyketides	 Flavonoids
+ADIMAYPTOBDMTL	OC1=Nc2ccc(Cl)cc2C(c2ccccc2)=NC1O	Eawag_XBridgeC18	9	 Organoheterocyclic compounds	 Benzodiazepines
+YUVKUEAFAVKILW	CC(Oc1ccc(Oc2ccc(C(F)(F)F)cn2)cc1)C(=O)O	Eawag_XBridgeC18	10.9	 Benzenoids	 Benzene and substituted derivatives
+ZRWWEEVEIOGMMT	N=C(O)N1c2ccccc2C2OC2c2ccccc21	Eawag_XBridgeC18	6.3	 Organoheterocyclic compounds	 Benzazepines
+DQFBYFPFKXHELB	O=C(C=Cc1ccccc1)c1ccccc1	Eugster_et_al_2015	16.85	 Phenylpropanoids and polyketides	 Linear 1,3-diarylpropanoids
+ZONYXWQDUYMKFB	O=C1CC(c2ccccc2)Oc2ccccc21	Eugster_et_al_2015	15.6	 Phenylpropanoids and polyketides	 Flavonoids
+DGKDFNDHPXVXHW	O=C1OC(c2ccc(O)cc2)Cc2cccc(O)c21	UniToyama_Atlantis	19.32245	 Organoheterocyclic compounds	 Benzopyrans
+AYMYWHCQALZEGT	O=C(C=Cc1ccc(O)c(O)c1)c1ccc(O)cc1O	Eugster_et_al_2015	9.54	 Phenylpropanoids and polyketides	 Linear 1,3-diarylpropanoids
+FTVWIRXFELQLPI	O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21	Boudah_et_al_2014_C18	9.72	 Phenylpropanoids and polyketides	 Flavonoids
+FTVWIRXFELQLPI	O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21	Eugster_et_al_2015	9.59	 Phenylpropanoids and polyketides	 Flavonoids
+FTVWIRXFELQLPI	O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21	FEM_long	33.75	 Phenylpropanoids and polyketides	 Flavonoids
+FTVWIRXFELQLPI	O=C1CC(c2ccc(O)cc2)Oc2cc(O)cc(O)c21	RIKEN	1.67	 Phenylpropanoids and polyketides	 Flavonoids
+FNUPUYFWZXZMIE	O=C1c2ccc(O)cc2OC(c2ccc(O)c(O)c2)C1O	UniToyama_Atlantis	10.580783	 Phenylpropanoids and polyketides	 Flavonoids
+PADQINQHPQKXNL	O=C1c2c(O)cc(O)cc2OC(c2ccc(O)cc2)C1O	FEM_long	27.82	 Phenylpropanoids and polyketides	 Flavonoids
+SBHXYTNGIZCORC	O=C1CC(c2ccc(O)c(O)c2)Oc2cc(O)cc(O)c21	FEM_long	31.015	 Phenylpropanoids and polyketides	 Flavonoids
+SBHXYTNGIZCORC	O=C1CC(c2ccc(O)c(O)c2)Oc2cc(O)cc(O)c21	RIKEN	1.59	 Phenylpropanoids and polyketides	 Flavonoids
+CRBYNQCDRNZCNX	O=C(C=Cc1ccc(O)c(O)c1)c1c(O)cc(O)cc1O	Eugster_et_al_2015	8.26	 Phenylpropanoids and polyketides	 Linear 1,3-diarylpropanoids
+CXQWRCVTCMQVQX	O=C1c2c(O)cc(O)cc2OC(c2ccc(O)c(O)c2)C1O	Eugster_et_al_2015	5.58	 Phenylpropanoids and polyketides	 Flavonoids
+DCASRSISIKYPDD	O=C(O)C(c1ccccc1Cl)N1CCc2sccc2C1	Eawag_XBridgeC18	5.7	 Organic acids and derivatives	 Carboxylic acids and derivatives
+PRGQOPPDPVELEG	N=C(O)N1c2ccccc2C(O)C(O)c2ccccc21	Eawag_XBridgeC18	6.1	 Organoheterocyclic compounds	 Benzazepines
+VGEREEWJJVICBM	O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1O	Eugster_et_al_2015	9.88	 Phenylpropanoids and polyketides	 Linear 1,3-diarylpropanoids
+VGEREEWJJVICBM	O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1O	UniToyama_Atlantis	16.235	 Phenylpropanoids and polyketides	 Linear 1,3-diarylpropanoids
+RSYUFYQTACJFML	Oc1ccc(C2Oc3cc(O)cc(O)c3CC2O)cc1	FEM_long	24.37	 Phenylpropanoids and polyketides	 Flavonoids
+PFTAWBLQPZVEMU	Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2	Boudah_et_al_2014_C18	5.57	 Phenylpropanoids and polyketides	 Flavonoids
+PFTAWBLQPZVEMU	Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2	FEM_long	20.465	 Phenylpropanoids and polyketides	 Flavonoids
+XMOCLSLCDHWDHP	Oc1cc(O)c2c(c1)OC(c1cc(O)c(O)c(O)c1)C(O)C2	Eugster_et_al_2015	2.7	 Phenylpropanoids and polyketides	 Flavonoids
+XMOCLSLCDHWDHP	Oc1cc(O)c2c(c1)OC(c1cc(O)c(O)c(O)c1)C(O)C2	FEM_long	16.505	 Phenylpropanoids and polyketides	 Flavonoids
+HYYBABOKPJLUIN	Cc1cccc(Nc2ccccc2C(=O)O)c1C	Eawag_XBridgeC18	14.5	 Benzenoids	 Benzene and substituted derivatives
+BDNWJTRKUBXAGH	O=C(OC1OC(C(=O)O)C(O)C(O)C1O)c1c[nH]c2ccccc12	LIFE_new	3.4209416667	 Organic oxygen compounds	 Organooxygen compounds
+IISBACLAFKSPIT	CC(C)(c1ccc(O)cc1)c1ccc(O)cc1	Eawag_XBridgeC18	14	 Benzenoids	 Benzene and substituted derivatives
+LWCKQMHMTSRRAA	CC1=CCCC2=CC(OC2=O)c2c(C)coc2C1	Eugster_et_al_2015	13.73	 Organoheterocyclic compounds	 Dihydrofurans
+KBMSVODXFLAQNJ	CC1=CCCC23OC2C(OC3=O)c2c(C)coc2C1	Eugster_et_al_2015	14.73	 Organoheterocyclic compounds	 Dioxanes
+XHCADAYNFIFUHF	O=c1ccc2cc(OC3OC(CO)C(O)C(O)C3O)c(O)cc2o1	Boudah_et_al_2014_C18	4.99	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+XHCADAYNFIFUHF	O=c1ccc2cc(OC3OC(CO)C(O)C(O)C3O)c(O)cc2o1	Eugster_et_al_2015	2.61	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+XHCADAYNFIFUHF	O=c1ccc2cc(OC3OC(CO)C(O)C(O)C3O)c(O)cc2o1	FEM_long	17.8	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+STJLVHWMYQXCPB	CCCC1COC(Cn2cncn2)(c2ccc(Cl)cc2Cl)O1	Eawag_XBridgeC18	13.1	 Benzenoids	 Benzene and substituted derivatives
+OWEGWHBOCFMBLP	CC(C)(C)C(=O)C(Oc1ccc(Cl)cc1)n1ccnc1	Eawag_XBridgeC18	8.1	 Benzenoids	 Phenol ethers
+HZJKXKUJVSEEFU	CCCCC(C#N)(Cn1cncn1)c1ccc(Cl)cc1	Eawag_XBridgeC18	11.2	 Benzenoids	 Benzene and substituted derivatives
+FWKQNCXZGNBPFD	Cc1ccc(C(C)C)cc2c(C)ccc1-2	Eugster_et_al_2015	23.28	 Lipids and lipid-like molecules	 Prenol lipids
+UFNOUKDBUJZYDE	CC(C1CC1)C(O)(Cn1cncn1)c1ccc(Cl)cc1	Eawag_XBridgeC18	11.5	 Benzenoids	 Benzene and substituted derivatives
+RTCOGUMHFFWOJV	COc1cc(OC)nc(N=C(O)NS(=O)(=O)c2ncccc2C(=O)N(C)C)n1	Eawag_XBridgeC18	7.1	 Organoheterocyclic compounds	 Pyridines and derivatives
+NETSQGRTUNRXEO	C=C1C(=O)OC2C1CCC(=C)C1CCC(=C)C12	Eugster_et_al_2015	16.91	 Lipids and lipid-like molecules	 Prenol lipids
+ZVLOPMNVFLSSAA	C=C1C(=O)OC2CC(C)C3C=CC(=O)C3(C)C(O)C12	Eugster_et_al_2015	7.57	 Lipids and lipid-like molecules	 Prenol lipids
+NUPJIGQFXCQJBK	COCc1cnc(C2=NC(=O)C(C)(C(C)C)N2)c(C(=O)O)c1	Eawag_XBridgeC18	5.7	 Organic acids and derivatives	 Carboxylic acids and derivatives
+HRYLQFBHBWLLLL	C=C1C(=O)OC2C=C(C)CCC=C(C)CCC12	Eugster_et_al_2015	16.49	 Lipids and lipid-like molecules	 Prenol lipids
+PLSSEPIRACGCBO	C=C1C(=O)OC2C1CCC1(C)C(O)CC=C(C)C21	Eugster_et_al_2015	8.34	 Lipids and lipid-like molecules	 Prenol lipids
+JLIDBLDQVAYHNE	CC(C=CC1(O)C(C)=CC(=O)CC1(C)C)=CC(=O)O	FEM_long	31.3	 Lipids and lipid-like molecules	 Prenol lipids
+GEVWHIDSUOMVRI	CC1CC(O)C2(O)C13CC(OC(=O)C3O)C(C)(O)C21COC1=O	Eugster_et_al_2015	4.11	 Lipids and lipid-like molecules	 Prenol lipids
+GOSWTRUMMSCNCW	CC(=CCNc1ncnc2c1ncn2C1OC(CO)C(O)C1O)CO	RIKEN	1.16	 Nucleosides, nucleotides, and analogues	 Purine nucleosides
+ZQEIXNIJLIKNTD	COCC(=O)N(c1c(C)cccc1C)C(C)C(=O)OC	Eawag_XBridgeC18	8.7	 Organic acids and derivatives	 Carboxylic acids and derivatives
+LNOOSYCKMKZOJB	CCc1cccc(C)c1N(C(=O)C(=O)O)C(C)COC	Eawag_XBridgeC18	9.3	 Organic acids and derivatives	 Carboxylic acids and derivatives
+FEBNTWHYQKGEIQ	CC(=CC1CCC(C)C2CCC(C)=C12)C(=O)O	Eugster_et_al_2015	19.52	 Lipids and lipid-like molecules	 Prenol lipids
+RJKCKKDSSSRYCB	CC(C)N(Cc1ccccc1)C(=O)C(C)(C)C	Eawag_XBridgeC18	11.7	 Benzenoids	 Benzene and substituted derivatives
+MMSWXJSQCAEDLK	CNCC(c1ccc(O)cc1)C1(O)CCCCC1	Eawag_XBridgeC18	4.9	 Organic oxygen compounds	 Organooxygen compounds
+SUQHIQRIIBKNOR	COc1ccc(C(CN)C2(O)CCCCC2)cc1	Eawag_XBridgeC18	6.3	 Benzenoids	 Phenol ethers
+FQTLCLSUCSAZDY	C=CC(C)(O)CCC=C(C)CCC=C(C)C	RIKEN	1.81	 Lipids and lipid-like molecules	 Prenol lipids
+BACYUWVYYTXETD	CCCCCCCCCCCC(=O)N(C)CC(=O)O	LIFE_new	4.5996333333	 Organic acids and derivatives	 Carboxylic acids and derivatives
+BACYUWVYYTXETD	CCCCCCCCCCCC(=O)N(C)CC(=O)O	LIFE_old	4.27295	 Organic acids and derivatives	 Carboxylic acids and derivatives
+ZAZKJZBWRNNLDS	CCCCCCCCCCCCCC(=O)OC	FEM_long	54.425	 Lipids and lipid-like molecules	 Fatty Acyls
+ZZIALNLLNHEQPJ	O=c1oc2cc(O)ccc2c2oc3cc(O)ccc3c12	Eugster_et_al_2015	9.8	 Phenylpropanoids and polyketides	 Isoflavonoids
+FCDLCPWAQCPTKC	O=C(O)c1cc(O)c2c(c1)C(=O)c1cccc(O)c1C2=O	Eugster_et_al_2015	12.82	 Benzenoids	 Anthracenes
+XZQLSABETMKIGG	COc1ccc2oc(-c3ccccc3)cc(=O)c2c1	FEM_long	42.9	 Phenylpropanoids and polyketides	 Flavonoids
+HKQYGTCOTHHOMP	COc1ccc(-c2coc3cc(O)ccc3c2=O)cc1	Eugster_et_al_2015	11.54	 Phenylpropanoids and polyketides	 Isoflavonoids
+NTBUBTCXACOEEC	COc1c(C)c(O)cc2c1C(=O)c1ccccc1C2=O	Eugster_et_al_2015	12.72	 Benzenoids	 Anthracenes
+DANYIYRPLHHOCZ	COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1	Eugster_et_al_2015	13.2	 Phenylpropanoids and polyketides	 Flavonoids
+XLTFNNCXVBYBSX	COc1c(O)cc(O)c2c(=O)cc(-c3ccccc3)oc12	Eugster_et_al_2015	12.99	 Phenylpropanoids and polyketides	 Flavonoids
+XLTFNNCXVBYBSX	COc1c(O)cc(O)c2c(=O)cc(-c3ccccc3)oc12	UniToyama_Atlantis	19.43165	 Phenylpropanoids and polyketides	 Flavonoids
+FFWOKTFYGVYKIR	COc1cc(O)c2c(c1)C(=O)c1cc(C)cc(O)c1C2=O	Eugster_et_al_2015	19.53	 Benzenoids	 Anthracenes
+MBNGWHIJMBWFHU	COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1O	Eugster_et_al_2015	10.18	 Phenylpropanoids and polyketides	 Flavonoids
+MBNGWHIJMBWFHU	COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1O	UniToyama_Atlantis	15.526667000000002	 Phenylpropanoids and polyketides	 Flavonoids
+SCZVLDHREVKTSH	COc1cc(-c2cc(=O)c3c(O)cc(O)cc3o2)ccc1O	Eugster_et_al_2015	10.06	 Phenylpropanoids and polyketides	 Flavonoids
+SCZVLDHREVKTSH	COc1cc(-c2cc(=O)c3c(O)cc(O)cc3o2)ccc1O	UniToyama_Atlantis	16.701667	 Phenylpropanoids and polyketides	 Flavonoids
+IZQSVPBOUDKVDZ	COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)ccc1O	Eugster_et_al_2015	10.26	 Phenylpropanoids and polyketides	 Flavonoids
+IZQSVPBOUDKVDZ	COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)ccc1O	FEM_long	37.1	 Phenylpropanoids and polyketides	 Flavonoids
+IZQSVPBOUDKVDZ	COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)ccc1O	RIKEN	1.7	 Phenylpropanoids and polyketides	 Flavonoids
+IZQSVPBOUDKVDZ	COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)ccc1O	UniToyama_Atlantis	17.035	 Phenylpropanoids and polyketides	 Flavonoids
+AFOLOMGWVXKIQL	COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2O)cc(O)c1[O-]	FEM_long	29.7	 Phenylpropanoids and polyketides	 Flavonoids
+JGUZGNYPMHHYRK	COc1cc(O)c2c(=O)c(O)c(-c3ccc(O)c(O)c3)oc2c1	Eugster_et_al_2015	11.88	 Phenylpropanoids and polyketides	 Flavonoids
+JGUZGNYPMHHYRK	COc1cc(O)c2c(=O)c(O)c(-c3ccc(O)c(O)c3)oc2c1	FEM_long	38.9	 Phenylpropanoids and polyketides	 Flavonoids
+CFYMYCCYMJIYAB	COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)cc(O)c1O	FEM_long	34.685	 Phenylpropanoids and polyketides	 Flavonoids
+AAOVKJBEBIDNHE	CN1C(=O)CN=C(c2ccccc2)c2cc(Cl)ccc21	Eawag_XBridgeC18	10.1	 Organoheterocyclic compounds	 Benzodiazepines
+IGWDEVSBEKYORK	CC(C)=CCOc1c2ccoc2cc2oc(=O)ccc12	Eugster_et_al_2015	16.85	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+OLOOJGVNMBJLLR	CC(C)=CCOc1c2occc2cc2ccc(=O)oc12	Eugster_et_al_2015	15.42	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+CTJZWFCPUDPLME	CC1(C)OC1COc1c2occc2cc2ccc(=O)oc12	Eugster_et_al_2015	11.77	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+QTAGQHZOLRFCBU	CC1(C)OC1COc1c2ccoc2cc2oc(=O)ccc12	Eugster_et_al_2015	12.8	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+DJOJDHGQRNZXQQ	COc1cc(O)c2c(c1)OC(c1ccc(O)cc1)CC2=O	Eugster_et_al_2015	13.25	 Phenylpropanoids and polyketides	 Flavonoids
+DJOJDHGQRNZXQQ	COc1cc(O)c2c(c1)OC(c1ccc(O)cc1)CC2=O	FEM_long	38.985	 Phenylpropanoids and polyketides	 Flavonoids
+DJOJDHGQRNZXQQ	COc1cc(O)c2c(c1)OC(c1ccc(O)cc1)CC2=O	UniToyama_Atlantis	20.526667	 Phenylpropanoids and polyketides	 Flavonoids
+AIONOLUJZLIMTK	COc1ccc(C2CC(=O)c3c(O)cc(O)cc3O2)cc1O	Eugster_et_al_2015	10.28	 Phenylpropanoids and polyketides	 Flavonoids
+AIONOLUJZLIMTK	COc1ccc(C2CC(=O)c3c(O)cc(O)cc3O2)cc1O	FEM_long	34.78	 Phenylpropanoids and polyketides	 Flavonoids
+IQPSEEYGBUAQFF	COc1ccnc(CS(=O)c2nc3ccc(OC(F)F)cc3[nH]2)c1OC	Eawag_XBridgeC18	6.6	 Organoheterocyclic compounds	 Benzimidazoles
+FQKUGOMFVDPBIZ	C[Si](Cn1cncn1)(c1ccc(F)cc1)c1ccc(F)cc1	Eawag_XBridgeC18	12.4	 Benzenoids	 Benzene and substituted derivatives
+MFFMDFFZMYYVKS	NC(CC(=O)N1CCn2c(nnc2C(F)(F)F)C1)Cc1cc(F)c(F)cc1F	Eawag_XBridgeC18	5.2	 Organic acids and derivatives	 Carboxylic acids and derivatives
+IDOWTHOLJBTAFI	COC(O)=Nc1cccc(OC(O)=Nc2cccc(C)c2)c1	Eawag_XBridgeC18	9.5	 Benzenoids	 Benzene and substituted derivatives
+WZJZMXBKUWKXTQ	CCOC(O)=Nc1cccc(OC(O)=Nc2ccccc2)c1	Eawag_XBridgeC18	9.2	 Benzenoids	 Benzene and substituted derivatives
+VLEUZFDZJKSGMX	COc1cc(C=Cc2ccc(O)cc2)cc(OC)c1	FEM_long	41.38	 Phenylpropanoids and polyketides	 Stilbenes
+PEWFWDOPJISUOK	CC(C)(O)C(O)COc1c2ccoc2cc2oc(=O)ccc12	Eugster_et_al_2015	8.56	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+BPTLUNCVRGWZSW	O=C(Cc1c[nH]c2ccccc12)OC1OC(C(=O)O)C(O)C(O)C1O	LIFE_new	3.4614833333	 Organic oxygen compounds	 Organooxygen compounds
+OGJPXUAPXNRGGI	CCn1cc(C(=O)O)c(=O)c2cc(F)c(N3CCNCC3)cc21	Eawag_XBridgeC18	4.4	 Organoheterocyclic compounds	 Quinolines and derivatives
+CRSFLLTWRCYNNX	COc1cc2ccc(=O)oc2c(OC2OC(CO)C(O)C(O)C2O)c1O	Eugster_et_al_2015	3.67	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+CRSFLLTWRCYNNX	COc1cc2ccc(=O)oc2c(OC2OC(CO)C(O)C(O)C2O)c1O	FEM_long	20.87	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+ATDBDSBKYKMRGZ	COc1c2c(cc3oc(CO)cc(=O)c13)OC(C(C)(C)O)C2	Eugster_et_al_2015	6.08	 Organoheterocyclic compounds	 Benzopyrans
+CWVRJTMFETXNAD	O=C(C=Cc1ccc(O)c(O)c1)OC1CC(O)(C(=O)O)CC(O)C1O	Eugster_et_al_2015	3.08	 Organic oxygen compounds	 Organooxygen compounds
+CWVRJTMFETXNAD	O=C(C=Cc1ccc(O)c(O)c1)OC1CC(O)(C(=O)O)CC(O)C1O	FEM_long	18	 Organic oxygen compounds	 Organooxygen compounds
+GYFFKZTYYAFCTR	O=C(C=Cc1ccc(O)c(O)c1)OC1C(O)CC(O)(C(=O)O)CC1O	FEM_long	20.1	 Organic oxygen compounds	 Organooxygen compounds
+GVGYEFKIHJTNQZ	CN1C2CCC1C(C(=O)O)C(OC(=O)c1ccccc1)C2	Eawag_XBridgeC18	4.6	 Benzenoids	 Benzene and substituted derivatives
+DUAGQYUORDTXOR	C=CC1C2=CCOC(=O)C2=COC1OC1OC(CO)C(O)C(O)C1O	Eugster_et_al_2015	4.08	 Organic oxygen compounds	 Organooxygen compounds
+AQHHHDLHHXJYJD	CC(C)NCC(O)COc1cccc2ccccc12	Eawag_XBridgeC18	6.6	 Benzenoids	 Naphthalenes
+PXMNMQRDXWABCY	CC(C)(C)C(O)(CCc1ccc(Cl)cc1)Cn1cncn1	Eawag_XBridgeC18	12.8	 Benzenoids	 Benzene and substituted derivatives
+CSWIKHNSBZVWNQ	CCOCCN(C(=O)CCl)C(=C(C)C)c1ccccc1	Eawag_XBridgeC18	11.5	 Benzenoids	 Benzene and substituted derivatives
+HEYZWPRKKUGDCR	C=CC1C(OC2OC(CO)C(O)C(O)C2O)OC=C2C(=O)OCCC21O	Eugster_et_al_2015	3.54	 Organic oxygen compounds	 Organooxygen compounds
+VSJGJMKGNMDJCI	C=CC1C(OC2OC(CO)C(O)C(O)C2O)OC=C2C(=O)OCCC21	Eugster_et_al_2015	4.2	 Organic oxygen compounds	 Organooxygen compounds
+KYYIDSXMWOZKMP	CN(C)CC(c1ccc(O)cc1)C1(O)CCCCC1	Eawag_XBridgeC18	4.8	 Organic oxygen compounds	 Organooxygen compounds
+MKAFOJAJJMUXLW	CNCC(c1ccc(OC)cc1)C1(O)CCCCC1	Eawag_XBridgeC18	6.3	 Benzenoids	 Phenol ethers
+DHSUYTOATWAVLW	CC1(C)CC1C(O)=NC(=CCCCCSCC(N)C(=O)O)C(=O)O	Eawag_XBridgeC18	5.2	 Organic acids and derivatives	 Carboxylic acids and derivatives
+VSZGPKBBMSAYNT	CCOC(=O)C1=CC(OC(CC)CC)C(N=C(C)O)C(N)C1	Eawag_XBridgeC18	7	 Organic acids and derivatives	 Carboxylic acids and derivatives
+RMMXLHZEVYNSJO	CC(C)=CCCC(C)=CCOC1OC(CO)C(O)C(O)C1O	FEM_long	36.7	 Lipids and lipid-like molecules	 Prenol lipids
+SECPZKHBENQXJG	CCCCCCC=CCCCCCCCC(=O)O	FEM_long	52.8	 Lipids and lipid-like molecules	 Fatty Acyls
+QQHJDPROMQRDLA	O=C(O)CCCCCCCCCCCCCCC(=O)O	Boudah_et_al_2014_C18	12.89	 Lipids and lipid-like molecules	 Fatty Acyls
+ZDIOUFADRAUXAU	CC(C)=CCCC(C)CCOC1(O)C(O)OC(CO)C(O)C1O	FEM_long	39.3	 Organic oxygen compounds	 Organooxygen compounds
+IPCSVZSSVZVIGE	CCCCCCCCCCCCCCCC(=O)O	FEM_long	54.42	 Lipids and lipid-like molecules	 Fatty Acyls
+MMKRHZKQPFCLLS	CCCCCCCCCCCCCC(=O)OCC	FEM_long	55.105	 Lipids and lipid-like molecules	 Fatty Acyls
+ZDYYWMSLMLTXDM	O=P(O)(OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	18.1	 Organic acids and derivatives	 Organic phosphoric acids and derivatives
+ZMYFCFLJBGAQRS	Fc1ccc(C2(Cn3cncn3)OC2c2ccccc2Cl)cc1	Eawag_XBridgeC18	11.7	 Phenylpropanoids and polyketides	 Stilbenes
+DQNLRFRBAWCJHQ	COc1ccc(-c2coc3cc(OC)cc(O)c3c2=O)cc1	FEM_long	44.8	 Phenylpropanoids and polyketides	 Isoflavonoids
+QMQAOYFHVBKQCG	COc1c(O)cc2oc(-c3ccccc3)cc(=O)c2c1OC	UniToyama_Atlantis	23.843332999999998	 Phenylpropanoids and polyketides	 Flavonoids
+KZMACGJDUUWFCH	COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2O)cc(OC)c1[O-]	RIKEN	2.15	 Phenylpropanoids and polyketides	 Flavonoids
+MYMGKIQXYXSRIJ	COc1cc(O)c2c(=O)c(O)c(-c3ccc(O)c(OC)c3)oc2c1	FEM_long	42.2	 Phenylpropanoids and polyketides	 Flavonoids
+UZMAPBJVXOGOFT	COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2O)cc(OC)c1O	FEM_long	37.4	 Phenylpropanoids and polyketides	 Flavonoids
+MQOBSOSZFYZQOK	CC(C)(Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1)C(=O)O	Eawag_XBridgeC18	12.6	 Benzenoids	 Benzene and substituted derivatives
+ORBITTMJKIGFNH	COc1c2ccoc2c(OCC2OC2(C)C)c2oc(=O)ccc12	Eugster_et_al_2015	12.74	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+MYSWGUAQZAJSOK	O=C(O)c1cn(C2CC2)c2cc(N3CCNCC3)c(F)cc2c1=O	Eawag_XBridgeC18	4.5	 Organoheterocyclic compounds	 Quinolines and derivatives
+PKRPFNXROFUNDE	COc1c2ccoc2c(OCC(O)C(C)(C)O)c2oc(=O)ccc12	Eugster_et_al_2015	8.94	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+MXXWOMGUGJBKIW	O=C(C=CC=Cc1ccc2c(c1)OCO2)N1CCCCC1	FEM_long	40.7	 Alkaloids and derivatives	
+HJUFTIJOISQSKQ	CCOC(O)=NCCOc1ccc(Oc2ccccc2)cc1	Eawag_XBridgeC18	12.6	 Benzenoids	 Benzene and substituted derivatives
+AUNGANRZJHBGPY	Cc1cc2nc3c(O)nc(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C	Boudah_et_al_2014_C18	6.03	 Organoheterocyclic compounds	 Pteridines and derivatives
+AUNGANRZJHBGPY	Cc1cc2nc3c(O)nc(=O)nc-3n(CC(O)C(O)C(O)CO)c2cc1C	FEM_long	23.9	 Organoheterocyclic compounds	 Pteridines and derivatives
+PXDNXJSDGQBLKS	COc1cc(OC)nc(N=C(O)NS(=O)(=O)c2cc(N=CO)ccc2C(=O)N(C)C)n1	Eawag_XBridgeC18	7.8	 Organic nitrogen compounds	 Organonitrogen compounds
+HPNSFSBZBAHARI	COc1c(C)c2c(c(O)c1CC=C(C)CCC(=O)O)C(=O)OC2	Eawag_XBridgeC18	9.9	 Organoheterocyclic compounds	 Isocoumarans
+FVTCRASFADXXNN	Cc1cc2nc3c(O)nc(=O)nc-3n(CC(O)C(O)C(O)COP(=O)(O)O)c2cc1C	FEM_long	21.9	 Nucleosides, nucleotides, and analogues	 Flavin nucleotides
+FVTCRASFADXXNN	Cc1cc2nc3c(O)nc(=O)nc-3n(CC(O)C(O)C(O)COP(=O)(O)O)c2cc1C	RIKEN	1.19	 Nucleosides, nucleotides, and analogues	 Flavin nucleotides
+VHGCDTVCOLNTBX	CNCCC(Oc1ccccc1C)c1ccccc1	Eawag_XBridgeC18	8	 Benzenoids	 Phenol ethers
+WXZVAROIGSFCFJ	CCN(CC)C(=O)C(C)Oc1cccc2ccccc12	Eawag_XBridgeC18	11.7	 Benzenoids	 Naphthalenes
+ZPUCINDJVBIVPJ	COC(=O)C1C(OC(=O)c2ccccc2)CC2CCC1N2C	Eawag_XBridgeC18	5	 Benzenoids	 Benzene and substituted derivatives
+NJKDOADNQSYQEV	CN(C(=O)CO)c1c(I)c(C(O)=NCC(O)CO)c(I)c(C(O)=NCC(O)CO)c1I	Eawag_XBridgeC18	1.6	 Benzenoids	 Benzene and substituted derivatives
+YDVXYTIIPGKIJP	CC(C)=CCCC(C)=CCOC(=O)c1ccccc1	FEM_long	51.3	 Lipids and lipid-like molecules	 Prenol lipids
+BTJXBZZBBNNTOV	C=CC(C)(CCC=C(C)C)OC(=O)c1ccccc1	FEM_long	50.8	 Lipids and lipid-like molecules	 Prenol lipids
+RKUNBYITZUJHSG	CN1C2CCC1CC(OC(=O)C(CO)c1ccccc1)C2	UniToyama_Atlantis	14.126917	 Alkaloids and derivatives	 Tropane alkaloids
+HLXRWTJXGMHOFN	COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C2C(C)CC(=O)C12	Eugster_et_al_2015	4.2	 Lipids and lipid-like molecules	 Prenol lipids
+OQWKEEOHDMUXEO	CCCCCC=CC(=O)CCc1ccc(O)c(OC)c1	Eugster_et_al_2015	17.46	 Benzenoids	 Phenols
+WLOBUUJURNEQCL	CNCCCC(C#N)(c1ccc(OC)c(OC)c1)C(C)C	Eawag_XBridgeC18	6.3	 Benzenoids	 Benzene and substituted derivatives
+AMBQHHVBBHTQBF	COC(=O)C1=COC(OC2OC(CO)C(O)C(O)C2O)C2C1CC(O)C2C	Eugster_et_al_2015	4.08	 Lipids and lipid-like molecules	 Prenol lipids
+IRSFLDGTOHBADP	CCCCCCCCCCCC1=C(O)C(=O)C=C(O)C1=O	Eugster_et_al_2015	22.83	 Organic oxygen compounds	 Organooxygen compounds
+NLDDIKRKFXEWBK	CCCCCC(O)CC(=O)CCc1ccc(O)c(OC)c1	Eugster_et_al_2015	13.47	 Benzenoids	 Phenols
+NLDDIKRKFXEWBK	CCCCCC(O)CC(=O)CCc1ccc(O)c(OC)c1	UniToyama_Atlantis	20.738717	 Benzenoids	 Phenols
+NTJOBXMMWNYJFB	CCN1CCCC1CN=C(O)c1cc(S(=O)(=O)CC)c(N)cc1OC	Eawag_XBridgeC18	3.8	 Benzenoids	 Benzene and substituted derivatives
+PNVNVHUZROJLTJ	COc1ccc(C(CN(C)C)C2(O)CCCCC2)cc1	Eawag_XBridgeC18	6.2	 Benzenoids	 Phenol ethers
+ZGIGZINMAOQWLX	CC(=O)OCC=C(C)CCC=C(C)CCC=C(C)C	RIKEN	2	 Lipids and lipid-like molecules	 Prenol lipids
+IZFGRAGOVZCUFB	CCCCCCC=CCCCCCCCC(=O)OC	FEM_long	54.9	 Lipids and lipid-like molecules	 Fatty Acyls
+FLIACVVOZYBSBS	CCCCCCCCCCCCCCCC(=O)OC	FEM_long	56.4	 Lipids and lipid-like molecules	 Fatty Acyls
+NDJKXXJCMXVBJW	CCCCCCCCCCCCCCCCC	RIKEN	1.81	 Hydrocarbons	 Saturated hydrocarbons
+WYEMLYFITZORAB	OC(=Nc1ccccc1-c1ccc(Cl)cc1)c1cccnc1Cl	Eawag_XBridgeC18	10.5	 Benzenoids	 Benzene and substituted derivatives
+AIGAZQPHXLWMOJ	Cc1coc2c1C(=O)C(=O)c1c-2ccc2c(C)cccc12	Eugster_et_al_2015	18.27	 Lipids and lipid-like molecules	 Prenol lipids
+LKJPYSCBVHEWIU	CC(O)(CS(=O)(=O)c1ccc(F)cc1)C(O)=Nc1ccc(C#N)c(C(F)(F)F)c1	Eawag_XBridgeC18	9.9	 Benzenoids	 Benzene and substituted derivatives
+HARGZZNYNSYSGJ	Cc1cccc2c3c(ccc12)C1=C(C(=O)C3=O)C(C)CO1	Eugster_et_al_2015	16.92	 Lipids and lipid-like molecules	 Prenol lipids
+HJNJAUYFFFOFBW	COc1cc2oc(-c3ccccc3)cc(=O)c2c(OC)c1OC	UniToyama_Atlantis	20.676667000000002	 Phenylpropanoids and polyketides	 Flavonoids
+QCDYOIZVELGOLZ	COc1ccc(-c2cc(=O)c3c(O)c(OC)c(OC)cc3o2)cc1	UniToyama_Atlantis	23.393333	 Phenylpropanoids and polyketides	 Flavonoids
+DRRWBCNQOKKKOL	COc1ccc(-c2cc(=O)c3c(O)c(OC)c(O)cc3o2)cc1OC	Eugster_et_al_2015	12.3	 Phenylpropanoids and polyketides	 Flavonoids
+DOUMFZQKYFQNTF	O=C(C=Cc1ccc(O)c(O)c1)OC(Cc1ccc(O)c(O)c1)C(=O)O	FEM_long	29.975	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+QZUDBNBUXVUHMW	CN1CCN(C2=Nc3cc(Cl)ccc3Nc3ccccc32)CC1	Eawag_XBridgeC18	6.4	 Organoheterocyclic compounds	 Benzodiazepines
+ZOTBXTZVPHCKPN	CON=C(C(=O)OC)c1ccccc1COc1ccccc1C	Eawag_XBridgeC18	12.5	 Benzenoids	 Phenol ethers
+YARKTHNUMGKMGS	COc1cc(C=NN=Cc2cc(OC)c(O)c(OC)c2)cc(OC)c1O	FEM_long	35.49	 Benzenoids	 Phenols
+OROGSEYTTFOCAN	COc1ccc2c3c1OC1C(O)C=CC4C(C2)N(C)CCC341	Eawag_XBridgeC18	2.8	 Alkaloids and derivatives	 Morphinans
+JKKFKPJIXZFSSB	CC12CCC3c4ccc(OS(=O)(=O)[O-])cc4CCC3C1CCC2=O	Boudah_et_al_2014_C18	9.61	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+DGAIEPBNLOQYER	COCC(O)=Nc1c(I)c(C(=O)N(C)CC(O)CO)c(I)c(C(O)=NCC(O)CO)c1I	Eawag_XBridgeC18	2.7	 Benzenoids	 Benzene and substituted derivatives
+PGMHPYRIXBRRQD	CC1COC(=O)c2cc3c(cc21)C(C)(C)C(C)C3(C)C	Eawag_XBridgeC18	14.7	 Organoheterocyclic compounds	 Benzopyrans
+UXAIJXIHZDZMSK	CC(C)=CCCC(C)=CCOC(=O)Cc1ccccc1	FEM_long	54.6	 Lipids and lipid-like molecules	 Fatty Acyls
+MKXZASYAUGDDCJ	COc1ccc2c(c1)C13CCCCC1C(C2)N(C)CC3	Eawag_XBridgeC18	6.6	 Alkaloids and derivatives	 Morphinans
+YKPUWZUDDOIDPM	COc1cc(CN=C(O)CCCCC=CC(C)C)ccc1O	RIKEN	1.93	 Benzenoids	 Phenols
+YKPUWZUDDOIDPM	COc1cc(CN=C(O)CCCCC=CC(C)C)ccc1O	UniToyama_Atlantis	22.088717000000003	 Benzenoids	 Phenols
+NWUWYYSKZYIQAE	Cc1ccc(C(C)N=C(O)C(N=C(O)OC(C)C)C(C)C)cc1	Eawag_XBridgeC18	11.4	 Organic acids and derivatives	 Carboxylic acids and derivatives
+XJQPQKLURWNAAH	COc1cc(CN=C(O)CCCCCCC(C)C)ccc1O	RIKEN	2	 Benzenoids	 Phenols
+DTOSIQBPPRVQHS	CCC=CCC=CCC=CCCCCCCCC(=O)O	FEM_long	52.3	 Lipids and lipid-like molecules	 Fatty Acyls
+MUPFEKGTMRGPLJ	OCC1OC(OCC2OC(OC3(CO)OC(CO)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C1O	FEM_long	2.605	 Organic oxygen compounds	 Organooxygen compounds
+OYHQOLUKZRVURQ	CCCCCC=CCC=CCCCCCCCC(=O)O	FEM_long	53.6	 Lipids and lipid-like molecules	 Fatty Acyls
+KDLRVYVGXIQJDK	CCCC1CC(C(O)=NC(C(C)Cl)C2OC(SC)C(O)C(O)C2O)N(C)C1	Eawag_XBridgeC18	6.7	 Organic acids and derivatives	 Carboxylic acids and derivatives
+ZQPPMHVWECSIRJ	CCCCCCCCC=CCCCCCCCC(=O)O	FEM_long	54.85	 Lipids and lipid-like molecules	 Fatty Acyls
+FATBGEAMYMYZAF	CCCCCCCCC=CCCCCCCCC(=N)O	LIFE_new	4.81385	 Lipids and lipid-like molecules	 Fatty Acyls
+HUEBIMLTDXKIPR	CCCCCCCCCCCCCCCCC(=O)OC	FEM_long	57.1	 Lipids and lipid-like molecules	 Fatty Acyls
+SECPDKKEUKDCPG	CCCCCCCCCC(=O)OCC(O)COP(=O)([O-])OCC[N+](C)(C)C	RIKEN	1.65	 Lipids and lipid-like molecules	 Glycerophospholipids
+WYEHFWKAOXOVJD	O=C(Nc1ccc(F)cc1F)c1cccnc1Oc1cccc(C(F)(F)F)c1	Eawag_XBridgeC18	14.4	 Benzenoids	 Benzene and substituted derivatives
+OUGIDAPQYNCXRA	O=c1cc(-c2ccccc2)oc2ccc3ccccc3c12	Eugster_et_al_2015	17.27	 Phenylpropanoids and polyketides	 Flavonoids
+KUHLNOSGIHMGFS	O=c1cc(-c2ccccc2)oc2cc3ccccc3cc12	Eugster_et_al_2015	18.37	 Phenylpropanoids and polyketides	 Flavonoids
+DOBMPNYZJYQDGZ	O=c1oc2ccccc2c(O)c1Cc1c(O)c2ccccc2oc1=O	Eugster_et_al_2015	18.37	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+RMOPHAINWJSBTC	C1=c2ccc3c(c2=CN2CCc4cc5c(cc4[C]12)OCO5)OCO3	UniToyama_Atlantis	15.301667000000002	 Organoheterocyclic compounds	 Tetrahydroisoquinolines
+CGIGDMFJXJATDK	COc1ccc2c(c1)c(CC(=O)O)c(C)n2C(=O)c1ccc(Cl)cc1	Eawag_XBridgeC18	12.9	 Organoheterocyclic compounds	 Indoles and derivatives
+PREBVFJICNPEKM	O=C(C=Cc1ccc(O)cc1)CC(=O)C=Cc1ccc(O)cc1	UniToyama_Atlantis	20.9887	 Phenylpropanoids and polyketides	 Diarylheptanoids
+BQYJATMQXGBDHF	CC1COC(Cn2cncn2)(c2ccc(Oc3ccc(Cl)cc3)cc2Cl)O1	Eawag_XBridgeC18	14.1	 Benzenoids	 Benzene and substituted derivatives
+HZRSNVGNWUDEFX	COC(=O)N(OC)c1ccccc1COc1ccn(-c2ccc(Cl)cc2)n1	Eawag_XBridgeC18	13.4	 Organoheterocyclic compounds	 Azoles
+AEDDIBAIWPIIBD	O=c1c2cc(O)c(O)cc2oc2cc(O)c(C3OC(CO)C(O)C(O)C3O)c(O)c12	UniToyama_Atlantis	7.055783	 Organoheterocyclic compounds	 Benzopyrans
+HYXITZLLTYIPOF	Cc1coc2c1C(=O)C(=O)c1c-2ccc2c1CCCC2(C)C	Eugster_et_al_2015	20.77	 Lipids and lipid-like molecules	 Prenol lipids
+DCRQQKPWFBDFPA	Cc1cc(O)cc2c1CC=C1C(=C2)C(=O)C(=O)C(C(C)C)=C1O	Eugster_et_al_2015	17.66	 Benzenoids	 Phenols
+AAASNKNLMQBKFV	COc1cc(OC)c2c(=O)c(O)c(-c3ccc(OC)c(OC)c3)oc2c1	UniToyama_Atlantis	20.218332999999998	 Phenylpropanoids and polyketides	 Flavonoids
+LYLDPYNWDVVPIQ	COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)cc3o2)cc1O	FEM_long	37.4	 Phenylpropanoids and polyketides	 Flavonoids
+PJQLSMYMOKWUJG	COc1ccc(-c2oc3cc(OC)c(OC)c(O)c3c(=O)c2OC)cc1O	Eugster_et_al_2015	13.19	 Phenylpropanoids and polyketides	 Flavonoids
+YLOYKYXNDHOHHT	COC(=O)c1c(C)cc(OC(=O)c2c(C)cc(O)c(C=O)c2O)c(C)c1O	Eugster_et_al_2015	20.99	 Phenylpropanoids and polyketides	 Depsides and depsidones
+OVBPIULPVIDEAO	N=c1nc(O)c2nc(CNc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)cnc2[nH]1	Boudah_et_al_2014_C18	5.09	 Organoheterocyclic compounds	 Pteridines and derivatives
+OVBPIULPVIDEAO	N=c1nc(O)c2nc(CNc3ccc(C(=O)NC(CCC(=O)O)C(=O)O)cc3)cnc2[nH]1	FEM_long	21.3	 Organoheterocyclic compounds	 Pteridines and derivatives
+GVKKJJOMQCNPGB	CC1COC2=C1C(=O)C(=O)c1c2ccc2c1CCCC2(C)C	Eugster_et_al_2015	18.34	 Lipids and lipid-like molecules	 Prenol lipids
+KNWVMRVOBAFFMH	COc1cc2c(cc1O)C1Cc3ccc(OC)c(O)c3CN1CC2	RIKEN	1.37	 Alkaloids and derivatives	 Protoberberine alkaloids and derivatives
+KMPWYEUPVWOPIM	C=CC1CN2CCC1CC2C(O)c1ccnc2ccccc12	FEM_long	19.15	 Alkaloids and derivatives	 Cinchona alkaloids
+IXORZMNAPKEEDV	C=C1CC23CC1(O)CCC2C12C=CC(O)C(C)(C(=O)O1)C2C3C(=O)O	Boudah_et_al_2014_C18	7.16	 Lipids and lipid-like molecules	 Prenol lipids
+IXORZMNAPKEEDV	C=C1CC23CC1(O)CCC2C12C=CC(O)C(C)(C(=O)O1)C2C3C(=O)O	FEM_long	25.49	 Lipids and lipid-like molecules	 Prenol lipids
+QXAITBQSYVNQDR	Cc1ccc(N=CN(C)C=Nc2ccc(C)cc2C)c(C)c1	Eawag_XBridgeC18	15.4	 Benzenoids	 Benzene and substituted derivatives
+NTHXOOBQLCIOLC	CC(=O)N(CC(O)CO)c1c(I)c(C(O)=NCC(O)CO)c(I)c(C(O)=NCC(O)CO)c1I	Eawag_XBridgeC18	1.6	 Benzenoids	 Benzene and substituted derivatives
+MUMGGOZAMZWBJJ	CC12CCC(=O)C=C1CCC1C2CCC2(C)C(O)CCC12	LIFE_new	4.3220166667	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+CZWCKYRVOZZJNM	CC12CCC3C(CC=C4CC(OS(=O)(=O)O)CCC43C)C1CCC2=O	Boudah_et_al_2014_C18	9.49	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+NVKAWKQGWWIWPM	CC12CCC3C(CCC4CC(=O)CCC43C)C1CCC2O	LIFE_new	4.4743333333	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+QGXBDMJGAMFCBF	CC12CCC3C(CCC4CC(O)CCC43C)C1CCC2=O	Boudah_et_al_2014_C18	12.61	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+BCIWKKMTBRYQJU	CCCCCCCC(O)CC(=O)CCc1ccc(O)c(OC)c1	Eugster_et_al_2015	16.97	 Benzenoids	 Phenols
+MGNFYQILYYYUBS	CC(Cc1ccc(C(C)(C)C)cc1)CN1CCCCC1	Eawag_XBridgeC18	9.5	 Benzenoids	 Benzene and substituted derivatives
+DVWSXZIHSUZZKJ	CCC=CCC=CCC=CCCCCCCCC(=O)OC	FEM_long	54.5	 Lipids and lipid-like molecules	 Fatty Acyls
+QYDYPVFESGNLHU	CCCCCCCCC=CCCCCCCCC(=O)OC	FEM_long	56.515	 Lipids and lipid-like molecules	 Fatty Acyls
+FUJLYHJROOYKRA	CCCCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C	LIFE_new	4.1991333333	 Lipids and lipid-like molecules	 Fatty Acyls
+FUJLYHJROOYKRA	CCCCCCCCCCCC(=O)OC(CC(=O)[O-])C[N+](C)(C)C	LIFE_old	3.37625	 Lipids and lipid-like molecules	 Fatty Acyls
+HPEUJPJOZXNMSJ	CCCCCCCCCCCCCCCCCC(=O)OC	FEM_long	57.8	 Lipids and lipid-like molecules	 Fatty Acyls
+VYHHSBHXZVSILO	COc1ccc(-c2cc(=O)c3c(OC(C)=O)cc(OC(C)=O)cc3o2)cc1	UniToyama_Atlantis	22.06	 Phenylpropanoids and polyketides	 Flavonoids
+WULISCVZERSMML	Cc1cc2nc3cc(C)c(N)cc3[n+](-c3ccccc3)c2cc1N	RIKEN	1.57	 Organoheterocyclic compounds	 Diazanaphthalenes
+OJDYKDYYXBXBIX	COc1ccc2c(c1OC)=CN1CCc3cc4c(cc3[C]1C=2)OCO4	UniToyama_Atlantis	16.626667	 Organoheterocyclic compounds	 Dihydroisoquinolines
+POQICXMTUPVZMX	O=c1c(OC2OC(CO)C(O)C2O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	UniToyama_Atlantis	12.793333	 Phenylpropanoids and polyketides	 Flavonoids
+KUCVMQMKRICXJC	[O-]c1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OCC(O)C(O)C2O)ccc1O	FEM_long	23.1	 Phenylpropanoids and polyketides	 Flavonoids
+KUCVMQMKRICXJC	[O-]c1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OCC(O)C(O)C2O)ccc1O	RIKEN	1.23	 Phenylpropanoids and polyketides	 Flavonoids
+PZZRDJXEMZMZFD	O=c1c(OC2OCC(O)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	RIKEN	1.43	 Phenylpropanoids and polyketides	 Flavonoids
+PZZRDJXEMZMZFD	O=c1c(OC2OCC(O)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	UniToyama_Atlantis	11.435	 Phenylpropanoids and polyketides	 Flavonoids
+FEPAFOYQTIEEIS	O=C(OCC1OC(O)C(O)(COC(=O)c2cc(O)c(O)c(O)c2)C1O)c1cc(O)c(O)c(O)c1	Eugster_et_al_2015	2.95	 Benzenoids	 Benzene and substituted derivatives
+NZMUXZBQDVLKSD	COc1cc(C)c2c(c1)C=C1C(=O)C(=O)C(C(C)C)=C(O)C1=CC2	Eugster_et_al_2015	21.12	 Benzenoids	 Phenol ethers
+ULSUXBXHSYSGDT	COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)c(OC)c3o2)cc1	UniToyama_Atlantis	21.951667	 Phenylpropanoids and polyketides	 Flavonoids
+LKMNXYDUQXAUCZ	COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)cc3o2)cc1OC	Eugster_et_al_2015	12.32	 Phenylpropanoids and polyketides	 Flavonoids
+LKMNXYDUQXAUCZ	COc1ccc(-c2cc(=O)c3c(OC)c(OC)c(OC)cc3o2)cc1OC	FEM_long	39.3	 Phenylpropanoids and polyketides	 Flavonoids
+YMTINGFKWWXKFG	CC(C)OC(=O)C(C)(C)Oc1ccc(C(=O)c2ccc(Cl)cc2)cc1	Eawag_XBridgeC18	15.7	 Benzenoids	 Benzene and substituted derivatives
+HSTZMXCBWJGKHG	OCC1OC(Oc2cc(O)cc(C=Cc3ccc(O)cc3)c2)C(O)C(O)C1O	FEM_long	27.25	 Phenylpropanoids and polyketides	 Stilbenes
+PERPNFLGJXUDDW	OCC1OC(Oc2cc(O)cc(C=Cc3ccc(O)c(O)c3)c2)C(O)C(O)C1O	FEM_long	22.7	 Phenylpropanoids and polyketides	 Stilbenes
+PERPNFLGJXUDDW	OCC1OC(Oc2cc(O)cc(C=Cc3ccc(O)c(O)c3)c2)C(O)C(O)C1O	RIKEN	1.33	 Phenylpropanoids and polyketides	 Stilbenes
+KRMDCWKBEZIMAB	CN(C)CCC=C1c2ccccc2CCc2ccccc21	Eawag_XBridgeC18	8.6	 Benzenoids	 Dibenzocycloheptenes
+AJRJPORIQGYFMT	CC=C1N(C)C(C)CC1(c1ccccc1)c1ccccc1	Eawag_XBridgeC18	6.5	 Benzenoids	 Benzene and substituted derivatives
+DQCKKXVULJGBQN	O=C1CCC2(O)C3Cc4ccc(O)c5c4C2(CCN3CC2CC2)C1O5	Eawag_XBridgeC18	3.1	 Benzenoids	 Phenanthrenes and derivatives
+BFYIZQONLCFLEV	C=C1CC2C(CCC3(C)C(=O)CCC23)C2(C)C=CC(=O)C=C12	Eawag_XBridgeC18	10.1	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+HXCGUCZXPFBNRD	CC(C)(OC1OC(CO)C(O)C(O)C1O)C1Cc2cc3ccc(=O)oc3cc2O1	UniToyama_Atlantis	11.930783	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+FPUXKXIZEIDQKW	CC1C(=O)OC2CC34C5CC(C(C)(C)C)C36C(OC(=O)C6O)OC4(C(=O)O5)C21O	Eugster_et_al_2015	8.28	 Lipids and lipid-like molecules	 Prenol lipids
+ZSCDBOWYZJWBIY	CC(CN(C)C)CN1c2ccccc2CCc2ccccc21	Eawag_XBridgeC18	8.7	 Organoheterocyclic compounds	 Benzazepines
+JEKMKNDURXDJAD	CC12C=Cc3occc3C1CCC13CC(CCC12)C(O)(CO)C3	LIFE_new	3.8099	 Organoheterocyclic compounds	 Naphthofurans
+XUSYGBPHQBWGAD	CC(C)c1cc2c(c(O)c1O)C13CCCC(C)(C)C1CC2OC3=O	LIFE_new	4.5144166667	 Lipids and lipid-like molecules	 Prenol lipids
+XUSYGBPHQBWGAD	CC(C)c1cc2c(c(O)c1O)C13CCCC(C)(C)C1CC2OC3=O	LIFE_old	3.9958166667	 Lipids and lipid-like molecules	 Prenol lipids
+PUETUDUXMCLALY	COc1cc(CC(CO)C(CO)Cc2ccc(O)c(OC)c2)ccc1O	Eugster_et_al_2015	7.42	 Lignans, neolignans and related compounds	 Dibenzylbutane lignans
+ZTDFZLVUIVPZDU	C=C(C(=O)OC1CC(C)=CCCC(CO)=CC2OC(=O)C(=C)C21)C(O)CO	Eugster_et_al_2015	8.32	 Lipids and lipid-like molecules	 Prenol lipids
+XUCIJNAGGSZNQT	N#CC(OC1OC(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O)c1ccccc1	FEM_long	19.3	 Organic oxygen compounds	 Organooxygen compounds
+YLPBXIKWXNRACS	CN(CC(O)CO)C(=O)c1c(I)c(N=C(O)C(CO)CO)c(I)c(C(=O)N(C)CC(O)CO)c1I	Eawag_XBridgeC18	1.6	 Benzenoids	 Benzene and substituted derivatives
+SHGAZHPCJJPHSC	CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)O	Boudah_et_al_2014_C18	16.27	 Lipids and lipid-like molecules	 Prenol lipids
+HQLLRHCTVDVUJB	CC1CC2OC(=O)C3(C)CCCC(C)(C23)C1(O)CCc1ccoc1	Eugster_et_al_2015	15.52	 Organoheterocyclic compounds	 Lactones
+XMJAJFVLHDIEHF	C=C1CCC2C(C)(CO)C(O)CCC2(C)C1C=CC1=CCOC1=O	Eugster_et_al_2015	12.12	 Lipids and lipid-like molecules	 Prenol lipids
+QQCLBMUOIGPCDE	C=C1CCC2C(C)(CO)C(O)CCC2(C)C1CC=C1C(=O)OC=C1O	Eugster_et_al_2015	12.1	 Organoheterocyclic compounds	 Dihydrofurans
+HLIAVLHNDJUHFG	COC(=O)C(Cc1ccccc1)N=C(O)C(CC(=O)O)NCCC(C)(C)C	Eawag_XBridgeC18	9	 Organic acids and derivatives	 Carboxylic acids and derivatives
+WKKBRRFSRMDTJB	C=C1CCC2C(C)(CO)CCCC2(C)C1CCC1=CCOC1=O	Eugster_et_al_2015	14.94	 Lipids and lipid-like molecules	 Prenol lipids
+BOJKULTULYSRAS	C=C1CCC2C(C)(CO)C(O)CCC2(C)C1CC=C1C(=O)OCC1O	Eugster_et_al_2015	8.55	 Organoheterocyclic compounds	 Lactones
+YPZRWBKMTBYPTK	NC(CCC(O)=NC(CSSCC(N=C(O)CCC(N)C(=O)O)C(O)=NCC(=O)O)C(O)=NCC(=O)O)C(=O)O	RIKEN	0.95	 Organic acids and derivatives	 Carboxylic acids and derivatives
+YZXBAPSDXZZRGB	CCCCCC=CCC=CCC=CCC=CCCCC(=O)O	FEM_long	53.5	 Lipids and lipid-like molecules	 Fatty Acyls
+JSFATNQSLKRBCI	CCCCCC(O)C=CC=CCC=CCC=CCCCC(=O)O	FEM_long	50.41	 Lipids and lipid-like molecules	 Fatty Acyls
+VEPUCZUJLKAVNM	CCCCCCCCCCCCCc1cccc(O)c1C(=O)O	Eugster_et_al_2015	27.69	 Benzenoids	 Benzene and substituted derivatives
+FMMOOAYVCKXGMF	CCCCCC=CCC=CCCCCCCCC(=O)OCC	FEM_long	56.12	 Lipids and lipid-like molecules	 Fatty Acyls
+XVULBTBTFGYVRC	C=CC(C)(O)CCC1C(C)(O)CCC2C(C)(C)CCCC21C	FEM_long	50.1	 Lipids and lipid-like molecules	 Prenol lipids
+GDBQQVLCIARPGH	CC(O)=NC(CC(C)C)C(O)=NC(CC(C)C)C(O)=NC(C=O)CCCNC(=N)N	RIKEN	1.42	 Organic acids and derivatives	 Carboxylic acids and derivatives
+BITHHVVYSMSWAG	CCCCCCCCC=CCCCCCCCCCC(=O)O	FEM_long	56.2	 Lipids and lipid-like molecules	 Fatty Acyls
+BDXAHSJUDUZLDU	CCCCCCCCCCCCCCCCCCC(=O)OC	FEM_long	58.5	 Lipids and lipid-like molecules	 Fatty Acyls
+BWKILASWCLJPBO	CCCCCCCCCCCC(=O)OCC(O)COP(=O)([O-])OCC[N+](C)(C)C	RIKEN	1.79	 Lipids and lipid-like molecules	 Glycerophospholipids
+AFWOYEYXUDHGHF	O=P(O)(OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	20.4	 Organic acids and derivatives	 Organic phosphoric acids and derivatives
+IKCXDZCEWZARFL	COC=C(C(=O)O)c1ccccc1Oc1cc(Oc2ccccc2C#N)ncn1	Eawag_XBridgeC18	8.8	 Organic oxygen compounds	 Organooxygen compounds
+PGCSZXDXCSIDPZ	O=C(O)c1cc(O)c2c(c1)C(=O)c1c(C3OC(CO)C(O)C(O)C3O)ccc(O)c1C2=O	Eugster_et_al_2015	5.47	 Benzenoids	 Anthracenes
+IKIIZLYTISPENI	O=C(O)C1OC(Oc2cc3oc(-c4ccccc4)cc(=O)c3c(O)c2O)C(O)C(O)C1O	UniToyama_Atlantis	10.64498333	 Phenylpropanoids and polyketides	 Flavonoids
+FNTJVYCFNVUBOL	O=C(O)C1OC(Oc2c(-c3ccc(O)cc3)oc3cc(O)cc(O)c3c2=O)C(O)C(O)C1O	FEM_long	30.675	 Phenylpropanoids and polyketides	 Flavonoids
+VSUOKLTVXQRUSG	O=C([O-])C1OC(Oc2cc(O)c3c(=O)cc(-c4ccc(O)c(O)c4)oc3c2)C(O)C(O)C1O	Eugster_et_al_2015	5.7	 Phenylpropanoids and polyketides	 Flavonoids
+DUBCCGAQYVUYEU	O=C(O)C1OC(Oc2c(-c3ccc(O)c(O)c3)oc3cc(O)cc(O)c3c2=O)C(O)C(O)C1O	FEM_long	28.45	 Phenylpropanoids and polyketides	 Flavonoids
+KRUPPTWQKIEURV	COc1cc(-c2[o+]c3cc(O)cc([O-])c3cc2OC2OCC(O)C(O)C2O)ccc1O	FEM_long	24.8	 Phenylpropanoids and polyketides	 Flavonoids
+KRUPPTWQKIEURV	COc1cc(-c2[o+]c3cc(O)cc([O-])c3cc2OC2OCC(O)C(O)C2O)ccc1O	RIKEN	1.3	 Phenylpropanoids and polyketides	 Flavonoids
+SGEWCQFRYRRZDC	O=c1cc(-c2ccc(O)cc2)oc2c(C3OC(CO)C(O)C(O)C3O)c(O)cc(O)c12	Eugster_et_al_2015	5.46	 Phenylpropanoids and polyketides	 Flavonoids
+SGEWCQFRYRRZDC	O=c1cc(-c2ccc(O)cc2)oc2c(C3OC(CO)C(O)C(O)C3O)c(O)cc(O)c12	RIKEN	1.39	 Phenylpropanoids and polyketides	 Flavonoids
+ABVCUBUIXWJYSE	[O-]c1cc(O)cc2[o+]c(-c3ccc(O)cc3)c(OC3OC(CO)C(O)C(O)C3O)cc12	FEM_long	23.7	 Phenylpropanoids and polyketides	 Flavonoids
+ABVCUBUIXWJYSE	[O-]c1cc(O)cc2[o+]c(-c3ccc(O)cc3)c(OC3OC(CO)C(O)C(O)C3O)cc12	RIKEN	1.25	 Phenylpropanoids and polyketides	 Flavonoids
+KMOUJOKENFFTPU	O=c1cc(-c2ccc(O)cc2)oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12	Eugster_et_al_2015	6.65	 Phenylpropanoids and polyketides	 Flavonoids
+KMOUJOKENFFTPU	O=c1cc(-c2ccc(O)cc2)oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12	FEM_long	28.915	 Phenylpropanoids and polyketides	 Flavonoids
+KMOUJOKENFFTPU	O=c1cc(-c2ccc(O)cc2)oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12	UniToyama_Atlantis	11.84745	 Phenylpropanoids and polyketides	 Flavonoids
+OXGUCUVFOIWWQJ	CC1OC(Oc2c(-c3ccc(O)c(O)c3)oc3cc(O)cc(O)c3c2=O)C(O)C(O)C1O	Eugster_et_al_2015	6.41	 Phenylpropanoids and polyketides	 Flavonoids
+OXGUCUVFOIWWQJ	CC1OC(Oc2c(-c3ccc(O)c(O)c3)oc3cc(O)cc(O)c3c2=O)C(O)C(O)C1O	RIKEN	1.46	 Phenylpropanoids and polyketides	 Flavonoids
+ODBRNZZJSYPIDI	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)c(C3OC(CO)C(O)C(O)C3O)c(O)c12	Eugster_et_al_2015	4.65	 Phenylpropanoids and polyketides	 Flavonoids
+PLAPMLGJVGLZOV	O=c1cc(-c2ccc(O)c(O)c2)oc2c(C3OC(CO)C(O)C(O)C3O)c(O)cc(O)c12	Eugster_et_al_2015	4.86	 Phenylpropanoids and polyketides	 Flavonoids
+PLAPMLGJVGLZOV	O=c1cc(-c2ccc(O)c(O)c2)oc2c(C3OC(CO)C(O)C(O)C3O)c(O)cc(O)c12	FEM_long	25.485	 Phenylpropanoids and polyketides	 Flavonoids
+PLAPMLGJVGLZOV	O=c1cc(-c2ccc(O)c(O)c2)oc2c(C3OC(CO)C(O)C(O)C3O)c(O)cc(O)c12	RIKEN	1.35	 Phenylpropanoids and polyketides	 Flavonoids
+YPWHZCPMOQGCDQ	O=c1c(O)c(-c2ccc(O)cc2)oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12	Eugster_et_al_2015	6.56	 Phenylpropanoids and polyketides	 Flavonoids
+JPUKWEQWGBDDQB	O=c1c(OC2OC(CO)C(O)C(O)C2O)c(-c2ccc(O)cc2)oc2cc(O)cc(O)c12	Eugster_et_al_2015	6.34	 Phenylpropanoids and polyketides	 Flavonoids
+RKWHWFONKJEUEF	[O-]c1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2O)ccc1O	FEM_long	22.1	 Phenylpropanoids and polyketides	 Flavonoids
+RKWHWFONKJEUEF	[O-]c1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2O)ccc1O	RIKEN	1.18	 Phenylpropanoids and polyketides	 Flavonoids
+PEFNSGRTCBGNAN	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12	Eugster_et_al_2015	5.78	 Phenylpropanoids and polyketides	 Flavonoids
+PEFNSGRTCBGNAN	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12	FEM_long	28.06	 Phenylpropanoids and polyketides	 Flavonoids
+PEFNSGRTCBGNAN	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12	RIKEN	1.41	 Phenylpropanoids and polyketides	 Flavonoids
+PEFNSGRTCBGNAN	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12	UniToyama_Atlantis	11.151667	 Phenylpropanoids and polyketides	 Flavonoids
+KBGKQZVCLWKUDQ	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(OC3OC(CO)C(O)C(O)C3O)c12	Eugster_et_al_2015	4.96	 Phenylpropanoids and polyketides	 Flavonoids
+DCYOADKBABEMIQ	CC1OC(Oc2c(-c3cc(O)c(O)c(O)c3)oc3cc(O)cc(O)c3c2=O)C(O)C(O)C1O	Eugster_et_al_2015	5.38	 Phenylpropanoids and polyketides	 Flavonoids
+DCYOADKBABEMIQ	CC1OC(Oc2c(-c3cc(O)c(O)c(O)c3)oc3cc(O)cc(O)c3c2=O)C(O)C(O)C1O	FEM_long	28.3	 Phenylpropanoids and polyketides	 Flavonoids
+DCYOADKBABEMIQ	CC1OC(Oc2c(-c3cc(O)c(O)c(O)c3)oc3cc(O)cc(O)c3c2=O)C(O)C(O)C1O	UniToyama_Atlantis	10.57245	 Phenylpropanoids and polyketides	 Flavonoids
+OPJZLUXFQFQYAI	O=c1c(OC2OC(C(O)CO)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	FEM_long	29.1	 Phenylpropanoids and polyketides	 Flavonoids
+BBFYUPYFXSSMNV	O=c1c(O)c(-c2ccc(O)c(O)c2)oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12	Eugster_et_al_2015	5.54	 Phenylpropanoids and polyketides	 Flavonoids
+OIUBYZLTFSLSBY	O=c1c(O)c(-c2ccc(OC3OC(CO)C(O)C(O)C3O)c(O)c2)oc2cc(O)cc(O)c12	Eugster_et_al_2015	6.58	 Phenylpropanoids and polyketides	 Flavonoids
+OIUBYZLTFSLSBY	O=c1c(O)c(-c2ccc(OC3OC(CO)C(O)C(O)C3O)c(O)c2)oc2cc(O)cc(O)c12	FEM_long	30.4	 Phenylpropanoids and polyketides	 Flavonoids
+OVSQVDMCBVZWGM	O=c1c(OC2OC(CO)C(O)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	Eugster_et_al_2015	5.44	 Phenylpropanoids and polyketides	 Flavonoids
+OVSQVDMCBVZWGM	O=c1c(OC2OC(CO)C(O)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	FEM_long	28.95	 Phenylpropanoids and polyketides	 Flavonoids
+OVSQVDMCBVZWGM	O=c1c(OC2OC(CO)C(O)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	RIKEN	1.4	 Phenylpropanoids and polyketides	 Flavonoids
+OVSQVDMCBVZWGM	O=c1c(OC2OC(CO)C(O)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	UniToyama_Atlantis	10.818333	 Phenylpropanoids and polyketides	 Flavonoids
+HYPKUHLLPBGDLF	O=c1cc(-c2ccc(O)c(O)c2)oc2cc(OC3OC(CO)C(O)C(O)C3O)c(O)c(O)c12	Eugster_et_al_2015	4.85	 Phenylpropanoids and polyketides	 Flavonoids
+XENHPQQLDPAYIJ	[O-]c1c(O)cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2O)cc1O	FEM_long	20.9	 Phenylpropanoids and polyketides	 Flavonoids
+XENHPQQLDPAYIJ	[O-]c1c(O)cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2O)cc1O	RIKEN	1.16	 Phenylpropanoids and polyketides	 Flavonoids
+VFLDPWHFBUODDF	COc1cc(C=CC(=O)CC(=O)C=Cc2ccc(O)c(OC)c2)ccc1O	Eugster_et_al_2015	14.84	 Phenylpropanoids and polyketides	 Diarylheptanoids
+VFLDPWHFBUODDF	COc1cc(C=CC(=O)CC(=O)C=Cc2ccc(O)c(OC)c2)ccc1O	UniToyama_Atlantis	22.077033	 Phenylpropanoids and polyketides	 Diarylheptanoids
+DTTVUKLWJFJOHO	Cc1cc(O)c2c(c1)C(=O)c1cc(OC3OC(C)C(O)C(O)C3O)cc(O)c1C2=O	Eugster_et_al_2015	13.53	 Benzenoids	 Anthracenes
+HKEAFJYKMMKDOR	O=c1c(-c2ccc(O)cc2)coc2c(C3OC(CO)C(O)C(O)C3O)c(O)ccc12	UniToyama_Atlantis	8.198316667	 Phenylpropanoids and polyketides	 Isoflavonoids
+KYQZWONCHDNPDP	O=c1c(-c2ccc(O)cc2)coc2cc(OC3OC(CO)C(O)C(O)C3O)ccc12	RIKEN	1.34	 Phenylpropanoids and polyketides	 Isoflavonoids
+QNBTYORWCCMPQP	COc1ccc(C(=CC(=O)N2CCOCC2)c2ccc(Cl)cc2)cc1OC	Eawag_XBridgeC18	10.8	 Benzenoids	 Benzene and substituted derivatives
+VQUPQWGKORWZII	CC1OC(OC2C(=O)c3c(O)cc(O)cc3OC2c2ccc(O)cc2)C(O)C(O)C1O	UniToyama_Atlantis	12.47245	 Phenylpropanoids and polyketides	 Flavonoids
+DLIKSSGEMUFQOK	O=C1CC(c2ccc(O)cc2)Oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c21	FEM_long	27.94	 Phenylpropanoids and polyketides	 Flavonoids
+DLIKSSGEMUFQOK	O=C1CC(c2ccc(O)cc2)Oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c21	UniToyama_Atlantis	12.293333	 Phenylpropanoids and polyketides	 Flavonoids
+RAFHNDRXYHOLSH	O=C1CC(c2ccc(O)c(O)c2)Oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c21	RIKEN	1.41	 Phenylpropanoids and polyketides	 Flavonoids
+DBMJZOMNXBSRED	CC(C)=CCCC(C)=CCOc1c2ccoc2cc2oc(=O)ccc12	Eugster_et_al_2015	22.48	 Lipids and lipid-like molecules	 Prenol lipids
+SOVNCTNQAWWYAQ	CC(C)=CCCC(C)=CCOc1c2occc2cc2ccc(=O)oc12	Eugster_et_al_2015	21.03	 Lipids and lipid-like molecules	 Prenol lipids
+OOKSPQLCQUBEKU	CC(=CCOc1c2ccoc2cc2oc(=O)ccc12)CCC1OC1(C)C	Eugster_et_al_2015	17.16	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+OVWZFLKQVPSRDZ	CC1OC(Oc2cc(O)cc3c2C(=O)CC(c2ccc(O)cc2)O3)C(O)C(O)C1O	Eugster_et_al_2015	6.63	 Phenylpropanoids and polyketides	 Flavonoids
+DEMKZLAVQYISIA	O=C1CC(c2ccc(OC3OC(CO)C(O)C(O)C3O)cc2)Oc2cc(O)ccc21	UniToyama_Atlantis	10.84745	 Phenylpropanoids and polyketides	 Flavonoids
+VZBPTZZTCBNBOZ	O=C(CCc1ccc(O)cc1)c1c(O)cc(O)c(C2OC(CO)C(O)C(O)C2O)c1O	FEM_long	31.32	 Phenylpropanoids and polyketides	 Linear 1,3-diarylpropanoids
+IOUVKUPGCMBWBT	O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1OC1OC(CO)C(O)C(O)C1O	Eugster_et_al_2015	7.28	 Phenylpropanoids and polyketides	 Flavonoids
+IOUVKUPGCMBWBT	O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1OC1OC(CO)C(O)C(O)C1O	FEM_long	29.6	 Phenylpropanoids and polyketides	 Flavonoids
+IOUVKUPGCMBWBT	O=C(CCc1ccc(O)cc1)c1c(O)cc(O)cc1OC1OC(CO)C(O)C(O)C1O	RIKEN	1.49	 Phenylpropanoids and polyketides	 Flavonoids
+GKAJCVFOJGXVIA	COc1ccc(C=Cc2cc(O)cc(OC3OC(CO)C(O)C(O)C3O)c2)cc1O	Eugster_et_al_2015	6.35	 Phenylpropanoids and polyketides	 Stilbenes
+KLPUXMNQDCUPNO	COc1cc(C=Cc2cc(O)cc(OC3OC(CO)C(O)C(O)C3O)c2)ccc1O	FEM_long	26.13	 Phenylpropanoids and polyketides	 Stilbenes
+KLPUXMNQDCUPNO	COc1cc(C=Cc2cc(O)cc(OC3OC(CO)C(O)C(O)C3O)c2)ccc1O	RIKEN	1.42	 Phenylpropanoids and polyketides	 Stilbenes
+NLGUKXQDDTZCDG	O=C(CCc1ccccc1)c1c(O)cc(O)cc1OC1OC(CO)C(O)C(O)C1O	RIKEN	1.5	 Phenylpropanoids and polyketides	 Flavonoids
+SENPVEZBRZQVST	Nc1ncnc2c1ncn2C1OC(COP(=O)([O-])OP(=O)(O)OCC2OC([n+]3cccc(C(=O)O)c3)C(O)C2O)C(O)C1O	FEM_long	8.3	 Nucleosides, nucleotides, and analogues	 (5'-\u003e5')-dinucleotides
+USSIQXCVUWKGNF	CCC(=O)C(CC(C)N(C)C)(c1ccccc1)c1ccccc1	Eawag_XBridgeC18	8.4	 Benzenoids	 Benzene and substituted derivatives
+OIGNJSKKLXVSLS	CC12C=CC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO	Eawag_XBridgeC18	8	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+OIGNJSKKLXVSLS	CC12C=CC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO	LIFE_old	2.65145	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+MFYSYFVPBJMHGN	CC12CCC(=O)C=C1CCC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO	LIFE_new	3.8447833332999997	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+MFYSYFVPBJMHGN	CC12CCC(=O)C=C1CCC1C2C(=O)CC2(C)C1CCC2(O)C(=O)CO	LIFE_old	2.6068333333	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+RJKFOVLPORLFTN	CC(=O)C1CCC2C3CCC4=CC(=O)CCC4(C)C3CCC12C	Boudah_et_al_2014_C18	13	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+CYQFCXCEBYINGO	CCCCCc1cc(O)c2c(c1)OC(C)(C)C1CCC(C)=CC21	Eugster_et_al_2015	24.5	 Organoheterocyclic compounds	 Benzopyrans
+DBPWSSGDRRHUNT	CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3CCC21C	Boudah_et_al_2014_C18	11.97	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+ZESRJSPZRDMNHY	CC12CCC(=O)C=C1CCC1C2CCC2(C)C(C(=O)CO)CCC12	Boudah_et_al_2014_C18	11.5	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+LCZBQMKVFQNSJR	CC(=O)C1(O)CCC2C3CCC4=CC(=O)CCC4(C)C3C(O)CC21C	Boudah_et_al_2014_C18	10.14	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+WHBHBVVOGNECLV	CC12CCC(=O)C=C1CCC1C2CCC2(C)C1CCC2(O)C(=O)CO	LIFE_old	3.0449666667	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+OMFXVFTZEKFJBZ	CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C(C(=O)CO)CCC12	Boudah_et_al_2014_C18	10.15	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+JYGXADMDTFJGBT	CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO	LIFE_new	3.86625	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+JYGXADMDTFJGBT	CC12CCC(=O)C=C1CCC1C2C(O)CC2(C)C1CCC2(O)C(=O)CO	LIFE_old	2.63095	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+ORNBQBCIOKFOEO	CC(=O)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	Boudah_et_al_2014_C18	13.31	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+RMTXUPIIESNLPW	CCCC=CCC=CCCCCCCCc1cccc(O)c1O	Eugster_et_al_2015	26.14	 Benzenoids	 Phenols
+DYVGYXXLXQESJE	CC(O)C1CCC2C3CCC4CC(=O)CCC4(C)C3CCC12C	LIFE_old	4.33025	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+AIULWNKTYPZYAN	CCCCCCCCCC(O)CC(=O)CCc1ccc(O)c(OC)c1	Eugster_et_al_2015	20.15	 Benzenoids	 Phenols
+KDTSHFARGAKYJN	CC(C)(COP(=O)(O)OP(=O)(O)OCC1OC(n2cnc3c(N)ncnc32)C(O)C1O)C(O)C(O)=NCCC(O)=NCCS	RIKEN	1.12	 Nucleosides, nucleotides, and analogues	 Purine nucleotides
+YVFRNOGRCMBZTG	CC(C)=CCCC(C)=CCCC(C)=CCOC1(O)OC(CO)C(O)C(O)C1O	FEM_long	46.275	 Lipids and lipid-like molecules	 Prenol lipids
+RBKMRGOHCLRTLZ	CCCCCCCCC=CCCCCCCCCCC(=O)OC	FEM_long	57.86	 Lipids and lipid-like molecules	 Fatty Acyls
+QGBRLVONZXHAKJ	CCCCCCCCCCCCCCCCCCCC(=O)OC	FEM_long	59.2	 Lipids and lipid-like molecules	 Fatty Acyls
+PGEHNUUBUQTUJB	O=c1c2ccc3cccc4c(=O)c5ccc6cccc1c6c5-c2c34	Eugster_et_al_2015	20.27	 Benzenoids	 Pyrenes
+YHSIWCDUBTWSEZ	COC(=O)c1cc(O)c(O)c(Oc2c(O)c(O)c3oc(=O)c4cc(O)c(O)c5oc(=O)c2c3c54)c1	FEM_long	30.1	 Phenylpropanoids and polyketides	 Tannins
+VNFPBHJOKIVQEB	Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1	Eawag_XBridgeC18	8.8	 Benzenoids	 Triphenyl compounds
+WFDXOXNFNRHQEC	COC=C(C(=O)OC)c1ccccc1Oc1cc(Oc2ccccc2C#N)ncn1	Eawag_XBridgeC18	9.9	 Benzenoids	 Benzene and substituted derivatives
+LSHVYAFMTMFKBA	O=C(OC1Cc2c(O)cc(O)cc2OC1c1ccc(O)c(O)c1)c1cc(O)c(O)c(O)c1	FEM_long	24.72	 Phenylpropanoids and polyketides	 Flavonoids
+LVJJFMLUMNSUFN	O=C(Oc1cc(O)cc2c1CC(O)C(c1ccc(O)c(O)c1)O2)c1cc(O)c(O)c(O)c1	FEM_long	25.915	 Phenylpropanoids and polyketides	 Flavonoids
+WMBWREPUVVBILR	O=C(OC1Cc2c(O)cc(O)cc2OC1c1cc(O)c(O)c(O)c1)c1cc(O)c(O)c(O)c1	Eugster_et_al_2015	3.97	 Phenylpropanoids and polyketides	 Flavonoids
+HIOZFEXHRPPNDN	COc1c(OC(C)=O)cc2oc(-c3ccc(OC(C)=O)cc3)cc(=O)c2c1OC(C)=O	UniToyama_Atlantis	21.795	 Phenylpropanoids and polyketides	 Flavonoids
+FROBCXTULYFHEJ	CC(C)=NOCCOC(=O)C(C)Oc1ccc(Oc2cnc3cc(Cl)ccc3n2)cc1	Eawag_XBridgeC18	15	 Benzenoids	 Benzene and substituted derivatives
+LFEUICHQZGNOHD	COc1ccc(-c2coc3cc(OC4OC(CO)C(O)C(O)C4O)cc(O)c3c2=O)cc1	RIKEN	1.61	 Phenylpropanoids and polyketides	 Isoflavonoids
+ZZWPMFROUHHAKY	COc1cc(-c2[o+]c3cc(O)cc([O-])c3cc2OC2OC(CO)C(O)C(O)C2O)ccc1O	FEM_long	23.99	 Phenylpropanoids and polyketides	 Flavonoids
+ZZWPMFROUHHAKY	COc1cc(-c2[o+]c3cc(O)cc([O-])c3cc2OC2OC(CO)C(O)C(O)C2O)ccc1O	RIKEN	1.25	 Phenylpropanoids and polyketides	 Flavonoids
+YXHFXGHAELQJGK	COc1cc(-c2cc(=O)c3c(O)cc(O)c(C4OC(CO)C(O)C(O)C4O)c3o2)ccc1O	UniToyama_Atlantis	10.876667	 Phenylpropanoids and polyketides	 Flavonoids
+CQLRUIIRRZYHHS	COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2OC2OC(CO)C(O)C(O)C2O)ccc1O	RIKEN	1.45	 Phenylpropanoids and polyketides	 Flavonoids
+CCQDWIRWKWIUKK	COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2O)cc(O)c1[O-]	FEM_long	22.9	 Phenylpropanoids and polyketides	 Flavonoids
+CCQDWIRWKWIUKK	COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2O)cc(O)c1[O-]	RIKEN	1.22	 Phenylpropanoids and polyketides	 Flavonoids
+ZGLXUQQMLLIKAN	COc1cc(C2c3cc4c(cc3CC3COC(=O)C32)OCO4)cc(OC)c1OC	UniToyama_Atlantis	21.16	 Lignans, neolignans and related compounds	 Lignan lactones
+YJGVMLPVUAXIQN	COc1cc(C2c3cc4c(cc3C(O)C3COC(=O)C23)OCO4)cc(OC)c1OC	Eugster_et_al_2015	10.88	 Lignans, neolignans and related compounds	 Lignan lactones
+MGJLSBDCWOSMHL	COc1ccc(-c2coc3cc(OC4OC(CO)C(O)C(O)C4O)ccc3c2=O)cc1	Eugster_et_al_2015	7.93	 Phenylpropanoids and polyketides	 Isoflavonoids
+MGJLSBDCWOSMHL	COc1ccc(-c2coc3cc(OC4OC(CO)C(O)C(O)C4O)ccc3c2=O)cc1	RIKEN	1.52	 Phenylpropanoids and polyketides	 Isoflavonoids
+GBFQEPKXUTVKTD	COc1cc2c(cc1OC)[C]1C(C)=c3ccc(OC)c(OC)c3=CN1CC2	UniToyama_Atlantis	17.776667	 Organoheterocyclic compounds	 Isoquinolines and derivatives
+GLACGTLACKLUJX	O=C(OCC1=CC(O)C2C=COC(OC3OC(CO)C(O)C(O)C3O)C12)c1ccc(O)cc1	Eugster_et_al_2015	5.12	 Lipids and lipid-like molecules	 Prenol lipids
+UXSACQOOWZMGSE	O=C(OC1C2C=COC(OC3OC(CO)C(O)C(O)C3O)C2C2(CO)OC12)c1ccc(O)cc1	Eugster_et_al_2015	5.44	 Organic oxygen compounds	 Organooxygen compounds
+BPRHUIZQVSMCRT	CC(C)c1nc(N(C)S(C)(=O)=O)nc(-c2ccc(F)cc2)c1C=CC(O)CC(O)CC(=O)O	Eawag_XBridgeC18	9.2	 Organoheterocyclic compounds	 Diazines
+QYPNKSZPJQQLRK	CCc1ccc(C(=O)NN(C(=O)c2cc(C)cc(C)c2)C(C)(C)C)cc1	Eawag_XBridgeC18	12.4	 Benzenoids	 Benzene and substituted derivatives
+QCAWEPFNJXQPAN	COc1cccc(C(O)=NN(C(=O)c2cc(C)cc(C)c2)C(C)(C)C)c1C	Eawag_XBridgeC18	10.9	 Benzenoids	 Benzene and substituted derivatives
+IOSXSVZRTUWBHC	COC1=CC(C)C2CC3OC(=O)CC4C(C)=C(OC)C(=O)C(C2(C)C1=O)C34C	Eugster_et_al_2015	9.85	 Lipids and lipid-like molecules	 Prenol lipids
+VHRSUDSXCMQTMA	CC1CC2C(C(O)CC3(C)C2CCC3(O)C(=O)CO)C2(C)C=CC(=O)C=C12	Eawag_XBridgeC18	9.2	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+BDQNCUODBJZKIY	COC1=CC(C)C2CC3OC(O)CC4C(C)=C(OC)C(=O)C(C2(C)C1=O)C34C	Eugster_et_al_2015	9.78	 Lipids and lipid-like molecules	 Prenol lipids
+YEKFYCQGYMVFKR	CCCCCCCCCCCC=CC=CC=CC=CC=CC(=O)O	FEM_long	54	 Lipids and lipid-like molecules	 Fatty Acyls
+YXHVCZZLWZYHSA	CCCCCCC=CCCCCCCCc1cccc(O)c1C(=O)O	Eugster_et_al_2015	28.03	 Benzenoids	 Benzene and substituted derivatives
+DJWYOLJPSHDSAL	CC(C)(CO)C(O)C(O)=NCCC(O)=NCCSSCCN=C(O)CCN=C(O)C(O)C(C)(C)CO	LIFE_new	3.4401833333	 Organic acids and derivatives	 Carboxylic acids and derivatives
+DJWYOLJPSHDSAL	CC(C)(CO)C(O)C(O)=NCCC(O)=NCCSSCCN=C(O)CCN=C(O)C(O)C(C)(C)CO	LIFE_old	1.8705	 Organic acids and derivatives	 Carboxylic acids and derivatives
+AJRICDSAJQHDSD	CCCCCCCCCCCCCCCCCCCCC(=O)OC	FEM_long	60.4	 Lipids and lipid-like molecules	 Fatty Acyls
+ULBTUVJTXULMLP	CCCCCCCCCCCCCCCCCC(=O)OCCCC	FEM_long	59.54	 Lipids and lipid-like molecules	 Fatty Acyls
+SRVJEQWEVJCHCF	CC(=O)Oc1ccc(-c2cc(=O)c3c(OC(C)=O)c(OC(C)=O)c(OC(C)=O)cc3o2)cc1	UniToyama_Atlantis	21.493333	 Phenylpropanoids and polyketides	 Flavonoids
+OROAFUQRIXKEMV	CCCCc1ncc(C=C(Cc2cccs2)C(=O)O)n1Cc1ccc(C(=O)O)cc1	Eawag_XBridgeC18	6.3	 Benzenoids	 Benzene and substituted derivatives
+RETJLKUBHXTIGH	COc1cc2oc(-c3ccc(OC4OC(CO)C(O)C(O)C4O)cc3)cc(=O)c2c(O)c1OC	UniToyama_Atlantis	14.176667000000002	 Phenylpropanoids and polyketides	 Flavonoids
+HFODKTZIQVSGJO	COc1ccc(-c2coc3cc(OC4OC(CO)C(O)C(O)C4O)c(OC)c(O)c3c2=O)cc1O	UniToyama_Atlantis	12.626667	 Phenylpropanoids and polyketides	 Isoflavonoids
+PXUQTDZNOHRWLI	COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2O)cc(OC)c1[O-]	FEM_long	24.2	 Phenylpropanoids and polyketides	 Flavonoids
+PXUQTDZNOHRWLI	COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2O)cc(OC)c1[O-]	RIKEN	1.28	 Phenylpropanoids and polyketides	 Flavonoids
+HLOCLVMUASBDDP	CC(C)=CCc1c(O)cc2oc3cc(O)c(O)c(CCC(C)(C)O)c3c(=O)c2c1O	Eugster_et_al_2015	16.85	 Organoheterocyclic compounds	 Benzopyrans
+YKRGDOXKVOZESV	CC12CC3(O)OC(O1)C1(COC(=O)c4ccccc4)C3CC21OC1OC(CO)C(O)C(O)C1O	UniToyama_Atlantis	10.390267	 Lipids and lipid-like molecules	 Prenol lipids
+QQUHMASGPODSIW	CC12CC(O)C3CC1(OC1OC(CO)C(O)C(O)C1O)C3(COC(=O)c1ccccc1)C(=O)O2	UniToyama_Atlantis	10.1486	 Lipids and lipid-like molecules	 Prenol lipids
+AKNILCMFRRDTEY	COc1cc(C(=O)OC2C3C=COC(OC4OC(CO)C(O)C(O)C4O)C3C3(CO)OC23)ccc1O	Eugster_et_al_2015	5.84	 Phenylpropanoids and polyketides	 Tannins
+MGOHCFMYLBAPRN	CCc1cc(C)cc(CC)c1-c1c(OC(=O)C(C)(C)C)n2n(c1=O)CCOCC2	Eawag_XBridgeC18	13.7	 Organoheterocyclic compounds	 Azoles
+TUZYXOIXSAXUGO	CCC(C)C(=O)OC1CC(O)C=C2C=CC(C)C(CCC(O)CC(O)CC(=O)O)C21	Eawag_XBridgeC18	9.2	 Organic acids and derivatives	 Hydroxy acids and derivatives
+QSQLTHHMFHEFIY	CCCCCCCCCCCCCCCCCCCCCC(=O)OC	FEM_long	61.2	 Lipids and lipid-like molecules	 Fatty Acyls
+HTQMVQVXFRQIKW	CCOc1nc2cccc(C(=O)O)c2n1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1	Eawag_XBridgeC18	9.3	 Benzenoids	 Benzene and substituted derivatives
+LKCOZWLUAKSRQM	O=C1CC(c2ccc(O)c(O)c2)c2c(cc(O)c3c2OC(c2ccc(O)c(O)c2)C(O)C3)O1	FEM_long	26.09	 Phenylpropanoids and polyketides	 Flavonoids
+MBSKDCPWFSMEFD	COc1cc(-c2[o+]c3cc(O)cc([O-])c3cc2OC2OC(COC(C)=O)C(O)C(O)C2O)ccc1O	FEM_long	29.2	 Phenylpropanoids and polyketides	 Flavonoids
+LNQCUTNLHUQZLR	COc1cc(-c2coc3cc(OC4OC(CO)C(O)C(O)C4O)c(OC)c(O)c3c2=O)cc(O)c1OC	UniToyama_Atlantis	12.776667	 Phenylpropanoids and polyketides	 Isoflavonoids
+XZGPUOQGERGURE	O=C(C=Cc1ccccc1)OCC1OC(OC2OC=CC3C(O)C4OC4(CO)C23)C(O)C(O)C1O	Eugster_et_al_2015	7.38	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+ACWBQPMHZXGDFX	CCCCC(=O)N(Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1)C(C(=O)O)C(C)C	Eawag_XBridgeC18	11.2	 Organic acids and derivatives	 Carboxylic acids and derivatives
+KVRQGMOSZKPBNS	CC1(OC(=O)C=Cc2ccccc2)CC(O)C2(O)C=COC(OC3OC(CO)C(O)C(O)C3O)C12	Eugster_et_al_2015	9.25	 Lipids and lipid-like molecules	 Prenol lipids
+LXMSZDCAJNLERA	CC(=O)SC1CC2=CC(=O)CCC2(C)C2CCC3(C)C(CCC34CCC(=O)O4)C12	Eawag_XBridgeC18	10.2	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+MTKNDAQYHASLID	CC12CCC3c4ccc(O)cc4CCC3C1CCC2OC1OC(C(=O)O)C(O)C(O)C1O	Boudah_et_al_2014_C18	9.04	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+QEEBRPGZBVVINN	CC12CCC(O)CC1CCC1C2CCC2(C)C(c3ccc(=O)oc3)CCC12O	UniToyama_Atlantis	19.69831667	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+OHXPGWPVLFPUSM	CC(CCC(=O)O)C1CCC2C3C(=O)CC4CC(=O)CCC4(C)C3CC(=O)C12C	Boudah_et_al_2014_C18	10.33	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+OHXPGWPVLFPUSM	CC(CCC(=O)O)C1CCC2C3C(=O)CC4CC(=O)CCC4(C)C3CC(=O)C12C	LIFE_new	4.0519666667	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+OHXPGWPVLFPUSM	CC(CCC(=O)O)C1CCC2C3C(=O)CC4CC(=O)CCC4(C)C3CC(=O)C12C	LIFE_old	2.9799833333	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+MBYNDKVOZOAOIS	CCCCCCC=CCCCCCCCCCc1cccc(O)c1C(=O)O	Eugster_et_al_2015	29.97	 Benzenoids	 Benzene and substituted derivatives
+RUDATBOHQWOJDD	CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C	FEM_long	49.4	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+RUDATBOHQWOJDD	CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C	LIFE_new	4.6062833332999995	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+RUDATBOHQWOJDD	CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C	LIFE_old	3.9024333333	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+DGABKXLVXPYZII	CC(CCC(=O)O)C1CCC2C3CC(O)C4CC(O)CCC4(C)C3CCC12C	FEM_long	46.35	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+KXGVEGMKQFWNSR	CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C	Boudah_et_al_2014_C18	12.85	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+KXGVEGMKQFWNSR	CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C	FEM_long	49.6	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+KXGVEGMKQFWNSR	CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C	LIFE_new	4.6201666667	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+KXGVEGMKQFWNSR	CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C	LIFE_old	3.9386333333	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+KXGVEGMKQFWNSR	CC(CCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C	UniToyama_Atlantis	17.255782999999997	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+DKPMWHFRUGMUKF	CC(CCC(=O)O)C1CCC2C3C(O)C(O)C4CC(O)CCC4(C)C3CCC12C	FEM_long	45.58	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+BHQCQFFYRZLCQQ	CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C	Boudah_et_al_2014_C18	11.15	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+BHQCQFFYRZLCQQ	CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C	FEM_long	46.805	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+BHQCQFFYRZLCQQ	CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C	LIFE_new	4.4566666667	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+BHQCQFFYRZLCQQ	CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C	LIFE_old	3.3998833333	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+BHQCQFFYRZLCQQ	CC(CCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C	UniToyama_Atlantis	16.02	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+UQZIYBXSHAGNOE	OCC1OC(OCC2OC(OCC3OC(OC4(CO)OC(CO)C(O)C4O)C(O)C(O)C3O)C(O)C(O)C2O)C(O)C(O)C1O	FEM_long	2.4	 Organic oxygen compounds	 Organooxygen compounds
+HHJTWTPUPVQKNA	CCCCCCCCCCCCCC=CC(O)C(N)COC1OC(CO)C(O)C(O)C1O	RIKEN	1.84	 Lipids and lipid-like molecules	 Sphingolipids
+QZZGJDVWLFXDLK	CCCCCCCCCCCCCCCCCCCCCCCC(=O)O	FEM_long	60.2	 Lipids and lipid-like molecules	 Fatty Acyls
+ASWBNKHCZGQVJV	CCCCCCCCCCCCCCCC(=O)OCC(O)COP(=O)([O-])OCC[N+](C)(C)C	LIFE_new	4.697783333299999	 Lipids and lipid-like molecules	 Glycerophospholipids
+ASWBNKHCZGQVJV	CCCCCCCCCCCCCCCC(=O)OCC(O)COP(=O)([O-])OCC[N+](C)(C)C	LIFE_old	4.4017583333	 Lipids and lipid-like molecules	 Glycerophospholipids
+JQUHMSXLZZWRHU	CC(=O)Oc1cc(OC(C)=O)c2c(=O)c(OC(C)=O)c(-c3ccc(OC(C)=O)c(OC(C)=O)c3)oc2c1	UniToyama_Atlantis	21.893333	 Phenylpropanoids and polyketides	 Flavonoids
+SEBFKMXJBCUCAI	COc1cc(C2Oc3cc(C4Oc5cc(O)cc(O)c5C(=O)C4O)ccc3OC2CO)ccc1O	Eugster_et_al_2015	9.74	 Lignans, neolignans and related compounds	 Flavonolignans
+ZFFLAEFKTXRRFR	COc1cc(-c2oc3cc(O)cc4[o+]ccc(c2OC2OC(CO)C(O)C(O)C2O)c34)cc(OC)c1[O-]	FEM_long	26.994	 Phenylpropanoids and polyketides	 Flavonoids
+YDDUMTOHNYZQPO	O=C(C=Cc1ccc(O)c(O)c1)OC1CC(OC(=O)C=Cc2ccc(O)c(O)c2)(C(=O)O)CC(O)C1O	Eugster_et_al_2015	4.21	 Organic oxygen compounds	 Organooxygen compounds
+VZHRBOGKNLICIO	COc1cc(-c2oc3cc(O)cc4oc(=O)cc(c2OC2OC(CO)C(O)C(O)C2O)c34)cc(OC)c1O	FEM_long	33.21	 Phenylpropanoids and polyketides	 Flavonoids
+WGYWEDJQQFKGID	COc1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(COC(C)=O)C(O)C(O)C2O)cc(OC)c1[O-]	FEM_long	28.9	 Phenylpropanoids and polyketides	 Flavonoids
+YOSHYTLCDANDAN	CCCCC1=NC2(CCCC2)C(=O)N1Cc1ccc(-c2ccccc2-c2nn[nH]n2)cc1	Eawag_XBridgeC18	9.2	 Benzenoids	 Benzene and substituted derivatives
+RYMZZMVNJRMUDD	CCC(C)(C)C(=O)OC1CC(C)C=C2C=CC(C)C(CCC3CC(O)CC(=O)O3)C21	Eawag_XBridgeC18	16	 Organoheterocyclic compounds	 Lactones
+CLQMBSSRTBUNDV	CC12CCC(=O)CC1CCC1C2CCC2(C)C(OC3OC(C(=O)O)C(O)C(O)C3O)CCC12	Boudah_et_al_2014_C18	9.68	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+VFUIRAVTUVCQTF	CC12CCC3C(CCC4CC(OC5OC(C(=O)O)C(O)C(O)C5O)CCC43C)C1CCC2=O	Boudah_et_al_2014_C18	10.28	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+ASTZXVSQSSBFOS	CCCCCCCCC=CCCCCCCCC(=O)OC(CCC(=O)[O-])[N+](C)(C)C	LIFE_new	4.5084083333	 Lipids and lipid-like molecules	 Fatty Acyls
+ASTZXVSQSSBFOS	CCCCCCCCC=CCCCCCCCC(=O)OC(CCC(=O)[O-])[N+](C)(C)C	LIFE_old	4.0834	 Lipids and lipid-like molecules	 Fatty Acyls
+QVULQDHVHOUFCX	COc1cc(-c2oc3cc(O)cc4[o+]c(C(=O)[O-])cc(c2OC2OC(CO)C(O)C(O)C2O)c34)cc(OC)c1O	FEM_long	28.3	 Phenylpropanoids and polyketides	 Flavonoids
+QDPWYLHHTYIKLU	COc1cc(-c2oc3cc(O)cc4[o+]c(C)cc(c2OC2OC(CO)C(O)C(O)C2O)c34)cc(OC)c1[O-]	FEM_long	28.63	 Phenylpropanoids and polyketides	 Flavonoids
+NTDLXWMIWOECHG	O=c1cc(-c2ccc(O)cc2)oc2cc(OC3OC(CO)C(O)C(O)C3OC3OCC(O)(CO)C3O)cc(O)c12	Eugster_et_al_2015	6.47	 Phenylpropanoids and polyketides	 Flavonoids
+NTDLXWMIWOECHG	O=c1cc(-c2ccc(O)cc2)oc2cc(OC3OC(CO)C(O)C(O)C3OC3OCC(O)(CO)C3O)cc(O)c12	FEM_long	29.56	 Phenylpropanoids and polyketides	 Flavonoids
+APIFOFBVRWSOFB	[O-]c1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2(O)OC2OCC(O)C(O)C2O)ccc1O	FEM_long	22.6	 Phenylpropanoids and polyketides	 Flavonoids
+YNMFDPCLPIMRFD	O=c1c(OC2OC(COC3OCC(O)C(O)C3O)C(O)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	Eugster_et_al_2015	4.94	 Phenylpropanoids and polyketides	 Flavonoids
+YNMFDPCLPIMRFD	O=c1c(OC2OC(COC3OCC(O)C(O)C3O)C(O)C(O)C2O)c(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12	FEM_long	28.295	 Phenylpropanoids and polyketides	 Flavonoids
+MAYJEFRPIKEYBL	CC1(C)OC(=O)C=CC2(C)C1CC(=O)C1(C)C2CCC2(C)C(c3ccoc3)OC(=O)C3OC321	Eugster_et_al_2015	14.66	 Lipids and lipid-like molecules	 Prenol lipids
+KBDSLGBFQAGHBE	CC1(C)OC2CC(=O)OCC23C1CC(=O)C1(C)C3CCC2(C)C(c3ccoc3)OC(=O)C3OC321	UniToyama_Atlantis	19.764117000000002	 Lipids and lipid-like molecules	 Prenol lipids
+SCULJPGYOQQXTK	CC(=O)OC1C(c2ccc(=O)oc2)C2(C)CCC3C(CCC4CC(O)CCC43C)C23OC13	UniToyama_Atlantis	21.39745	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+KBKUJJFDSHBPPA	CC(=O)OC1C(c2ccc(=O)oc2)C2(C)CCC3C(CCC4(O)CC(O)CCC34C)C23OC13	UniToyama_Atlantis	18.680782999999998	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+VOZHMAYHYHEWBW	CC(=O)OC1CC2(O)C3CCC4CC(O)CCC4(C)C3CCC2(C)C1c1ccc(=O)oc1	UniToyama_Atlantis	17.77831667	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+MTGFYEHKPMOVNE	CC(C=CC1=C(C)CCCC1(C)C)=CC=CC(C)=CC(=O)OC1OC(C(=O)O)C(O)C(O)C1O	Boudah_et_al_2014_C18	9.43	 Lipids and lipid-like molecules	 Prenol lipids
+YGCYRQKJYWQXHG	C=C1CCC2C(C)(COC3OC(CO)C(O)C(O)C3O)CCCC2(C)C1CCC1=CCOC1=O	Eugster_et_al_2015	11.29	 Lipids and lipid-like molecules	 Prenol lipids
+XBSQTYHEGZTYJE	CC(CCC(O)=NCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	LIFE_new	4.6111166667	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+XBSQTYHEGZTYJE	CC(CCC(O)=NCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	LIFE_old	3.5586333333	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+GHCZAUBVMUEKKP	CC(CCC(O)=NCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C	LIFE_new	4.2319833333	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+GHCZAUBVMUEKKP	CC(CCC(O)=NCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C	LIFE_old	3.4640833332999996	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+WVULKSPCQVQLCU	CC(CCC(O)=NCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C	Boudah_et_al_2014_C18	11.51	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+WVULKSPCQVQLCU	CC(CCC(O)=NCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C	LIFE_new	4.4391833333	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+WVULKSPCQVQLCU	CC(CCC(O)=NCC(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C	LIFE_old	3.4640833332999996	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+RFDAIACWWDREDC	CC(CCC(O)=NCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C	Boudah_et_al_2014_C18	10.01	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+RFDAIACWWDREDC	CC(CCC(O)=NCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C	LIFE_new	4.2363666667	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+RFDAIACWWDREDC	CC(CCC(O)=NCC(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C	LIFE_old	3.0504833333	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+QBYUNVOYXHFVKC	CC(CCC(O)=NCCS(=O)(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CCC12C	LIFE_old	3.8373583332999996	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+BHTRKEVKTKCXOH	CC(CCC(O)=NCCS(=O)(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C	Boudah_et_al_2014_C18	9.99	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+AWDRATDZQPNJFN	CC(CCC(O)=NCCS(=O)(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C	Boudah_et_al_2014_C18	10.34	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+AWDRATDZQPNJFN	CC(CCC(O)=NCCS(=O)(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C	LIFE_new	4.458375	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+AWDRATDZQPNJFN	CC(CCC(O)=NCCS(=O)(=O)O)C1CCC2C3CCC4CC(O)CCC4(C)C3CC(O)C12C	LIFE_old	3.3295833333	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+WBWWGRHZICKQGZ	CC(CCC(O)=NCCS(=O)(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C	Boudah_et_al_2014_C18	9.24	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+WBWWGRHZICKQGZ	CC(CCC(O)=NCCS(=O)(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CC(O)C12C	FEM_long	42.3	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+WSWZYDKVFGHVSM	CC(CCC(O)=NCCOS(=O)(=O)O)C1CCC2C3C(O)CC4CC(O)CCC4(C)C3CCC12C	FEM_long	45.6	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+HSNPMXROZIQAQD	CC(CCC(O)=NCCS(=O)(=O)O)C1CCC2C3CCC4CC(OS(=O)(=O)O)CCC4(C)C3CCC12C	Boudah_et_al_2014_C18	9.45	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+SPJFYYJXNPEZDW	CCCCCC=CCC=CCCCCCCCC(=O)OCC(O)COP(=O)([O-])OCC[N+](C)(C)C	LIFE_old	4.2542	 Lipids and lipid-like molecules	 Glycerophospholipids
+YAMUFBLWGFFICM	CCCCCCCCC=CCCCCCCCC(=O)OCC(O)COP(=O)([O-])OCC[N+](C)(C)C	LIFE_new	4.7199166667000005	 Lipids and lipid-like molecules	 Glycerophospholipids
+YAMUFBLWGFFICM	CCCCCCCCC=CCCCCCCCC(=O)OCC(O)COP(=O)([O-])OCC[N+](C)(C)C	LIFE_old	4.5043083333	 Lipids and lipid-like molecules	 Glycerophospholipids
+LGOFBZUQIUVJFS	CCCCCCCCCCCCCCCC(O)C(CO)N=C(O)CCCCCCC	RIKEN	0.56	 Lipids and lipid-like molecules	 Sphingolipids
+WBOMIOWRFSPZMC	CCCCCCCCCCCCCCCCC=COCC(O)COP(=O)([O-])OCC[N+](C)(C)C	LIFE_old	4.9477166667	 Lipids and lipid-like molecules	 Glycerophospholipids
+FKIYLTVJPDLUDL	CC1OC(OCC2OC(Oc3cc(O)c4c(=O)cc(-c5ccc(O)cc5)oc4c3)C(O)C(O)C2O)C(O)C(O)C1O	Eugster_et_al_2015	6.34	 Phenylpropanoids and polyketides	 Flavonoids
+RPMNUQRUHXIGHK	CC1OC(OC2C(Oc3cc(O)c4c(=O)cc(-c5ccc(O)cc5)oc4c3)OC(CO)C(O)C2O)C(O)C(O)C1O	UniToyama_Atlantis	11.776667	 Phenylpropanoids and polyketides	 Flavonoids
+PUPKKEQDLNREIM	CC1OC(Oc2cc(O)c3c(=O)c(OC4OC(C)C(O)C(O)C4O)c(-c4ccc(O)cc4)oc3c2)C(O)C(O)C1O	UniToyama_Atlantis	11.126667	 Phenylpropanoids and polyketides	 Flavonoids
+LYGPBZVKGHHTIE	CC1OC(OC2C(c3c(O)cc(O)c4c(=O)cc(-c5ccc(O)cc5)oc34)OC(CO)C(O)C2O)C(O)C(O)C1O	Eugster_et_al_2015	5.33	 Phenylpropanoids and polyketides	 Flavonoids
+GHYGFLACCCIQKR	COc1ccc(-c2cc(=O)c3c(O)cc(OC4OC(COC5OC(CO)C(O)C5O)C(O)C(O)C4O)cc3o2)cc1O	UniToyama_Atlantis	11.543333	 Phenylpropanoids and polyketides	 Flavonoids
+BJJCTXDEJUWVIC	CC1OC(OCC2OC(Oc3c(-c4ccccc4O)oc4cc(O)cc(O)c4c3=O)C(O)C(O)C2O)C(O)C(O)C1O	RIKEN	1.4	 Phenylpropanoids and polyketides	 Flavonoids
+RTATXGUCZHCSNG	CC1OC(OCC2OC(Oc3c(-c4ccc(O)cc4)oc4cc(O)cc(O)c4c3=O)C(O)C(O)C2O)C(O)C(O)C1O	Eugster_et_al_2015	6.53	 Phenylpropanoids and polyketides	 Flavonoids
+ZEJXENDZTYVXDP	CC1OC(OC2C(Oc3cc(O)c4c(=O)c(O)c(-c5ccc(O)cc5)oc4c3)OC(CO)C(O)C2O)C(O)C(O)C1O	RIKEN	1.44	 Phenylpropanoids and polyketides	 Flavonoids
+OHOBPOYHROOXEI	CC1OC(OC2C(Oc3c(-c4ccc(O)cc4)oc4cc(O)cc(O)c4c3=O)OC(CO)C(O)C2O)C(O)C(O)C1O	UniToyama_Atlantis	10.668333	 Phenylpropanoids and polyketides	 Flavonoids
+USNPULRDBDVJAO	CC1OC(OCC2OC(Oc3cc4c(O)cc(O)cc4[o+]c3-c3ccc(O)c([O-])c3)C(O)C(O)C2O)C(O)C(O)C1O	FEM_long	23.1	 Phenylpropanoids and polyketides	 Flavonoids
+HGUVPEBGCAVWID	O=c1cc(-c2ccc(O)cc2)oc2cc(OC3OC(CO)C(O)C(O)C3O)c(C3OC(CO)C(O)C(O)C3O)c(O)c12	Eugster_et_al_2015	4.51	 Phenylpropanoids and polyketides	 Flavonoids
+HGUVPEBGCAVWID	O=c1cc(-c2ccc(O)cc2)oc2cc(OC3OC(CO)C(O)C(O)C3O)c(C3OC(CO)C(O)C(O)C3O)c(O)c12	UniToyama_Atlantis	9.318333	 Phenylpropanoids and polyketides	 Flavonoids
+SLCKJKWFULXZBD	[O-]c1cc(OC2OC(CO)C(O)C(O)C2O)c2cc(OC3OC(CO)C(O)C(O)C3O)c(-c3ccc(O)cc3)[o+]c2c1	FEM_long	19.6	 Phenylpropanoids and polyketides	 Flavonoids
+SLCKJKWFULXZBD	[O-]c1cc(OC2OC(CO)C(O)C(O)C2O)c2cc(OC3OC(CO)C(O)C(O)C3O)c(-c3ccc(O)cc3)[o+]c2c1	RIKEN	1.14	 Phenylpropanoids and polyketides	 Flavonoids
+IKGXIBQEEMLURG	CC1OC(OCC2OC(Oc3c(-c4ccc(O)c(O)c4)oc4cc(O)cc(O)c4c3=O)C(O)C(O)C2O)C(O)C(O)C1O	Eugster_et_al_2015	5.37	 Phenylpropanoids and polyketides	 Flavonoids
+IKGXIBQEEMLURG	CC1OC(OCC2OC(Oc3c(-c4ccc(O)c(O)c4)oc4cc(O)cc(O)c4c3=O)C(O)C(O)C2O)C(O)C(O)C1O	FEM_long	29.1	 Phenylpropanoids and polyketides	 Flavonoids
+IKGXIBQEEMLURG	CC1OC(OCC2OC(Oc3c(-c4ccc(O)c(O)c4)oc4cc(O)cc(O)c4c3=O)C(O)C(O)C2O)C(O)C(O)C1O	UniToyama_Atlantis	10.243333	 Phenylpropanoids and polyketides	 Flavonoids
+RDFLLVCQYHQOBU	[O-]c1cc(-c2[o+]c3cc(O)cc(OC4OC(CO)C(O)C(O)C4O)c3cc2OC2OC(CO)C(O)C(O)C2O)ccc1O	FEM_long	18.375	 Phenylpropanoids and polyketides	 Flavonoids
+RDFLLVCQYHQOBU	[O-]c1cc(-c2[o+]c3cc(O)cc(OC4OC(CO)C(O)C(O)C4O)c3cc2OC2OC(CO)C(O)C(O)C2O)ccc1O	RIKEN	1.11	 Phenylpropanoids and polyketides	 Flavonoids
+SXYMMDGPXYVCER	[O-]c1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2OC2OC(CO)C(O)C(O)C2O)ccc1O	FEM_long	21.4	 Phenylpropanoids and polyketides	 Flavonoids
+SXYMMDGPXYVCER	[O-]c1cc(-c2[o+]c3cc(O)cc(O)c3cc2OC2OC(CO)C(O)C(O)C2OC2OC(CO)C(O)C(O)C2O)ccc1O	RIKEN	1.16	 Phenylpropanoids and polyketides	 Flavonoids
+BISZYPSIZGKOFA	O=c1cc(-c2ccc(O)c(OC3OC(CO)C(O)C(O)C3O)c2)oc2cc(OC3OC(CO)C(O)C(O)C3O)cc(O)c12	RIKEN	1.35	 Phenylpropanoids and polyketides	 Flavonoids
+RPVIQWDFJPYNJM	O=c1c(OC2OC(CO)C(O)C(O)C2O)c(-c2ccc(OC3OC(CO)C(O)C(O)C3O)c(O)c2)oc2cc(O)cc(O)c12	FEM_long	26.07	 Phenylpropanoids and polyketides	 Flavonoids
+RPVIQWDFJPYNJM	O=c1c(OC2OC(CO)C(O)C(O)C2O)c(-c2ccc(OC3OC(CO)C(O)C(O)C3O)c(O)c2)oc2cc(O)cc(O)c12	RIKEN	1.32	 Phenylpropanoids and polyketides	 Flavonoids
+DFPMSGMNTNDNHN	CC1OC(OC2C(Oc3cc(O)c4c(c3)OC(c3ccc(O)cc3)CC4=O)OC(CO)C(O)C2O)C(O)C(O)C1O	FEM_long	28.6	 Phenylpropanoids and polyketides	 Flavonoids
+DFPMSGMNTNDNHN	CC1OC(OC2C(Oc3cc(O)c4c(c3)OC(c3ccc(O)cc3)CC4=O)OC(CO)C(O)C2O)C(O)C(O)C1O	UniToyama_Atlantis	11.79165	 Phenylpropanoids and polyketides	 Flavonoids
+AZXIAVOSESIQNG	O=C1CC(c2ccc(O)c(O)c2)Cc2cc(OC3OC(COC4OC(O)C(O)C(O)C4O)C(O)C(O)C3O)cc(O)c21	Eugster_et_al_2015	5.41	 Benzenoids	 Naphthalenes
+VWWQXMAJTJZDQX	Cc1cc2nc3c(O)nc(=O)nc-3n(CC(O)C(O)C(O)COP(=O)(O)OP(=O)(O)OCC3OC(n4cnc5c(N)ncnc54)C(O)C3O)c2cc1C	FEM_long	20.7	 Nucleosides, nucleotides, and analogues	 Flavin nucleotides
+SGTNSNPWRIOYBX	COc1ccc(CCN(C)CCCC(C#N)(c2ccc(OC)c(OC)c2)C(C)C)cc1OC	Eawag_XBridgeC18	7.3	 Benzenoids	 Benzene and substituted derivatives
+KWVISVAMQJWJSZ	CC1CCC2(NC1)OC1CC3C4CC=C5CC(O)CCC5(C)C4CCC3(C)C1C2C	RIKEN	1.72	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+HVYWMOMLDIMFJA	CC(C)CCCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	FEM_long	60.2	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+PRYIJAGAEJZDBO	CC(C)CCCC(C)C1CCC2C3CC4OC45CC(O)CCC5(C)C3CCC12C	FEM_long	57.7	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+YNVJOQCPHWKWSO	Oc1ccc(C2c3c(O)cc(O)cc3C3C(c4ccc(O)cc4)c4c(O)cc(O)cc4C23)cc1	FEM_long	25.92	 Benzenoids	 Indanes
+BIQMSWPBPAKGSE	Oc1ccc(C=C2c3cc(O)cc(O)c3C(c3ccc(O)cc3)C2c2cc(O)cc(O)c2)cc1	FEM_long	26.215	 Phenylpropanoids and polyketides	 Stilbenes
+FQWLMRXWKZGLFI	Oc1ccc(C=Cc2cc(O)cc3c2C(c2cc(O)cc(O)c2)C(c2ccc(O)cc2)O3)cc1	FEM_long	33.46	 Phenylpropanoids and polyketides	 2-arylbenzofuran flavonoids
+YFVGIJBUXMQFOF	COc1ccc(-c2cc(=O)c3c(O)cc(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3o2)cc1	RIKEN	1.54	 Phenylpropanoids and polyketides	 Flavonoids
+YFVGIJBUXMQFOF	COc1ccc(-c2cc(=O)c3c(O)cc(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3o2)cc1	UniToyama_Atlantis	14.101667	 Phenylpropanoids and polyketides	 Flavonoids
+MLWDGPFGTFOLRJ	COc1ccc(-c2cc(=O)c3c(O)cc(OC4OC(CO)C(O)C(O)C4OC4OC(C)C(O)C(O)C4O)cc3o2)cc1	UniToyama_Atlantis	13.385	 Phenylpropanoids and polyketides	 Flavonoids
+GZSOSUNBTXMUFQ	COc1ccc(-c2cc(=O)c3c(O)cc(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3o2)cc1O	Eugster_et_al_2015	6.78	 Phenylpropanoids and polyketides	 Flavonoids
+QLOUGKRWTZAXFE	COc1cc2oc(-c3ccc(OC4OC(CO)C(O)C(O)C4O)cc3)cc(=O)c2c(O)c1C1OC(CO)C(O)C(O)C1O	UniToyama_Atlantis	4.86	 Phenylpropanoids and polyketides	 Flavonoids
+IPVSUYLZIAYTOK	COc1cc(-c2[o+]c3cc(O)cc(OC4OC(CO)C(O)C(O)C4O)c3cc2OC2OC(CO)C(O)C(O)C2O)ccc1[O-]	FEM_long	20.2	 Phenylpropanoids and polyketides	 Flavonoids
+UIDGLYUNOUKLBM	COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2OC2OC(COC3OC(C)C(O)C(O)C3O)C(O)C(O)C2O)ccc1O	Eugster_et_al_2015	6.25	 Phenylpropanoids and polyketides	 Flavonoids
+UIDGLYUNOUKLBM	COc1cc(-c2oc3cc(O)cc(O)c3c(=O)c2OC2OC(COC3OC(C)C(O)C(O)C3O)C(O)C(O)C2O)ccc1O	FEM_long	31.7	 Phenylpropanoids and polyketides	 Flavonoids
+RMCRQBAILCLJGU	COc1ccc(C2CC(=O)c3c(O)cc(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3O2)cc1	UniToyama_Atlantis	14.855782999999999	 Phenylpropanoids and polyketides	 Flavonoids
+NLAWPKPYBMEWIR	COc1ccc(C2CC(=O)c3c(O)cc(OC4OC(CO)C(O)C(O)C4OC4OC(C)C(O)C(O)C4O)cc3O2)cc1	RIKEN	1.56	 Phenylpropanoids and polyketides	 Flavonoids
+QUQPHWDTPGMPEX	COc1ccc(C2CC(=O)c3c(O)cc(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3O2)cc1O	Eugster_et_al_2015	6.9	 Phenylpropanoids and polyketides	 Flavonoids
+QUQPHWDTPGMPEX	COc1ccc(C2CC(=O)c3c(O)cc(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3O2)cc1O	RIKEN	1.45	 Phenylpropanoids and polyketides	 Flavonoids
+QUQPHWDTPGMPEX	COc1ccc(C2CC(=O)c3c(O)cc(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3O2)cc1O	UniToyama_Atlantis	12.08168333	 Phenylpropanoids and polyketides	 Flavonoids
+ARGKVCXINMKCAZ	COc1ccc(C2CC(=O)c3c(O)cc(OC4OC(CO)C(O)C(O)C4OC4OC(C)C(O)C(O)C4O)cc3O2)cc1O	Eugster_et_al_2015	7.17	 Phenylpropanoids and polyketides	 Flavonoids
+ITVGXXMINPYUHD	COc1ccc(CCC(=O)c2c(O)cc(OC3OC(CO)C(O)C(O)C3OC3OC(C)C(O)C(O)C3O)cc2O)cc1O	Eawag_XBridgeC18	7.2	 Phenylpropanoids and polyketides	 Flavonoids
+DNVPQKQSNYMLRS	CC(C)C(C)C=CC(C)C1CCC2C3=CC=C4CC(O)CCC4(C)C3CCC21C	FEM_long	58.9	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+PDIGSOAOQOXRDU	CCC=CCC=CCC=CCC=CCC=CCCCC(=O)OCC(O)COP(=O)([O-])OCC[N+](C)(C)C	LIFE_old	4.0197	 Lipids and lipid-like molecules	 Glycerophospholipids
+OXTGLFRGBDFBHI	COc1ccc(-c2cc(=O)c3c(O)c(C4OC(CO)C(O)C(O)C4OC4OC(C)C(O)C(O)C4O)c(OC)cc3o2)cc1	UniToyama_Atlantis	12.701667	 Phenylpropanoids and polyketides	 Flavonoids
+DUXQKCCELUKXOE	COc1ccc(-c2cc(=O)c3c(O)c(OC)c(OC4OC(COC5OC(C)C(O)C(O)C5O)C(O)C(O)C4O)cc3o2)cc1	UniToyama_Atlantis	14.26	 Phenylpropanoids and polyketides	 Flavonoids
+CILLXFBAACIQNS	COc1cc(-c2[o+]c3cc(O)cc(OC4OC(CO)C(O)C(O)C4O)c3cc2OC2OC(CO)C(O)C(O)C2O)cc(OC)c1[O-]	FEM_long	20.68	 Phenylpropanoids and polyketides	 Flavonoids
+CILLXFBAACIQNS	COc1cc(-c2[o+]c3cc(O)cc(OC4OC(CO)C(O)C(O)C4O)c3cc2OC2OC(CO)C(O)C(O)C2O)cc(OC)c1[O-]	RIKEN	1.15	 Phenylpropanoids and polyketides	 Flavonoids
+FBSKJMQYURKNSU	CC1OC(OC2C(O)C(OCCc3ccc(O)c(O)c3)OC(CO)C2OC(=O)C=Cc2ccc(O)c(O)c2)C(O)C(O)C1O	Eugster_et_al_2015	5.94	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+GVJHHUAWPYXKBD	Cc1c(C)c2c(c(C)c1O)CCC(C)(CCCC(C)CCCC(C)CCCC(C)C)O2	FEM_long	59.2	 Lipids and lipid-like molecules	 Prenol lipids
+CDZVJFRXJAUXPP	CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCC(=O)O	LIFE_old	4.5213583333	 Lipids and lipid-like molecules	 Glycerophospholipids
+RKIDALSACBQVTN	CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCC=O	LIFE_old	4.6584333333	 Lipids and lipid-like molecules	 Glycerophospholipids
+AEMRFAOFKBGASW	O=C(O)CO	FEM_long	2.3	 Organic acids and derivatives	 Hydroxy acids and derivatives
+YUSWMAULDXZHPY	O=c1cc(-c2ccc(O)c(-c3c(O)cc(O)c4c(=O)cc(-c5ccc(O)cc5)oc34)c2)oc2cc(O)cc(O)c12	UniToyama_Atlantis	16.118333	 Phenylpropanoids and polyketides	 Flavonoids
+GFWPWSNIXRDQJC	O=C1c2c(O)cc(O)cc2OC(c2ccc(O)cc2)C1c1c(O)cc(O)c2c(=O)cc(-c3ccc(O)c(O)c3)oc12	UniToyama_Atlantis	15.593333	 Phenylpropanoids and polyketides	 Flavonoids
+NSEWTSAADLNHNH	Oc1cc(O)c2c(c1)OC1(c3ccc(O)c(O)c3)Oc3cc(O)c4c(c3C2C1O)OC(c1ccc(O)c(O)c1)C(O)C4	FEM_long	25.2	 Phenylpropanoids and polyketides	 Flavonoids
+XFZJEEAOWLFHDH	Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)cc(O)c2c1OC(c1ccc(O)c(O)c1)C(O)C2	Eugster_et_al_2015	3.57	 Phenylpropanoids and polyketides	 Flavonoids
+XFZJEEAOWLFHDH	Oc1cc(O)c2c(c1)OC(c1ccc(O)c(O)c1)C(O)C2c1c(O)cc(O)c2c1OC(c1ccc(O)c(O)c1)C(O)C2	FEM_long	18.1425	 Phenylpropanoids and polyketides	 Flavonoids
+DVGGLGXQSFURLP	O=C(C=Cc1ccc(O)cc1)OCC1OC(Oc2c(-c3ccc(O)cc3)oc3cc(O)cc(O)c3c2=O)C(O)C(O)C1O	RIKEN	1.57	 Phenylpropanoids and polyketides	 Flavonoids
+MPDGHEJMBKOTSU	CC1(C(=O)O)CCC2(C)CCC3(C)C(=CC(=O)C4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1	Eugster_et_al_2015	20.39	 Lipids and lipid-like molecules	 Prenol lipids
+QGJZLNKBHJESQX	C=C(C)C1CCC2(C(=O)O)CCC3(C)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C12	Eugster_et_al_2015	23.35	 Lipids and lipid-like molecules	 Prenol lipids
+QGJZLNKBHJESQX	C=C(C)C1CCC2(C(=O)O)CCC3(C)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C12	FEM_long	53.2	 Lipids and lipid-like molecules	 Prenol lipids
+WCGUUGGRBIKTOS	CC1CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1C	Eugster_et_al_2015	23.96	 Lipids and lipid-like molecules	 Prenol lipids
+WCGUUGGRBIKTOS	CC1CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1C	FEM_long	53.6	 Lipids and lipid-like molecules	 Prenol lipids
+MIJYXULNPSFWEK	CC1(C)CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1	Eugster_et_al_2015	23.82	 Lipids and lipid-like molecules	 Prenol lipids
+MIJYXULNPSFWEK	CC1(C)CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1	UniToyama_Atlantis	31.62245	 Lipids and lipid-like molecules	 Prenol lipids
+GBJKHDVRXAVITG	CC(CC(O)C1OC1(C)C)C1=C2CC(O)C3C4(C)CCC(=O)C(C)(C)C4CCC3(C)C2(C)CC1	UniToyama_Atlantis	29.96665	 Lipids and lipid-like molecules	 Prenol lipids
+PGOYMURMZNDHNS	CC1(C)CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(CO)C5CCC43C)C2C1	Eugster_et_al_2015	18.89	 Lipids and lipid-like molecules	 Prenol lipids
+PGOYMURMZNDHNS	CC1(C)CCC2(C(=O)O)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(CO)C5CCC43C)C2C1	UniToyama_Atlantis	24.97245	 Lipids and lipid-like molecules	 Prenol lipids
+YKOPWPOFWMYZJZ	CC1(C)CCC2(C(=O)O)C(O)CC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1	Eugster_et_al_2015	19.2	 Lipids and lipid-like molecules	 Prenol lipids
+MQYXUWHLBZFQQO	C=C(C)C1CCC2(C)CCC3(C)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C12	Eugster_et_al_2015	33.82	 Lipids and lipid-like molecules	 Prenol lipids
+MQYXUWHLBZFQQO	C=C(C)C1CCC2(C)CCC3(C)C(CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C12	FEM_long	60	 Lipids and lipid-like molecules	 Prenol lipids
+FSLPMRQHCOLESF	CC1CCC2(C)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1C	Eugster_et_al_2015	32.78	 Lipids and lipid-like molecules	 Prenol lipids
+CAHGCLMLTWQZNJ	CC(C)=CCCC(C)C1CCC2(C)C3=C(CCC12C)C1(C)CCC(O)C(C)(C)C1CC3	FEM_long	58.31	 Lipids and lipid-like molecules	 Prenol lipids
+XUARCIYIVXVTAE	CC1CCC2(CO)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1C	Eugster_et_al_2015	25.37	 Lipids and lipid-like molecules	 Prenol lipids
+PSZDOEIIIJFCFE	CC1(C)CCC2(CO)CCC3(C)C(=CCC4C5(C)CCC(O)C(C)(C)C5CCC43C)C2C1	FEM_long	53.77	 Lipids and lipid-like molecules	 Prenol lipids
+HNOSJVWYGXOFRP	CC(CC(O)C(O)C(C)(C)O)C1=C2CC(O)C3C4(C)CCC(=O)C(C)(C)C4CCC3(C)C2(C)CC1	UniToyama_Atlantis	25.85998333	 Lipids and lipid-like molecules	 Prenol lipids
+MFHMTMFSFNMTFQ	COc1cc(-c2oc3cc(O)cc(=O)c-3cc2OC2OC(C[O+]=C([O-])C=Cc3ccc(O)cc3)C(O)C(O)C2O)ccc1O	FEM_long	32.985	 Phenylpropanoids and polyketides	 Flavonoids
+PULWZCUZNRVAHT	COCC12CN(C)C3C4C(OC)C1C3(C(OC)CC2O)C1CC2(O)C(OC)C(O)C4(O)C1C2OC(=O)c1ccccc1	UniToyama_Atlantis	14.451667	 Lipids and lipid-like molecules	 Prenol lipids
+ZQTNQVWKHCQYLQ	CCCCc1oc2ccc(NS(C)(=O)=O)cc2c1C(=O)c1ccc(OCCCN(CCCC)CCCC)cc1	Eawag_XBridgeC18	11.5	 Organic oxygen compounds	 Organooxygen compounds
+MBWXNTAXLNYFJB	CC(=CCC1=C(C)C(=O)c2ccccc2C1=O)CCCC(C)CCCC(C)CCCC(C)C	FEM_long	57.7	 Lipids and lipid-like molecules	 Prenol lipids
+HXQOVGDXCHFLOP	COc1cc(-c2oc3cc(O)cc(=O)c-3cc2OC2OC(C[O+]=C(O)C=Cc3ccc(O)cc3)C(O)C(O)C2O)cc(OC)c1[O-]	FEM_long	32.5	 Phenylpropanoids and polyketides	 Flavonoids
+OLBLWNPOURNBCY	[O-]c1cc(-c2[o+]c3cc(O)cc(OC4OC(CO)C(O)C(O)C4O)c3cc2OC2OC(CO)C(O)C(O)C2OC2OCC(O)C(O)C2O)ccc1O	RIKEN	1.12	 Phenylpropanoids and polyketides	 Flavonoids
+NLOAQXKIIGTTRE	CC(=O)OC(CC(C)C1=C2CC(O)C3C4(C)CCC(=O)C(C)(C)C4CCC3(C)C2(C)CC1)C1OC1(C)C	UniToyama_Atlantis	32.01331667	 Lipids and lipid-like molecules	 Prenol lipids
+ABFZMYIIUREPLL	CC(CCC(O)=NCC(=O)O)C1CCC2C3C(O)CC4CC(OC5OC(C(=O)O)C(O)C(O)C5O)CCC4(C)C3CCC12C	LIFE_new	4.3396	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+KLRDCIPGNCOJEG	CCCCCCCCCCCCCCC(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCCC(=O)O	LIFE_old	4.6634666667	 Lipids and lipid-like molecules	 Glycerophospholipids
+RMMXLENWKUUMAY	CCCc1nc2c(C)cc(-c3nc4ccccc4n3C)cc2n1Cc1ccc(-c2ccccc2C(=O)O)cc1	Eawag_XBridgeC18	9.2	 Benzenoids	 Benzene and substituted derivatives
+XUKUURHRXDUEBC	CC(C)c1c(C(O)=Nc2ccccc2)c(-c2ccccc2)c(-c2ccc(F)cc2)n1CCC(O)CC(O)CC(=O)O	Eawag_XBridgeC18	12.4	 Organoheterocyclic compounds	 Pyrroles
+BPYKTIZUTYGOLE	C=CC1=C(C)C(=Cc2[nH]c(Cc3[nH]c(C=C4NC(=O)C(C)=C4C=C)c(C)c3CCC(=O)O)c(CCC(=O)O)c2C)NC1=O	FEM_long	56.41	 Organoheterocyclic compounds	 Tetrapyrroles and derivatives
+QEVHRUUCFGRFIF	COC(=O)C1C2CC3c4[nH]c5cc(OC)ccc5c4CCN3CC2CC(OC(=O)c2cc(OC)c(OC)c(OC)c2)C1OC	Eawag_XBridgeC18	8.3	 Alkaloids and derivatives	 Yohimbine alkaloids
+TZJALUIVHRYQQB	COc1ccc(-c2oc3c(CC=C(C)C)c(OC4OC(CO)C(O)C(O)C4O)cc(O)c3c(=O)c2OC2OC(C)C(O)C(O)C2O)cc1	UniToyama_Atlantis	14.67501667	 Phenylpropanoids and polyketides	 Flavonoids
+PEFASEPMJYRQBW	CC1OC(OCC2OC(Oc3c(-c4ccc(O)cc4)oc4cc(OC5OC(C)C(O)C(O)C5O)cc(O)c4c3=O)C(O)C(O)C2O)C(O)C(O)C1O	Eugster_et_al_2015	4.85	 Phenylpropanoids and polyketides	 Flavonoids
+PEFASEPMJYRQBW	CC1OC(OCC2OC(Oc3c(-c4ccc(O)cc4)oc4cc(OC5OC(C)C(O)C(O)C5O)cc(O)c4c3=O)C(O)C(O)C2O)C(O)C(O)C1O	FEM_long	28.6	 Phenylpropanoids and polyketides	 Flavonoids
+PEFASEPMJYRQBW	CC1OC(OCC2OC(Oc3c(-c4ccc(O)cc4)oc4cc(OC5OC(C)C(O)C(O)C5O)cc(O)c4c3=O)C(O)C(O)C2O)C(O)C(O)C1O	UniToyama_Atlantis	9.868333	 Phenylpropanoids and polyketides	 Flavonoids
+ZDFOCDTXDPKJKA	CCCCCCCCCCCCCCCCOCC(COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCCCCCC(=O)O	LIFE_old	4.8562166667	 Lipids and lipid-like molecules	 Glycerophospholipids
+IWBJJCOKGLUQIZ	CC(C)=CCCC1(C)C(CC=C(C)C)CC2(CC=C(C)C)C(=O)C(CC=C(C)C)=C(O)C1(C(=O)C(C)C)C2=O	Eugster_et_al_2015	29.14	 Lipids and lipid-like molecules	 Prenol lipids
+WYDPEADEZMZKNM	CC1(C)CCC2(C(=O)O)C(O)CC3(C)C(=CCC4C5(C)CCC(OC6OC(CO)C(O)C(O)C6O)C(C)(C)C5CCC43C)C2C1	Eugster_et_al_2015	14.03	 Lipids and lipid-like molecules	 Prenol lipids
+NCDNCNXCDXHOMX	CC(C)c1nc(CN(C)C(O)=NC(C(O)=NC(Cc2ccccc2)CC(O)C(Cc2ccccc2)N=C(O)OCc2cncs2)C(C)C)cs1	Eawag_XBridgeC18	13.6	 Organic acids and derivatives	 Carboxylic acids and derivatives
+UEDUENGHJMELGK	C=C1CC23CCC4C(C)(C(=O)OC5OC(CO)C(O)C(O)C5O)CCCC4(C)C2CCC1(OC1OC(CO)C(O)C(O)C1OC1OC(CO)C(O)C(O)C1O)C3	Eugster_et_al_2015	10.18	 Lipids and lipid-like molecules	 Prenol lipids
+MQTOSJVFKKJCRP	CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)CN(C)C(C)C(O)C1(C)O	Eawag_XBridgeC18	5.9	 Organic oxygen compounds	 Organooxygen compounds
+LCTONWCANYUPML	CC(=O)C(=O)O	FEM_long	1.79	 Organic acids and derivatives	 Keto acids and derivatives
+OFOBLEOULBTSOW	O=C(O)CC(=O)O	FEM_long	2.11	 Organic acids and derivatives	 Carboxylic acids and derivatives
+JVTAAEKCZFNVCJ	CC(O)C(=O)O	FEM_long	2.51	 Organic acids and derivatives	 Hydroxy acids and derivatives
+ZMXDDKWLCZADIW	CN(C)C=O	RIKEN	0.51	 Organic acids and derivatives	 Carboxylic acids and derivatives
+JOYRKODLDBILNP	CCOC(=N)O	FEM_long	7.1	 Organic acids and derivatives	 Carboximidic acids and derivatives
+KEOITPILCOILGM	CC1OC(OC2C(OC3CCC4(C)C(CCC5(C)C4CC=C4C6CC(C)(C)CCC6(C(=O)O)CCC45C)C3(C)CO)OCC(O)C2O)C(O)C(O)C1O	Eugster_et_al_2015	15.81	 Lipids and lipid-like molecules	 Prenol lipids
+QMNWISYXSJWHRY	CC(C)(O)C1CCC(C)(C2C(O)CC3(C)C4CC(OC5OC(CO)C(O)C(O)C5O)C5C(C)(C)C(OC6OCC(O)C(O)C6O)CCC56CC46CCC23C)O1	UniToyama_Atlantis	17.49165	 Lipids and lipid-like molecules	 Steroids and steroid derivatives
+KUTVNHOAKHJJFL	Oc1ccc(C2Oc3cc(O)cc4c3C2c2cc(O)cc3c2C(c2cc(O)cc5c2C4C(c2ccc(O)cc2)O5)C(c2ccc(O)cc2)O3)cc1	FEM_long	32.975	 Phenylpropanoids and polyketides	 2-arylbenzofuran flavonoids
+RKFYYCKIHVEWHX	Oc1ccc(C=Cc2cc(O)cc3c2C(c2cc(O)cc4c2C(c2cc(O)cc(O)c2)C(c2ccc(O)cc2)O4)C(c2ccc(O)cc2)O3)cc1	FEM_long	32.6475	 Phenylpropanoids and polyketides	 2-arylbenzofuran flavonoids
+LPLVUJXQOOQHMX	CC1(C(=O)O)CCC2(C)CCC3(C)C(=CC(=O)C4C5(C)CCC(OC6OC(C(=O)O)C(O)C(O)C6OC6OC(C(=O)O)C(O)C(O)C6O)C(C)(C)C5CCC43C)C2C1	RIKEN	1.7	 Lipids and lipid-like molecules	 Prenol lipids
+LPLVUJXQOOQHMX	CC1(C(=O)O)CCC2(C)CCC3(C)C(=CC(=O)C4C5(C)CCC(OC6OC(C(=O)O)C(O)C(O)C6OC6OC(C(=O)O)C(O)C(O)C6O)C(C)(C)C5CCC43C)C2C1	UniToyama_Atlantis	12.28498333	 Lipids and lipid-like molecules	 Prenol lipids
+WRYJYFCCMSVEPQ	CC1OC(OC2CCC3(C)C(CCC4(C)C3C=CC3=C5CC(C)(C)CCC5(CO)C(O)CC34C)C2(C)CO)C(O)C(OC2OC(CO)C(O)C(O)C2O)C1O	UniToyama_Atlantis	19.405383	 Lipids and lipid-like molecules	 Prenol lipids
+UZIOUZHBUYLDHW	CC(C)=CCCC(C)(O)C1CCC2(C)C1C(O)CC1C3(C)CCC(O)C(C)(C)C3C(OC3OC(CO)C(O)C(O)C3OC3OC(CO)C(O)C(O)C3O)CC12C	Eugster_et_al_2015	10.83	 Lipids and lipid-like molecules	 Prenol lipids
+YURJSTAIMNSZAE	CC(C)=CCCC(C)(OC1OC(CO)C(O)C(O)C1O)C1CCC2(C)C1C(O)CC1C3(C)CCC(O)C(C)(C)C3C(OC3OC(CO)C(O)C(O)C3O)CC12C	Eugster_et_al_2015	8.24	 Lipids and lipid-like molecules	 Prenol lipids
+YURJSTAIMNSZAE	CC(C)=CCCC(C)(OC1OC(CO)C(O)C(O)C1O)C1CCC2(C)C1C(O)CC1C3(C)CCC(O)C(C)(C)C3C(OC3OC(CO)C(O)C(O)C3O)CC12C	UniToyama_Atlantis	13.00835	 Lipids and lipid-like molecules	 Prenol lipids
+WTJKGGKOPKCXLL	CCCCCCCCC=CCCCCCCCC(=O)OC(COC(=O)CCCCCCCCCCCCCCC)COP(=O)([O-])OCC[N+](C)(C)C	FEM_long	59.9	 Lipids and lipid-like molecules	 Glycerophospholipids
+BXEZTCOKOLHMKY	COc1cc(-c2[o+]c3cc(O)cc(OC4OC(CO)C(O)C(O)C4O)c3cc2OC2OC(COC3OC(C)C(OC(=O)C=Cc4ccc(O)cc4)C(O)C3O)C(O)C(O)C2O)cc(O)c1[O-]	RIKEN	1.36	 Phenylpropanoids and polyketides	 Flavonoids
+WBPYTXDJUQJLPQ	CCC1OC(=O)CC(O)C(C)C(OC2OC(C)C(OC3CC(C)(O)C(O)C(C)O3)C(N(C)C)C2O)C(CC=O)CC(C)C(=O)C=CC(C)=CC1COC1OC(C)C(O)C(OC)C1OC	Eawag_XBridgeC18	8.1	 Organic oxygen compounds	 Organooxygen compounds
+KQSFNXMDCOFFGW	CC1(C)CCC2(C(=O)OC3OC(CO)C(O)C(O)C3O)CCC3(C)C(=CCC4C5(C)CCC(OC6OC(C(=O)O)C(OC7OC(CO)C(O)C7O)C(O)C6O)C(C)(C)C5CCC43C)C2C1	UniToyama_Atlantis	15.205782999999998	 Lipids and lipid-like molecules	 Prenol lipids
+ZICDJKZDHVLVOD	CC(C)=CCCC(C)(O)C1CCC2(C)C1C(O)CC1C3(C)CCC(OC4OC(COC5OCC(O)C(O)C5O)C(O)C(O)C4OC4OC(CO)C(O)C(O)C4O)C(C)(C)C3CCC12C	UniToyama_Atlantis	21.414117	 Lipids and lipid-like molecules	 Prenol lipids
+WAIHGVAZVKEQGR	CCC=CCC=CCC=CCC=CCC=CCCCC(=O)OCC(COP(=O)([O-])OCC[N+](C)(C)C)OC(=O)CCCC=CCC=CCC=CCC=CCC=CCC	LIFE_old	5.616425	 Lipids and lipid-like molecules	 Glycerophospholipids
+NFZYDZXHKFHPGA	CC1(C)CCC2(C(=O)OC3OC(CO)C(O)C(O)C3O)CCC3(C)C(=CCC4C5(C)CCC(OC6OC(C(=O)O)C(O)C(O)C6OC6OC(CO)C(O)C(O)C6O)C(C)(C)C5CCC43C)C2C1	UniToyama_Atlantis	14.480782999999999	 Lipids and lipid-like molecules	 Prenol lipids
+VJEMOEYSQDKAQF	CC1OC(OC2C(COC3OC(CO)C(O)C(O)C3O)OC(OC3CCC4(C)C(CCC5(C)C4C=CC46OCC7(CCC(C)(C)CC74)C(O)CC56C)C3(C)C)C(O)C2O)C(O)C(O)C1O	UniToyama_Atlantis	17.205367000000003	 Lipids and lipid-like molecules	 Prenol lipids
+WYQVAPGDARQUBT	CC1CCC2(C(=O)OC3OC(COC4OC(CO)C(OC5OC(C)C(O)C(O)C5O)C(O)C4O)C(O)C(O)C3O)CCC3(C)C(=CCC4C5(C)CC(O)C(O)C(C)(CO)C5CCC43C)C2C1C	Eugster_et_al_2015	9.31	 Lipids and lipid-like molecules	 Prenol lipids
+BNMGUJRJUUDLHW	CC1CCC2(C(=O)OC3OC(COC4OC(CO)C(OC5OC(C)C(O)C(O)C5O)C(O)C4O)C(O)C(O)C3O)CCC3(C)C(=CCC4C5(C)CC(O)C(O)C(C)(CO)C5C(O)CC43C)C2C1C	Eugster_et_al_2015	8.38	 Lipids and lipid-like molecules	 Prenol lipids
+PWAOOJDMFUQOKB	CC(C)=CCCC(C)(OC1OC(CO)C(O)C(O)C1O)C1CCC2(C)C1C(O)CC1C3(C)CCC(O)C(C)(C)C3C(OC3OC(CO)C(O)C(O)C3OC3OC(C)C(O)C(O)C3O)CC12C	UniToyama_Atlantis	13.03165	 Lipids and lipid-like molecules	 Prenol lipids
+RLDVZILFNVRJTL	CC(C)=CCCC(C)(OC1OC(CO)C(O)C(O)C1O)C1CCC2(C)C1C(O)CC1C3(C)CCC(OC4OC(CO)C(O)C(O)C4OC4OC(CO)C(O)C(O)C4O)C(C)(C)C3CCC12C	UniToyama_Atlantis	17.53833333	 Lipids and lipid-like molecules	 Prenol lipids
+FAUYAENFVCNTAL	CCC=CCC=CCC=CCC=CCC=CCC=CCCC(=O)OC(COC(=O)CCCCCCCCCCCCCCCCC)COP(=O)([O-])OCC[N+](C)(C)C	LIFE_new	5.5145	 Lipids and lipid-like molecules	 Glycerophospholipids
+ZYZCGGRZINLQBL	C=C1C(O)=NC(C)C(O)=NC(CC(C)C)C(O)=NC(C(=O)O)C(C)C(O)=NC(CCCNC(=N)N)C(O)=NC(C=CC(C)=CC(C)C(Cc2ccccc2)OC)C(C)C(O)=NC(C(=O)O)CCC(=O)N1C	Eawag_XBridgeC18	10.2	 Organic acids and derivatives	 Peptidomimetics
+FEWPCPCEGBPTAL	Nc1cnnc(O)c1Cl	Eawag_XBridgeC18	1.3	 Organoheterocyclic compounds	 Diazines
+DHNRXBZYEKSXIM	Cn1sc(Cl)cc1=O	Eawag_XBridgeC18	3.7	 Organohalogen compounds	 Aryl halides
+ISAKRJDGNUQOIC	Oc1ccnc(O)n1	FEM_long	2.975	 Organoheterocyclic compounds	 Diazines
+ISAKRJDGNUQOIC	Oc1ccnc(O)n1	LIFE_old	0.75225	 Organoheterocyclic compounds	 Diazines
+NQTADLQHYWFPDB	O=C1CCC(=O)N1O	FEM_long	2	 Organoheterocyclic compounds	 Pyrrolidines
+YGCFIWIQZPHFLU	CC1=CC(O)=NS(=O)(=O)O1	Eawag_XBridgeC18	1.5	 Organic acids and derivatives	 Organic sulfuric acids and derivatives
+ZIYVHBGGAOATLY	CC(C(=O)O)C(=O)O	RIKEN	0.54	 Organic acids and derivatives	 Carboxylic acids and derivatives
+KDYFGRWQOYBRFD	O=C(O)CCC(=O)O	FEM_long	4.975	 Organic acids and derivatives	 Carboxylic acids and derivatives
+KDYFGRWQOYBRFD	O=C(O)CCC(=O)O	RIKEN	0.49	 Organic acids and derivatives	 Carboxylic acids and derivatives
+BJEPYKJPYRNKOW	O=C(O)CC(O)C(=O)O	FEM_long	2.005	 Organic acids and derivatives	 Hydroxy acids and derivatives
+HNJBEVLQSNELDL	OC1=NCCC1	FEM_long	5.9	 Organoheterocyclic compounds	 Pyrrolidines
+LDTLDBDUBGAEDT	COC(=O)CCS	FEM_long	33.795	 Organic acids and derivatives	 Carboxylic acids and derivatives
+AFENDNXGAFYKQO	CCC(O)C(=O)O	LIFE_old	1.3994	 Organic acids and derivatives	 Hydroxy acids and derivatives
+DBXBTMSZEOQQDU	CC(CO)C(=O)O	LIFE_new	1.7191666666999998	 Organic acids and derivatives	 Hydroxy acids and derivatives
+DBXBTMSZEOQQDU	CC(CO)C(=O)O	LIFE_old	1.39625	 Organic acids and derivatives	 Hydroxy acids and derivatives
+BWLBGMIXKSTLSX	CC(C)(O)C(=O)O	LIFE_old	1.39605	 Organic acids and derivatives	 Hydroxy acids and derivatives
+SJZRECIVHVDYJC	O=C(O)CCCO	LIFE_old	1.0729666667	 Lipids and lipid-like molecules	 Fatty Acyls
+JDCPEKQWFDWQLI	CC(C)=CCCC(C)(OC1OC(COC2OC(CO)C(O)C2O)C(O)C(O)C1O)C1CCC2(C)C1C(O)CC1C3(C)CCC(OC4OC(CO)C(O)C(O)C4OC4OC(CO)C(O)C(O)C4O)C(C)(C)C3CCC12C	UniToyama_Atlantis	16.23501667	 Lipids and lipid-like molecules	 Prenol lipids
+GZYPWOGIYAIIPV	CC(C)=CCCC(C)(OC1OC(COC2OC(CO)C(O)C(O)C2O)C(O)C(O)C1O)C1CCC2(C)C1C(O)CC1C3(C)CCC(OC4OC(CO)C(O)C(O)C4OC4OC(CO)C(O)C(O)C4O)C(C)(C)C3CCC12C	UniToyama_Atlantis	15.88498333	 Lipids and lipid-like molecules	 Prenol lipids
+HEIKOEZNFLUAEJ	Oc1ccc(C2Oc3cc(O)c4c(c3C2c2cc(O)cc(O)c2)C2C(c3ccc(O)cc3)c3c(O)cc5c(c3C2C4c2ccc(O)cc2)C(c2cc(O)cc(O)c2)C(c2ccc(O)cc2)O5)cc1	FEM_long	29.775	 Phenylpropanoids and polyketides	 2-arylbenzofuran flavonoids
+DTAYOOZOCCYGJM	Oc1ccc(C2Oc3cc(O)c4c(c3C2c2cc(O)cc(O)c2)C2c3c(O)cc5c(c3C(C4c3ccc(O)cc3)C2c2ccc(O)cc2)C(c2cc(O)cc(O)c2)C(c2ccc(O)cc2)O5)cc1	FEM_long	28.99	 Phenylpropanoids and polyketides	 2-arylbenzofuran flavonoids
+UHXUZOCRWCRNSJ	CN=C(O)ON=C(C)SC	Eawag_XBridgeC18	3.6	 Organic acids and derivatives	 Organic carbonic acids and derivatives
+NQPDZGIKBAWPEJ	CCCCC(=O)O	Boudah_et_al_2014_C18	5.19	 Lipids and lipid-like molecules	 Fatty Acyls
+WLAMNBDJUVNPJU	CCC(C)C(=O)O	FEM_long	22.2	 Lipids and lipid-like molecules	 Fatty Acyls
+JRHWHSJDIILJAT	CCCC(O)C(=O)O	Boudah_et_al_2014_C18	3.72	 Lipids and lipid-like molecules	 Fatty Acyls
+JRHWHSJDIILJAT	CCCC(O)C(=O)O	RIKEN	1.14	 Lipids and lipid-like molecules	 Fatty Acyls
+REKYPYSUBKSCAT	CCC(O)CC(=O)O	Boudah_et_al_2014_C18	2.16	 Lipids and lipid-like molecules	 Fatty Acyls
+NGEWQZIDQIYUNV	CC(C)C(O)C(=O)O	Boudah_et_al_2014_C18	3.24	 Lipids and lipid-like molecules	 Fatty Acyls
+NGEWQZIDQIYUNV	CC(C)C(O)C(=O)O	RIKEN	1.14	 Lipids and lipid-like molecules	 Fatty Acyls
+VEXDRERIMPLZLU	CC(O)C(C)C(=O)O	LIFE_old	1.5108333333000001	 Lipids and lipid-like molecules	 Fatty Acyls
+MBIQENSCDNJOIY	CCC(C)(O)C(=O)O	Boudah_et_al_2014_C18	2.35	 Lipids and lipid-like molecules	 Fatty Acyls
+AXFYFNCPONWUHW	CC(C)(O)CC(=O)O	LIFE_new	1.6329	 Lipids and lipid-like molecules	 Fatty Acyls
+AXFYFNCPONWUHW	CC(C)(O)CC(=O)O	LIFE_old	1.4409999999999998	 Lipids and lipid-like molecules	 Fatty Acyls
+NQRYJNQNLNOLGT	C1CCNCC1	FEM_long	2.5	 Organoheterocyclic compounds	 Piperidines
+SNDPXSYFESPGGJ	CCCC(N)C(=O)O	FEM_long	2.3	 Organic acids and derivatives	 Carboxylic acids and derivatives
+KZSNJWFQEVHDMF	CC(C)C(N)C(=O)O	FEM_long	2.185	 Organic acids and derivatives	 Carboxylic acids and derivatives
+DLAMVQGYEVKIRE	CNC(C)(C)C(=O)O	LIFE_old	0.7116	 Organic acids and derivatives	 Carboxylic acids and derivatives
+FFEARJCKVFRZRR	CSCCC(N)C(=O)O	FEM_long	2.8	 Organic acids and derivatives	 Carboxylic acids and derivatives
+MCWXGJITAZMZEV	CN=C(O)CSP(=S)(OC)OC	Eawag_XBridgeC18	5.2	 Organic acids and derivatives	 Organic dithiophosphoric acids and derivatives
+VJROPLWGFCORRM	CCC(C)CN	FEM_long	6.5	 Organic nitrogen compounds	 Organonitrogen compounds
+BMFVGAAISNGQNM	CC(C)CCN	FEM_long	6.9	 Organic nitrogen compounds	 Organonitrogen compounds
+WCYYAQFQZQEUEN	Oc1nc(Cl)c(Cl)cc1Cl	Eawag_XBridgeC18	9.7	 Organoheterocyclic compounds	 Pyridines and derivatives
+PXQPEWDEAKTCGB	O=C(O)c1cc(O)nc(O)n1	LIFE_old	0.7188166667	 Organoheterocyclic compounds	 Diazines
+FDGQSTZJBFJUBT	Oc1ncnc2[nH]cnc12	LIFE_old	0.8820166667	 Organoheterocyclic compounds	 Imidazopyrimidines
+HXNFUBHNUDHIGC	O=c1nc2[nH][nH]cc-2c(O)n1	RIKEN	0.7	 Organoheterocyclic compounds	 Imidazopyrimidines
+LRFVTYWOQMYALW	Oc1nc(O)c2nc[nH]c2n1	FEM_long	6.015	 Organoheterocyclic compounds	 Imidazopyrimidines
+LEHOTFFKMJEONL	Oc1nc(O)c2nc(O)[nH]c2n1	LIFE_old	0.75225	 Organoheterocyclic compounds	 Imidazopyrimidines
+HYBBIBNJHNGZAN	O=Cc1ccco1	FEM_long	12.2	 Organic oxygen compounds	 Organooxygen compounds
+SMNDYUVBFMFKNZ	O=C(O)c1ccco1	RIKEN	1.15	 Organoheterocyclic compounds	 Furans
+GFFGJBXGBJISGV	Nc1nc[nH]c2ncnc1-2	LIFE_old	0.6849833332999999	 Organoheterocyclic compounds	 Imidazopyrimidines
+UYTPUPDQBNUYGX	N=c1nc(O)c2nc[nH]c2[nH]1	FEM_long	3.215	 Organoheterocyclic compounds	 Imidazopyrimidines
+UBQKCCHYAOITMY	Oc1ccccn1	RIKEN	0.68	 Organoheterocyclic compounds	 Pyridines and derivatives
+WRHZVMBBRYBTKZ	O=C(O)c1ccc[nH]1	Boudah_et_al_2014_C18	5.35	 Organoheterocyclic compounds	 Pyrroles
+WRHZVMBBRYBTKZ	O=C(O)c1ccc[nH]1	LIFE_new	2.6093166667	 Organoheterocyclic compounds	 Pyrroles
+XNSGCNYTNLWRKM	Cn1ncc(N)c(Cl)c1=O	Eawag_XBridgeC18	2.2	 Organoheterocyclic compounds	 Diazines
+LVHBHZANLOWSRM	C=C(CC(=O)O)C(=O)O	RIKEN	1.09	 Lipids and lipid-like molecules	 Fatty Acyls
+IVENSCMCQBJAKW	CCN=c1[nH]c(Cl)nc(=N)[nH]1	Eawag_XBridgeC18	4.3	 Organoheterocyclic compounds	 Triazines
+NXFQWRWXEYTOTK	COc1nc(C)nc(=N)[nH]1	Eawag_XBridgeC18	1.7	 Organoheterocyclic compounds	 Triazines
+KDVFRMMRZOCFLS	CCCC(=O)C(=O)O	LIFE_old	1.6190333333000002	 Organic acids and derivatives	 Keto acids and derivatives
+QHKABHOOEWYVLI	CC(C)C(=O)C(=O)O	LIFE_new	1.9167666666999998	 Organic acids and derivatives	 Keto acids and derivatives
+QHKABHOOEWYVLI	CC(C)C(=O)C(=O)O	LIFE_old	1.4464166666999998	 Organic acids and derivatives	 Keto acids and derivatives
+GCXJINGJZAOJHR	CC(=O)C(C)C(=O)O	LIFE_old	1.61285	 Organic acids and derivatives	 Keto acids and derivatives
+JOOXCMJARBKPKM	CC(=O)CCC(=O)O	LIFE_new	1.46105	 Organic acids and derivatives	 Keto acids and derivatives
+JOOXCMJARBKPKM	CC(=O)CCC(=O)O	LIFE_old	1.3911333333000002	 Organic acids and derivatives	 Keto acids and derivatives
+UKFXDFUAPNAMPJ	CCC(C(=O)O)C(=O)O	Boudah_et_al_2014_C18	2.7	 Lipids and lipid-like molecules	 Fatty Acyls
+UKFXDFUAPNAMPJ	CCC(C(=O)O)C(=O)O	RIKEN	1.12	 Lipids and lipid-like molecules	 Fatty Acyls
+WXUAQHNMJWJLTG	CC(CC(=O)O)C(=O)O	Boudah_et_al_2014_C18	2.8	 Lipids and lipid-like molecules	 Fatty Acyls
+JDRMYOQETPMYQX	COC(=O)CCC(=O)O	Boudah_et_al_2014_C18	2.99	 Lipids and lipid-like molecules	 Fatty Acyls
+JFCQEDHGNNZCLN	O=C(O)CCCC(=O)O	FEM_long	10.24	 Organic acids and derivatives	 Carboxylic acids and derivatives
+JFCQEDHGNNZCLN	O=C(O)CCCC(=O)O	LIFE_new	1.32225	 Organic acids and derivatives	 Carboxylic acids and derivatives
+JFCQEDHGNNZCLN	O=C(O)CCCC(=O)O	LIFE_old	1.3669	 Organic acids and derivatives	 Carboxylic acids and derivatives
+XFTRTWQBIOMVPK	CC(O)(CC(=O)O)C(=O)O	FEM_long	5.185	 Lipids and lipid-like molecules	 Fatty Acyls
+XFTRTWQBIOMVPK	CC(O)(CC(=O)O)C(=O)O	RIKEN	0.51	 Lipids and lipid-like molecules	 Fatty Acyls
+XUWHAWMETYGRKB	OC1=NCCCC1	LIFE_new	1.6862833333	 Organoheterocyclic compounds	 Piperidines
+XUWHAWMETYGRKB	OC1=NCCCC1	LIFE_old	1.3867333333	 Organoheterocyclic compounds	 Piperidines
+PWKSKIMOESPYIA	CC(O)=NC(CS)C(=O)O	FEM_long	7.995	 Organic acids and derivatives	 Carboxylic acids and derivatives
+LELAOEBVZLPXAZ	CS(=O)CCCN=C=S	LIFE_new	3.2418166667	 Organosulfur compounds	 Sulfoxides
+CXZGQIAOTKWCDB	O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	7.3	 Organohalogen compounds	 Alkyl halides
+RHYVGCKRBKDRDX	CC1=C2N=C(C=C3N=C(C(C)=C4NC(C)(C5N=C1C(C)(CCC(O)=NCC(C)OP(=O)(O)OC1C(CO)OC([n+]6c[nH]c7cc(C)c(C)cc76)C1O)C5CC(=N)O)C(C)(CC(=N)O)C4CCC(=N)O)C(C)(CC(=N)O)C3CCC(=N)[O-])C(C)(C)C2CCC(=N)O	FEM_long	21.7	 Organoheterocyclic compounds	 Tetrapyrroles and derivatives
+DFWFIQKMSFGDCQ	CC(C)N=c1[nH]c(Cl)nc(=N)[nH]1	Eawag_XBridgeC18	5.6	 Organoheterocyclic compounds	 Triazines
+XNIHZNNZJHYHLC	CCCCC(=O)C(=O)O	Boudah_et_al_2014_C18	5.55	 Organic acids and derivatives	 Keto acids and derivatives
+JVQYSWDUAOAHFM	CCC(C)C(=O)C(=O)O	Boudah_et_al_2014_C18	4.41	 Organic acids and derivatives	 Keto acids and derivatives
+JVQYSWDUAOAHFM	CCC(C)C(=O)C(=O)O	LIFE_old	1.8646166667	 Organic acids and derivatives	 Keto acids and derivatives
+JVQYSWDUAOAHFM	CCC(C)C(=O)C(=O)O	RIKEN	1.21	 Organic acids and derivatives	 Keto acids and derivatives
+BKAJNAXTPSGJCU	CC(C)CC(=O)C(=O)O	Boudah_et_al_2014_C18	5.17	 Organic acids and derivatives	 Keto acids and derivatives
+BKAJNAXTPSGJCU	CC(C)CC(=O)C(=O)O	LIFE_old	1.9904833333	 Organic acids and derivatives	 Keto acids and derivatives
+IBMRTYCHDPMBFN	COC(=O)CCCC(=O)O	Boudah_et_al_2014_C18	4.98	 Lipids and lipid-like molecules	 Fatty Acyls
+XJMMNTGIMDZPMU	CC(CC(=O)O)CC(=O)O	Boudah_et_al_2014_C18	3.82	 Lipids and lipid-like molecules	 Fatty Acyls
+AQYCMVICBNBXNA	CC(CCC(=O)O)C(=O)O	Boudah_et_al_2014_C18	4.03	 Lipids and lipid-like molecules	 Fatty Acyls
+AQYCMVICBNBXNA	CC(CCC(=O)O)C(=O)O	RIKEN	1.16	 Lipids and lipid-like molecules	 Fatty Acyls
+GOHPTLYPQCTZSE	CC(C)(CC(=O)O)C(=O)O	Boudah_et_al_2014_C18	5.3	 Lipids and lipid-like molecules	 Fatty Acyls
+WNLRTRBMVRJNCN	O=C(O)CCCCC(=O)O	FEM_long	15.5	 Lipids and lipid-like molecules	 Fatty Acyls
+WNLRTRBMVRJNCN	O=C(O)CCCCC(=O)O	LIFE_new	2.3290666666999997	 Lipids and lipid-like molecules	 Fatty Acyls
+WNLRTRBMVRJNCN	O=C(O)CCCCC(=O)O	LIFE_old	1.4982833333	 Lipids and lipid-like molecules	 Fatty Acyls
+NPOAOTPXWNWTSH	CC(O)(CC(=O)O)CC(=O)O	FEM_long	7.04	 Lipids and lipid-like molecules	 Fatty Acyls
+NPOAOTPXWNWTSH	CC(O)(CC(=O)O)CC(=O)O	RIKEN	0.68	 Lipids and lipid-like molecules	 Fatty Acyls
+GCKLGRUZDXSATG	CC(C)N=c1[nH]c(O)nc(=N)[nH]1	Eawag_XBridgeC18	1.4	 Organoheterocyclic compounds	 Triazines
+PYUSHNKNPOHWEZ	CSCCC(N=CO)C(=O)O	Boudah_et_al_2014_C18	3.68	 Organic acids and derivatives	 Carboxylic acids and derivatives
+SUVMJBTUFCVSAD	CS(=O)CCCCN=C=S	RIKEN	1.44	 Organosulfur compounds	 Sulfoxides
+FUZZWVXGSFPDMH	CCCCCC(=O)O	FEM_long	30.885	 Lipids and lipid-like molecules	 Fatty Acyls
+NYHNVHGFPZAZGA	CCCCC(O)C(=O)O	Boudah_et_al_2014_C18	6.61	 Lipids and lipid-like molecules	 Fatty Acyls
+LVRFTAZAXQPQHI	CC(C)CC(O)C(=O)O	RIKEN	1.34	 Lipids and lipid-like molecules	 Fatty Acyls
+PNNNRSAQSRJVSB	CC(O)C(O)C(O)C(O)C=O	FEM_long	1.8	 Organic oxygen compounds	 Organooxygen compounds
+LRQKBLKVPFOOQJ	CCCCC(N)C(=O)O	RIKEN	0.57	 Organic acids and derivatives	 Carboxylic acids and derivatives
+AGPKZVBTJJNPAG	CCC(C)C(N)C(=O)O	FEM_long	4.615	 Organic acids and derivatives	 Carboxylic acids and derivatives
+AGPKZVBTJJNPAG	CCC(C)C(N)C(=O)O	LIFE_old	1.3452333333000002	 Organic acids and derivatives	 Carboxylic acids and derivatives
+AGPKZVBTJJNPAG	CCC(C)C(N)C(=O)O	RIKEN	0.48	 Organic acids and derivatives	 Carboxylic acids and derivatives
+ROHFNLRQFUQHCH	CC(C)CC(N)C(=O)O	FEM_long	4.98	 Organic acids and derivatives	 Carboxylic acids and derivatives
+ROHFNLRQFUQHCH	CC(C)CC(N)C(=O)O	LIFE_old	1.3452333333000002	 Organic acids and derivatives	 Carboxylic acids and derivatives
+GLUJNGJDHCTUJY	CC(C)C(N)CC(=O)O	RIKEN	0.55	 Organic acids and derivatives	 Carboxylic acids and derivatives
+QWVNCDVONVDGDV	CSCCC(N)CC(=O)O	RIKEN	0.66	 Organic acids and derivatives	 Carboxylic acids and derivatives
+HCAJEUSONLESMK	O=S(=O)(O)NC1CCCCC1	Eawag_XBridgeC18	3.6	 Organic acids and derivatives	 Sulfamic acid derivatives
+PELZSPZCXGTUMR	O=P(O)(O)OC1C(O)C(O)C(OP(=O)(O)O)C(O)C1O	RIKEN	2.13	 Organic oxygen compounds	 Organooxygen compounds
+SBZXBUIDTXKZTM	COCCOCCOC	Eawag_XBridgeC18	3.2	 Organic oxygen compounds	 Organooxygen compounds
+BMVXCPBXGZKUPN	CCCCCCN	FEM_long	15.1	 Organic nitrogen compounds	 Organonitrogen compounds
+BMVXCPBXGZKUPN	CCCCCCN	RIKEN	1.21	 Organic nitrogen compounds	 Organonitrogen compounds
+GZPHSAQLYPIAIN	N#Cc1cccnc1	RIKEN	1.18	 Organoheterocyclic compounds	 Pyridines and derivatives
+WXNZTHHGJRFXKQ	Oc1ccc(Cl)cc1	Eawag_XBridgeC18	7.3	 Benzenoids	 Phenols
+QRUDEWIWKLJBPS	c1ccc2[nH]nnc2c1	Eawag_XBridgeC18	4.4	 Organoheterocyclic compounds	 Benzotriazoles
+BTJIUGUIPKRLHP	O=[N+]([O-])c1ccc(O)cc1	Boudah_et_al_2014_C18	8.32	 Benzenoids	 Phenols
+DFPAKSUCGFBDDF	N=C(O)c1cccnc1	FEM_long	3.79	 Organoheterocyclic compounds	 Pyridines and derivatives
+DFPAKSUCGFBDDF	N=C(O)c1cccnc1	LIFE_old	0.9694166667	 Organoheterocyclic compounds	 Pyridines and derivatives
+VIHUZJYFQOEUMI	N=C(O)c1ncccc1O	Boudah_et_al_2014_C18	4.69	 Organoheterocyclic compounds	 Pyridines and derivatives
+QFDRTQONISXGJA	Cn1c(O)nc2[nH]c(O)nc2c1=O	LIFE_old	1.28035	 Organoheterocyclic compounds	 Imidazopyrimidines
+XZKIHKMTEMTJQX	O=[N+]([O-])c1ccc(OP(=O)(O)O)cc1	RIKEN	0.92	 Organic acids and derivatives	 Organic phosphoric acids and derivatives
+OUDFNZMQXZILJD	Cc1ccc(C=O)o1	FEM_long	20.29	 Organic oxygen compounds	 Organooxygen compounds
+YCIMNLLNPGFGHC	Oc1ccccc1O	FEM_long	13	 Benzenoids	 Phenols
+NOEGNKMFWQHSLB	O=Cc1ccc(CO)o1	FEM_long	11.94	 Organic oxygen compounds	 Organooxygen compounds
+PGOOBECODWQEAB	CN=C(NCc1cnc(Cl)s1)N[N+](=O)[O-]	Eawag_XBridgeC18	4.9	 Organoheterocyclic compounds	 Azoles
+WSWCOQWTEOXDQX	CC=CC=CC(=O)O	FEM_long	25.0607	 Lipids and lipid-like molecules	 Fatty Acyls
+CIWBSHSKHKDKBQ	O=C1OC(C(O)CO)C(O)=C1O	FEM_long	2.385	 Organoheterocyclic compounds	 Dihydrofurans
+KRKNYBCHXYNGOX	O=C(O)CC(O)(CC(=O)O)C(=O)O	FEM_long	3.91	 Organic acids and derivatives	 Carboxylic acids and derivatives
+KRKNYBCHXYNGOX	O=C(O)CC(O)(CC(=O)O)C(=O)O	LIFE_old	0.7850166667	 Organic acids and derivatives	 Carboxylic acids and derivatives
+VAOCPAMSLUNLGC	Cc1ncc([N+](=O)[O-])n1CCO	Eawag_XBridgeC18	2.1	 Organoheterocyclic compounds	 Azoles
+BKAWJIRCKVUVED	Cc1ncsc1CCO	RIKEN	1.08	 Organoheterocyclic compounds	 Azoles
+QKGJFQMGPDVOQE	CS(=O)C=CCCN=C=S	RIKEN	1.44	 Organosulfur compounds	 Sulfoxides
+PXUULQAPEKKVAH	O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	9.3	 Organohalogen compounds	 Alkyl halides
+XERJKGMBORTKEO	CCN=C(O)N=C(O)C(C#N)=NOC	Eawag_XBridgeC18	5.6	 Organic nitrogen compounds	 Organonitrogen compounds
+JXOHGGNKMLTUBP	O=C(O)C1=CC(O)C(O)C(O)C1	FEM_long	2.29	 Organic oxygen compounds	 Organooxygen compounds
+WRUSVQOKJIDBLP	CC=C(C)C(O)=NCC(=O)O	Boudah_et_al_2014_C18	3.88	 Organic acids and derivatives	 Carboxylic acids and derivatives
+WRUSVQOKJIDBLP	CC=C(C)C(O)=NCC(=O)O	RIKEN	1.18	 Organic acids and derivatives	 Carboxylic acids and derivatives
+PFWQSHXPNKRLIV	CC(C)=CC(O)=NCC(=O)O	Boudah_et_al_2014_C18	4.12	 Organic acids and derivatives	 Carboxylic acids and derivatives
+ODCWYMIRDDJXKW	CCN=c1nc(Cl)[nH]c(=NCC)[nH]1	Eawag_XBridgeC18	6.9	 Organoheterocyclic compounds	 Triazines
+LMKQNTMFZLAJDV	CC(C)(C)Nc1nc(Cl)nc(=N)[nH]1	Eawag_XBridgeC18	7.6	 Organoheterocyclic compounds	 Triazines
+AHBXXEZLRFCZSF	CC(C)(C)c1nnc(O)n(N)c1=O	Eawag_XBridgeC18	5.9	 Organoheterocyclic compounds	 Triazines
+UOBSVARXACCLLH	COC(=O)CCCCC(=O)O	Boudah_et_al_2014_C18	6.95	 Lipids and lipid-like molecules	 Fatty Acyls
+SYEOWUNSTUDKGM	CC(CCC(=O)[O-])CC(=O)[O-]	Boudah_et_al_2014_C18	5.61	 Lipids and lipid-like molecules	 Fatty Acyls
+DUHQIGLHYXLKAE	CC(C)(CC(=O)O)CC(=O)O	Boudah_et_al_2014_C18	5.64	 Lipids and lipid-like molecules	 Fatty Acyls
+BTUDGPVTCYNYLK	CC(C)(CCC(=O)O)C(=O)O	Boudah_et_al_2014_C18	6.1	 Lipids and lipid-like molecules	 Fatty Acyls
+WLJVNTCWHIRURA	O=C(O)CCCCCC(=O)O	Boudah_et_al_2014_C18	5.63	 Lipids and lipid-like molecules	 Fatty Acyls
+WLJVNTCWHIRURA	O=C(O)CCCCCC(=O)O	LIFE_new	3.16515	 Lipids and lipid-like molecules	 Fatty Acyls
+WLJVNTCWHIRURA	O=C(O)CCCCCC(=O)O	LIFE_old	1.7169666666999999	 Lipids and lipid-like molecules	 Fatty Acyls
+RNQHMTFBUSSBJQ	CC(C)C(C(=O)O)C(O)C(=O)O	Boudah_et_al_2014_C18	4.35	 Lipids and lipid-like molecules	 Fatty Acyls
+BITYXLXUCSKTJS	CC(C)C(O)(CC(=O)O)C(=O)O	Boudah_et_al_2014_C18	4.96	 Lipids and lipid-like molecules	 Fatty Acyls
+BITYXLXUCSKTJS	CC(C)C(O)(CC(=O)O)C(=O)O	FEM_long	18.105	 Lipids and lipid-like molecules	 Fatty Acyls
+BITYXLXUCSKTJS	CC(C)C(O)(CC(=O)O)C(=O)O	RIKEN	1.21	 Lipids and lipid-like molecules	 Fatty Acyls
+BOFXVYGDIRCHEQ	COC1OC(C(=O)O)C(O)C(O)C1O	FEM_long	2.4	 Organic oxygen compounds	 Organooxygen compounds
+YQIXRXMOJFQVBV	CCN=c1nc(O)[nH]c(=NCC)[nH]1	Eawag_XBridgeC18	3.5	 Organoheterocyclic compounds	 Triazines
+NUISVCFZNCYUIM	CC(C)(C)Nc1nc(=N)nc(O)[nH]1	Eawag_XBridgeC18	2.9	 Organoheterocyclic compounds	 Triazines
+BSYFPUSAWVWWDG	CCCC(N=C(C)O)C(=O)O	Boudah_et_al_2014_C18	5.05	 Organic acids and derivatives	 Carboxylic acids and derivatives
+IHYJTAOFMMMOPX	CC(O)=NC(C(=O)O)C(C)C	Boudah_et_al_2014_C18	4.35	 Organic acids and derivatives	 Carboxylic acids and derivatives
+ZRQXMKMBBMNNQC	CC(C)CC(O)=NCC(=O)O	Boudah_et_al_2014_C18	4.29	 Organic acids and derivatives	 Carboxylic acids and derivatives
+ZRQXMKMBBMNNQC	CC(C)CC(O)=NCC(=O)O	LIFE_new	2.7427833333	 Organic acids and derivatives	 Carboxylic acids and derivatives
+MNNBCKASUFBXCO	CC(O)=NC(C(=O)O)C(C)(C)S	Boudah_et_al_2014_C18	5.8	 Organic acids and derivatives	 Carboxylic acids and derivatives
+XUYPXLNMDZIRQH	CSCCC(N=C(C)O)C(=O)O	Boudah_et_al_2014_C18	4.51	 Organic acids and derivatives	 Carboxylic acids and derivatives
+HOMGKSMUEGBAAB	O=P1(NCCCl)OCCCN1CCCl	Eawag_XBridgeC18	6.3	 Organoheterocyclic compounds	 Oxazaphosphinanes
+CMSMOCZEIVJLDB	O=P1(N(CCCl)CCCl)NCCCO1	Eawag_XBridgeC18	6.3	 Organic nitrogen compounds	 Organonitrogen compounds
+JHEDYGILOIBOTL	CCC(C)C(N)CC(=O)O	RIKEN	1.1	 Organic acids and derivatives	 Carboxylic acids and derivatives
+UPMXNNIRAGDFEH	N#Cc1cc(Br)c(O)c(Br)c1	Eawag_XBridgeC18	8.3	 Benzenoids	 Benzene and substituted derivatives
+YOYAIZYFCNQIRF	N#Cc1c(Cl)cccc1Cl	Eawag_XBridgeC18	8.5	 Benzenoids	 Benzene and substituted derivatives
+NRXQIUSYPAHGNM	N#Cc1cc(I)c(O)c(I)c1	Eawag_XBridgeC18	9.3	 Benzenoids	 Benzene and substituted derivatives
+PHWAJJWKNLWZGJ	O=C(O)c1cc(Br)c(O)c(Br)c1	Eawag_XBridgeC18	7.3	 Benzenoids	 Benzene and substituted derivatives
+REEQLXCGVXDJSQ	O=C(O)COc1nc(Cl)c(Cl)cc1Cl	Eawag_XBridgeC18	10.3	 Organoheterocyclic compounds	 Pyridines and derivatives
+MEFQWPUMEMWTJP	Nc1c(Cl)c(F)nc(OCC(=O)O)c1Cl	Eawag_XBridgeC18	6.9	 Organoheterocyclic compounds	 Pyridines and derivatives
+JHSPCUHPSIUQRB	N=C(O)c1c(Cl)cccc1Cl	Eawag_XBridgeC18	4	 Benzenoids	 Benzene and substituted derivatives
+BAYGVMXZJBFEMB	Oc1ccc(C(F)(F)F)cc1	Eawag_XBridgeC18	8.9	 Benzenoids	 Benzene and substituted derivatives
+CVHZOJJKTDOEJC	O=S1(=O)N=C(O)c2ccccc21	Eawag_XBridgeC18	2.5	 Organoheterocyclic compounds	 Benzothiazoles
+DMSMPAJRVJJAGA	Oc1nsc2ccccc12	Eawag_XBridgeC18	5.1	 Organoheterocyclic compounds	 Benzothiazoles
+IOJUPLGTWVMSFF	c1ccc2scnc2c1	Eawag_XBridgeC18	6.6	 Organoheterocyclic compounds	 Benzothiazoles
+CYESCLHCWJKRKM	N=C(O)Nc1ccc(Cl)c(Cl)c1	Eawag_XBridgeC18	8.3	 Benzenoids	 Benzene and substituted derivatives
+RGHHSNMVTDWUBI	O=Cc1ccc(O)cc1	Boudah_et_al_2014_C18	6.22	 Organic oxygen compounds	 Organooxygen compounds
+RGHHSNMVTDWUBI	O=Cc1ccc(O)cc1	LIFE_new	3.3041333333	 Organic oxygen compounds	 Organooxygen compounds
+RGHHSNMVTDWUBI	O=Cc1ccc(O)cc1	LIFE_old	1.9126833333000002	 Organic oxygen compounds	 Organooxygen compounds
+IAVREABSGIHHMO	O=Cc1cccc(O)c1	FEM_long	20.3	 Organic oxygen compounds	 Organooxygen compounds
+WPYMKLBDIGXBTP	O=C(O)c1ccccc1	Boudah_et_al_2014_C18	7.86	 Benzenoids	 Benzene and substituted derivatives
+IBGBGRVKPALMCQ	O=Cc1ccc(O)c(O)c1	FEM_long	16.2	 Organic oxygen compounds	 Organooxygen compounds
+IJFXRHURBJZNAO	O=C(O)c1cccc(O)c1	Boudah_et_al_2014_C18	6.4	 Benzenoids	 Benzene and substituted derivatives
+IJFXRHURBJZNAO	O=C(O)c1cccc(O)c1	Eugster_et_al_2015	3.86	 Benzenoids	 Benzene and substituted derivatives
+FJKROLUGYXJWQN	O=C(O)c1ccc(O)cc1	Boudah_et_al_2014_C18	5.72	 Benzenoids	 Benzene and substituted derivatives
+FJKROLUGYXJWQN	O=C(O)c1ccc(O)cc1	Eugster_et_al_2015	2.96	 Benzenoids	 Benzene and substituted derivatives
+FJKROLUGYXJWQN	O=C(O)c1ccc(O)cc1	FEM_long	17.48	 Benzenoids	 Benzene and substituted derivatives
+FJKROLUGYXJWQN	O=C(O)c1ccc(O)cc1	RIKEN	1.25	 Benzenoids	 Benzene and substituted derivatives
+YGSDEFSMJLZEOE	O=C(O)c1ccccc1O	Boudah_et_al_2014_C18	8.68	 Benzenoids	 Benzene and substituted derivatives
+UIAFKZKHHVMJGS	O=C(O)c1ccc(O)cc1O	Boudah_et_al_2014_C18	5.88	 Benzenoids	 Benzene and substituted derivatives
+UIAFKZKHHVMJGS	O=C(O)c1ccc(O)cc1O	FEM_long	19.6	 Benzenoids	 Benzene and substituted derivatives
+WXTMDXOMEHJXQO	O=C(O)c1cc(O)ccc1O	Boudah_et_al_2014_C18	5.2	 Benzenoids	 Benzene and substituted derivatives
+AKEUNCKRJATALU	O=C(O)c1c(O)cccc1O	Boudah_et_al_2014_C18	6.53	 Benzenoids	 Benzene and substituted derivatives
+AKEUNCKRJATALU	O=C(O)c1c(O)cccc1O	FEM_long	16.9	 Benzenoids	 Benzene and substituted derivatives
+UYEMGAFJOZZIFP	O=C(O)c1cc(O)cc(O)c1	Boudah_et_al_2014_C18	2.58	 Benzenoids	 Benzene and substituted derivatives
+UYEMGAFJOZZIFP	O=C(O)c1cc(O)cc(O)c1	FEM_long	14.3	 Benzenoids	 Benzene and substituted derivatives
+YQUVCSBJEUQKSH	O=C(O)c1ccc(O)c(O)c1	Boudah_et_al_2014_C18	2.95	 Benzenoids	 Benzene and substituted derivatives
+YQUVCSBJEUQKSH	O=C(O)c1ccc(O)c(O)c1	Eugster_et_al_2015	2.13	 Benzenoids	 Benzene and substituted derivatives
+YQUVCSBJEUQKSH	O=C(O)c1ccc(O)c(O)c1	FEM_long	13.9	 Benzenoids	 Benzene and substituted derivatives
+YQUVCSBJEUQKSH	O=C(O)c1ccc(O)c(O)c1	RIKEN	1.14	 Benzenoids	 Benzene and substituted derivatives
+GLDQAMYCGOIJDV	O=C(O)c1cccc(O)c1O	Boudah_et_al_2014_C18	5.99	 Benzenoids	 Benzene and substituted derivatives
+HRBKVYFZANMGRE	COP(=S)(OC)Oc1nc(Cl)c(Cl)cc1Cl	Eawag_XBridgeC18	14	 Organic acids and derivatives	 Organic thiophosphoric acids and derivatives
+LRUDIIUSNGCQKF	Cc1ccc2nn[nH]c2c1	Eawag_XBridgeC18	5.8	 Organoheterocyclic compounds	 Benzotriazoles
+ALYNCZNDIQEVRV	Nc1ccc(C(=O)O)cc1	Boudah_et_al_2014_C18	2.54	 Benzenoids	 Benzene and substituted derivatives
+ALYNCZNDIQEVRV	Nc1ccc(C(=O)O)cc1	FEM_long	12.29	 Benzenoids	 Benzene and substituted derivatives
+ALYNCZNDIQEVRV	Nc1ccc(C(=O)O)cc1	LIFE_new	2.0943166666999997	 Benzenoids	 Benzene and substituted derivatives
+ALYNCZNDIQEVRV	Nc1ccc(C(=O)O)cc1	LIFE_old	1.5025666667	 Benzenoids	 Benzene and substituted derivatives
+ALYNCZNDIQEVRV	Nc1ccc(C(=O)O)cc1	RIKEN	1.13	 Benzenoids	 Benzene and substituted derivatives
+RWZYAGGXGHYGMB	Nc1ccccc1C(=O)O	Boudah_et_al_2014_C18	3.22	 Benzenoids	 Benzene and substituted derivatives
+SKZKKFZAGNVIMN	N=C(O)c1ccccc1O	Boudah_et_al_2014_C18	6.5	 Benzenoids	 Phenols
+WJXSWCUQABXPFS	Nc1c(O)cccc1C(=O)O	Boudah_et_al_2014_C18	2.54	 Benzenoids	 Benzene and substituted derivatives
+WJXSWCUQABXPFS	Nc1c(O)cccc1C(=O)O	RIKEN	1.13	 Benzenoids	 Benzene and substituted derivatives
+JZUFKLXOESDKRF	NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O	Boudah_et_al_2014_C18	5.73	 Organoheterocyclic compounds	 Thiadiazines
+JZUFKLXOESDKRF	NS(=O)(=O)c1cc2c(cc1Cl)NCNS2(=O)=O	Eawag_XBridgeC18	2.2	 Organoheterocyclic compounds	 Thiadiazines
+PXXJHWLDUBFPOL	N=C(N)c1ccccc1	RIKEN	0.78	 Benzenoids	 Benzene and substituted derivatives
+QUNWUDVFRNGTCO	Cn1c(O)nc2ncn(C)c2c1=O	Boudah_et_al_2014_C18	3.35	 Organoheterocyclic compounds	 Imidazopyrimidines
+QUNWUDVFRNGTCO	Cn1c(O)nc2ncn(C)c2c1=O	RIKEN	1.15	 Organoheterocyclic compounds	 Imidazopyrimidines
+YAPQBXQYLJRXSA	Cn1cnc2c1c(O)nc(=O)n2C	FEM_long	15.3	 Organoheterocyclic compounds	 Imidazopyrimidines
+ZFXYFBGIUFBOJW	Cn1c(=O)c2nc[nH]c2n(C)c1=O	Boudah_et_al_2014_C18	3.46	 Organoheterocyclic compounds	 Imidazopyrimidines
+ZFXYFBGIUFBOJW	Cn1c(=O)c2nc[nH]c2n(C)c1=O	FEM_long	17.8	 Organoheterocyclic compounds	 Imidazopyrimidines
+HMLZLHKHNBLLJD	Cn1c(O)nc2c1c(O)nc(=O)n2C	LIFE_new	1.5490166666999998	 Organoheterocyclic compounds	 Imidazopyrimidines
+ZBCATMYQYDCTIZ	Cc1ccc(O)c(O)c1	Boudah_et_al_2014_C18	7.39	 Benzenoids	 Phenols
+PGSWEKYNAOWQDF	Cc1cccc(O)c1O	Boudah_et_al_2014_C18	7.82	 Benzenoids	 Phenols
+LHGVFZTZFXWLCP	COc1ccccc1O	FEM_long	22.5	 Benzenoids	 Phenols
+BVJSUAQZOZWCKN	OCc1ccc(O)cc1	Boudah_et_al_2014_C18	2.57	 Benzenoids	 Benzene and substituted derivatives
+OKVJCVWFVRATSG	OCc1cccc(O)c1	Boudah_et_al_2014_C18	4.19	 Benzenoids	 Benzene and substituted derivatives
+CQRYARSYNCAZFO	OCc1ccccc1O	Boudah_et_al_2014_C18	4.99	 Benzenoids	 Benzene and substituted derivatives
+ZWBAMYVPMDSJGQ	O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	11.1	 Organohalogen compounds	 Alkyl halides
+NWWZPOKUUAIXIW	CN1COCN(Cc2cnc(Cl)s2)C1=N[N+](=O)[O-]	Eawag_XBridgeC18	4.1	 Organoheterocyclic compounds	 Azoles
+VGPYEHKOIGNJKV	COC(O)=NS(=O)(=O)c1ccc(N)cc1	Eawag_XBridgeC18	2.4	 Benzenoids	 Benzene and substituted derivatives
+RYYVLZVUVIJVGH	Cn1c(=O)c2c(ncn2C)n(C)c1=O	Boudah_et_al_2014_C18	5.16	 Organoheterocyclic compounds	 Imidazopyrimidines
+RYYVLZVUVIJVGH	Cn1c(=O)c2c(ncn2C)n(C)c1=O	Eawag_XBridgeC18	4	 Organoheterocyclic compounds	 Imidazopyrimidines
+RYYVLZVUVIJVGH	Cn1c(=O)c2c(ncn2C)n(C)c1=O	FEM_long	20.37	 Organoheterocyclic compounds	 Imidazopyrimidines
+RYYVLZVUVIJVGH	Cn1c(=O)c2c(ncn2C)n(C)c1=O	LIFE_new	3.1306666667000003	 Organoheterocyclic compounds	 Imidazopyrimidines
+RYYVLZVUVIJVGH	Cn1c(=O)c2c(ncn2C)n(C)c1=O	LIFE_old	1.65485	 Organoheterocyclic compounds	 Imidazopyrimidines
+RYYVLZVUVIJVGH	Cn1c(=O)c2c(ncn2C)n(C)c1=O	RIKEN	1.24	 Organoheterocyclic compounds	 Imidazopyrimidines
+NGVDGCNFYWLIFO	Cc1ncc(COP(=O)(O)O)c(C=O)c1O	FEM_long	3.99	 Organoheterocyclic compounds	 Pyridines and derivatives
+YCCILVSKPBXVIP	OCCc1ccc(O)cc1	FEM_long	17.5	 Benzenoids	 Phenols
+MTVWFVDWRVYDOR	OCC(O)c1ccc(O)c(O)c1	LIFE_old	1.0154166667	 Benzenoids	 Phenols
+JLTDJTHDQAWBAV	CN(C)c1ccccc1	Boudah_et_al_2014_C18	2.23	 Organic nitrogen compounds	 Organonitrogen compounds
+JLTDJTHDQAWBAV	CN(C)c1ccccc1	RIKEN	1.11	 Organic nitrogen compounds	 Organonitrogen compounds
+BHHGXPLMPWCGHP	NCCc1ccccc1	FEM_long	12.1	 Benzenoids	 Benzene and substituted derivatives
+DZGWFCGJZKJUFP	NCCc1ccc(O)cc1	FEM_long	6.2	 Benzenoids	 Benzene and substituted derivatives
+DZGWFCGJZKJUFP	NCCc1ccc(O)cc1	RIKEN	0.67	 Benzenoids	 Benzene and substituted derivatives
+LXNHXLLTXMVWPM	Cc1ncc(CO)c(CO)c1O	FEM_long	4.9	 Organoheterocyclic compounds	 Pyridines and derivatives
+LXNHXLLTXMVWPM	Cc1ncc(CO)c(CO)c1O	RIKEN	0.53	 Organoheterocyclic compounds	 Pyridines and derivatives
+WYVVKGNFXHOCQV	CCCCN=C(O)OCC#CI	Eawag_XBridgeC18	8.4	 Organic acids and derivatives	 Carboximidic acids and derivatives
+AJPIUNPJBFBUKK	Cc1cc(O)nc(C(C)C)n1	Eawag_XBridgeC18	3.4	 Organoheterocyclic compounds	 Diazines
+QCDQDISRALTLNQ	CN(C)S(=O)(=O)Nc1ccccc1	Eawag_XBridgeC18	6.3	 Benzenoids	 Benzene and substituted derivatives
+MXWJVTOOROXGIU	CCN=c1nc(Cl)[nH]c(=NC(C)C)[nH]1	Eawag_XBridgeC18	8.3	 Organoheterocyclic compounds	 Triazines
+HPHUVLMMVZITSG	CCC(C(=N)O)N1CCCC1=O	Eawag_XBridgeC18	3	 Organic acids and derivatives	 Carboxylic acids and derivatives
+VQFHWKRNHGHZTK	CC(C)CC1N=C(O)CN=C1O	LIFE_old	1.7513666666999999	 Organic acids and derivatives	 Carboxylic acids and derivatives
+FOXFZRUHNHCZPX	CSc1nnc(C(C)(C)C)c(=O)n1N	Eawag_XBridgeC18	6.9	 Organosulfur compounds	 Thioethers
+TYFQFVWCELRYAO	O=C(O)CCCCCCC(=O)O	Boudah_et_al_2014_C18	7.07	 Lipids and lipid-like molecules	 Fatty Acyls
+NFMIMWNQWAWNDW	CCN=c1nc(O)[nH]c(=NC(C)C)[nH]1	Eawag_XBridgeC18	4.4	 Organoheterocyclic compounds	 Triazines
+HKAMKLBXTLTVCN	CCN=c1nc(OC)[nH]c(=NCC)[nH]1	Eawag_XBridgeC18	4.9	 Organoheterocyclic compounds	 Triazines
+MWWBDLRPMWTLRX	CSc1nc(=N)nc(NC(C)(C)C)[nH]1	Eawag_XBridgeC18	6.7	 Organoheterocyclic compounds	 Triazines
+UPCKIPHSXMXJOX	CCCCCC(O)=NCC(=O)O	Boudah_et_al_2014_C18	6.87	 Organic acids and derivatives	 Carboxylic acids and derivatives
+JDTWZSUNGHMMJM	CCC(C)C(N=C(C)O)C(=O)O	Boudah_et_al_2014_C18	6.24	 Organic acids and derivatives	 Carboxylic acids and derivatives
+WXNXCEHXYPACJF	CC(O)=NC(CC(C)C)C(=O)O	Boudah_et_al_2014_C18	6.84	 Organic acids and derivatives	 Carboxylic acids and derivatives
+FCCDDURTIIUXBY	N=C(O)CCCCC1CCSS1	Boudah_et_al_2014_C18	9.11	 Organoheterocyclic compounds	 Dithiolanes
+FCCDDURTIIUXBY	N=C(O)CCCCC1CCSS1	FEM_long	29	 Organoheterocyclic compounds	 Dithiolanes
+FCCDDURTIIUXBY	N=C(O)CCCCC1CCSS1	RIKEN	1.57	 Organoheterocyclic compounds	 Dithiolanes
+NUXSIDPKKIEIMI	NC(CCCCNCC(=O)O)C(=O)O	LIFE_old	0.67575	 Organic acids and derivatives	 Carboxylic acids and derivatives
+CUAIAXBEFIRPKG	NC(CCCCN=C(O)CO)C(=O)O	LIFE_old	0.67575	 Organic acids and derivatives	 Carboxylic acids and derivatives
+WWZKQHOCKIZLMA	CCCCCCCC(=O)O	FEM_long	40.015	 Lipids and lipid-like molecules	 Fatty Acyls
+IOQPZZOEVPZRBK	CCCCCCCCN	FEM_long	27.585	 Organic nitrogen compounds	 Organonitrogen compounds
+BKOBFLVYTXYFQZ	O=C(O)C=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	13.6	 Lipids and lipid-like molecules	 Fatty Acyls
+IWEDIXLBFLAXBO	COc1c(Cl)ccc(Cl)c1C(=O)O	Eawag_XBridgeC18	7	 Benzenoids	 Benzene and substituted derivatives
+OVSKIKFHRZPJSS	O=C(O)COc1ccc(Cl)cc1Cl	Eawag_XBridgeC18	9.1	 Benzenoids	 Benzene and substituted derivatives
+FZTRDYSPWWJCOF	O=P(O)(O)OCCC(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	12.1	 Organic acids and derivatives	 Organic phosphoric acids and derivatives
+XNGIFLGASWRNHJ	O=C(O)c1ccccc1C(=O)O	Eugster_et_al_2015	3.48	 Benzenoids	 Benzene and substituted derivatives
+VDVJGIYXDVPQLP	O=C(O)c1ccc2c(c1)OCO2	FEM_long	26.715	 Organoheterocyclic compounds	 Benzodioxoles
+SIKJAQJRHWYJAI	c1ccc2[nH]ccc2c1	FEM_long	28.1	 Organoheterocyclic compounds	 Indoles and derivatives
+NLMQHXUGJIAKTH	Oc1cccc2[nH]ccc12	Boudah_et_al_2014_C18	6.43	 Organoheterocyclic compounds	 Indoles and derivatives
+BXFFHSIDQOFMLE	O=S(=O)(O)Oc1c[nH]c2ccccc12	RIKEN	1.24	 Organic acids and derivatives	 Organic sulfuric acids and derivatives
+IDQHRQQSSQDLTR	CN=C(O)Nc1ccc(Cl)c(Cl)c1	Eawag_XBridgeC18	8.5	 Benzenoids	 Benzene and substituted derivatives
+ZBSGKPYXQINNGF	O=C(O)CN=C(O)c1cccnc1	LIFE_old	1.3459999999999999	 Organic acids and derivatives	 Carboxylic acids and derivatives
+ZRSNZINYAWTAHE	COc1ccc(C=O)cc1	FEM_long	27.1	 Benzenoids	 Benzene and substituted derivatives
+WLJVXDMOQOGPHL	O=C(O)Cc1ccccc1	LIFE_old	1.1928166667	 Benzenoids	 Benzene and substituted derivatives
+ZEYHEAKUIGZSGI	COc1ccc(C(=O)O)cc1	Boudah_et_al_2014_C18	8.14	 Benzenoids	 Benzene and substituted derivatives
+ILUJQPXNXACGAN	COc1ccccc1C(=O)O	RIKEN	1.47	 Benzenoids	 Benzene and substituted derivatives
+OSWPMRLSEDHDFF	COC(=O)c1ccccc1O	FEM_long	34.5	 Benzenoids	 Benzene and substituted derivatives
+MWOOGOJBHIARFG	COc1cc(C=O)ccc1O	Eugster_et_al_2015	4.68	 Benzenoids	 Phenols
+MWOOGOJBHIARFG	COc1cc(C=O)ccc1O	FEM_long	21.505	 Benzenoids	 Phenols
+MWOOGOJBHIARFG	COc1cc(C=O)ccc1O	LIFE_new	3.446825	 Benzenoids	 Phenols
+MWOOGOJBHIARFG	COc1cc(C=O)ccc1O	LIFE_old	2.03495	 Benzenoids	 Phenols
+WHSXTWFYRGOBGO	Cc1cccc(C(=O)O)c1O	Boudah_et_al_2014_C18	9.8	 Benzenoids	 Benzene and substituted derivatives
+LTFHNKUKQYVHDX	Cc1cc(C(=O)O)ccc1O	Boudah_et_al_2014_C18	6.83	 Benzenoids	 Benzene and substituted derivatives
+LTFHNKUKQYVHDX	Cc1cc(C(=O)O)ccc1O	LIFE_new	3.4600166667	 Benzenoids	 Benzene and substituted derivatives
+BBMFSGOFUHEVNP	Cc1cc(O)ccc1C(=O)O	Boudah_et_al_2014_C18	6.51	 Benzenoids	 Benzene and substituted derivatives
+IWYDHOAUDWTVEP	O=C(O)C(O)c1ccccc1	Boudah_et_al_2014_C18	5.7	 Benzenoids	 Benzene and substituted derivatives
+FVMDYYGIDFPZAX	O=C(O)Cc1cccc(O)c1	Eugster_et_al_2015	3.95	 Benzenoids	 Phenols
+XQXPVVBIMDBYFF	O=C(O)Cc1ccc(O)cc1	Boudah_et_al_2014_C18	8.8	 Benzenoids	 Phenols
+CCVYRRGZDBSHFU	O=C(O)Cc1ccccc1O	Boudah_et_al_2014_C18	6.51	 Benzenoids	 Benzene and substituted derivatives
+CCVYRRGZDBSHFU	O=C(O)Cc1ccccc1O	RIKEN	1.38	 Benzenoids	 Benzene and substituted derivatives
+IZZIWIAOVZOBLF	COc1ccc(O)c(C(=O)O)c1	Boudah_et_al_2014_C18	8.22	 Benzenoids	 Benzene and substituted derivatives
+IZZIWIAOVZOBLF	COc1ccc(O)c(C(=O)O)c1	LIFE_new	3.6948666667000003	 Benzenoids	 Benzene and substituted derivatives
+IZZIWIAOVZOBLF	COc1ccc(O)c(C(=O)O)c1	LIFE_old	2.4131833333	 Benzenoids	 Benzene and substituted derivatives
+AUZQQIPZESHNMG	COc1cccc(C(=O)O)c1O	Boudah_et_al_2014_C18	7.51	 Benzenoids	 Benzene and substituted derivatives
+AAUQLHHARJUJEH	COc1cccc(O)c1C(=O)O	Boudah_et_al_2014_C18	8.24	 Benzenoids	 Benzene and substituted derivatives
+WKOLLVMJNQIZCI	COc1cc(C(=O)O)ccc1O	Eugster_et_al_2015	3.58	 Benzenoids	 Benzene and substituted derivatives
+WKOLLVMJNQIZCI	COc1cc(C(=O)O)ccc1O	FEM_long	20.3	 Benzenoids	 Benzene and substituted derivatives
+WKOLLVMJNQIZCI	COc1cc(C(=O)O)ccc1O	LIFE_new	3.17385	 Benzenoids	 Benzene and substituted derivatives
+WKOLLVMJNQIZCI	COc1cc(C(=O)O)ccc1O	LIFE_old	1.77605	 Benzenoids	 Benzene and substituted derivatives
+JEQRBTDTEKWZBW	CC(=O)c1c(O)oc(C)cc1=O	Boudah_et_al_2014_C18	8.32	 Organic oxygen compounds	 Organooxygen compounds
+IGMNYECMUMZDDF	O=C(O)Cc1cc(O)ccc1O	RIKEN	1.1	 Benzenoids	 Benzene and substituted derivatives
+CFFZDZCDUFSOFZ	O=C(O)Cc1ccc(O)c(O)c1	Boudah_et_al_2014_C18	4	 Benzenoids	 Phenols
+OLSDAJRAVOVKLG	O=C(O)C(O)c1cccc(O)c1	Boudah_et_al_2014_C18	2.18	 Benzenoids	 Phenols
+OLSDAJRAVOVKLG	O=C(O)C(O)c1cccc(O)c1	RIKEN	1	 Benzenoids	 Phenols
+FBSFWRHWHYMIOG	COC(=O)c1cc(O)c(O)c(O)c1	FEM_long	18.2	 Benzenoids	 Benzene and substituted derivatives
+RZVAJINKPMORJF	CC(O)=Nc1ccc(O)cc1	Boudah_et_al_2014_C18	2.7	 Benzenoids	 Phenols
+RZVAJINKPMORJF	CC(O)=Nc1ccc(O)cc1	Eawag_XBridgeC18	2.2	 Benzenoids	 Phenols
+RZVAJINKPMORJF	CC(O)=Nc1ccc(O)cc1	RIKEN	1.15	 Benzenoids	 Phenols
+RADKZDMFGJYCBB	Cc1ncc(CO)c(C=O)c1O	FEM_long	3.775	 Organoheterocyclic compounds	 Pyridines and derivatives
+VSOOBQALJVLTBH	COC(=O)c1ccccc1S(N)(=O)=O	Eawag_XBridgeC18	4.5	 Benzenoids	 Benzene and substituted derivatives
+SNGREZUHAYWORS	O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	12.6	 Organohalogen compounds	 Alkyl halides
+XKJMBINCVNINCA	CON(C)C(O)=Nc1ccc(Cl)c(Cl)c1	Eawag_XBridgeC18	10	 Benzenoids	 Benzene and substituted derivatives
+ADWTYURAFSWNSU	OC1=NCCN1Cc1ccc(Cl)nc1	Eawag_XBridgeC18	4.6	 Organoheterocyclic compounds	 Pyridines and derivatives
+YWTYJOPNNQFBPC	O=[N+]([O-])NC1=NCCN1Cc1ccc(Cl)nc1	Eawag_XBridgeC18	4.8	 Organic nitrogen compounds	 Organonitrogen compounds
+ACWBBAGYTKWBCD	NC(Cc1ccc(O)c(Cl)c1)C(=O)O	RIKEN	1.1	 Organic acids and derivatives	 Carboxylic acids and derivatives
+FIRDBEQIJQERSE	O=c1nc(O)ccn1C1OC(CO)C(O)C1(F)F	Eawag_XBridgeC18	1.7	 Nucleosides, nucleotides, and analogues	 Pyrimidine nucleosides
+HSMNQINEKMPTIC	Nc1ccc(C(=O)NCC(=O)O)cc1	LIFE_old	1.2945	 Benzenoids	 Benzene and substituted derivatives
+HSMNQINEKMPTIC	Nc1ccc(C(=O)NCC(=O)O)cc1	RIKEN	0.93	 Benzenoids	 Benzene and substituted derivatives
+YOMSJEATGXXYPX	C=Cc1ccc(O)c(OC)c1	FEM_long	31.3	 Benzenoids	 Phenols
+CBOQJANXLMLOSS	CCOc1cc(C=O)ccc1O	FEM_long	27.25	 Organic oxygen compounds	 Organooxygen compounds
+DFYRUELUNQRZTB	COc1cc(C(C)=O)ccc1O	FEM_long	23.9	 Organic oxygen compounds	 Organooxygen compounds
+NWCHELUCVWSRRS	CC(O)(C(=O)O)c1ccccc1	Boudah_et_al_2014_C18	7.11	 Benzenoids	 Benzene and substituted derivatives
+FWZBPBKAANKOJQ	O=C(O)Cc1ccc(CO)cc1	Boudah_et_al_2014_C18	5.65	 Benzenoids	 Benzene and substituted derivatives
+VOXXWSYKYCBWHO	O=C(O)C(O)Cc1ccccc1	LIFE_new	3.4909	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+VOXXWSYKYCBWHO	O=C(O)C(O)Cc1ccccc1	LIFE_old	2.07815	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+VOXXWSYKYCBWHO	O=C(O)C(O)Cc1ccccc1	RIKEN	1.42	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+NMHMNPHRMNGLLB	O=C(O)CCc1ccc(O)cc1	RIKEN	1.38	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+KCDXJAYRVLXPFO	COc1cc(C=O)cc(OC)c1O	Eugster_et_al_2015	5.05	 Benzenoids	 Phenols
+KCDXJAYRVLXPFO	COc1cc(C=O)cc(OC)c1O	FEM_long	23.5	 Benzenoids	 Phenols
+BWXLCOBSWMQCGP	COc1ccc(CC(=O)O)cc1O	Boudah_et_al_2014_C18	6.32	 Benzenoids	 Phenols
+QRMZSPFSDQBLIX	COc1cc(CC(=O)O)ccc1O	Boudah_et_al_2014_C18	6.14	 Benzenoids	 Phenols
+QRMZSPFSDQBLIX	COc1cc(CC(=O)O)ccc1O	Eugster_et_al_2015	3.98	 Benzenoids	 Phenols
+QRMZSPFSDQBLIX	COc1cc(CC(=O)O)ccc1O	RIKEN	1.33	 Benzenoids	 Phenols
+HXIPUYVSSGKLFF	CC(O)(C(=O)O)c1ccc(O)cc1	Boudah_et_al_2014_C18	4.09	 Benzenoids	 Phenols
+JVGVDSSUAVXRDY	O=C(O)C(O)Cc1ccc(O)cc1	LIFE_new	2.66345	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+JVGVDSSUAVXRDY	O=C(O)C(O)Cc1ccc(O)cc1	LIFE_old	1.54435	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+JVGVDSSUAVXRDY	O=C(O)C(O)Cc1ccc(O)cc1	RIKEN	1.18	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+DZAUWHJDUNRCTF	O=C(O)CCc1ccc(O)c(O)c1	Boudah_et_al_2014_C18	5.66	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+DZAUWHJDUNRCTF	O=C(O)CCc1ccc(O)c(O)c1	LIFE_new	3.0593166667	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+DZAUWHJDUNRCTF	O=C(O)CCc1ccc(O)c(O)c1	LIFE_old	1.6857166666999999	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+HMCMTJPPXSGYJY	O=C(O)CCc1ccc(O)cc1O	LIFE_new	3.0216	 Phenylpropanoids and polyketides	 Phenylpropanoic acids
+JMSVCTWVEWCHDZ	COc1cc(C(=O)O)cc(OC)c1O	Eugster_et_al_2015	3.87	 Benzenoids	 Benzene and substituted derivatives
+JMSVCTWVEWCHDZ	COc1cc(C(=O)O)cc(OC)c1O	FEM_long	21.9	 Benzenoids	 Benzene and substituted derivatives
+JMSVCTWVEWCHDZ	COc1cc(C(=O)O)cc(OC)c1O	LIFE_old	1.7880166667	 Benzenoids	 Benzene and substituted derivatives
+VFPFQHQNJCMNBZ	CCOC(=O)c1cc(O)c(O)c(O)c1	Eugster_et_al_2015	5.01	 Benzenoids	 Benzene and substituted derivatives
+VFPFQHQNJCMNBZ	CCOC(=O)c1cc(O)c(O)c(O)c1	FEM_long	23.02	 Benzenoids	 Benzene and substituted derivatives
+SBPBAQFWLVIOKP	CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl	Eawag_XBridgeC18	16	 Organic acids and derivatives	 Organic thiophosphoric acids and derivatives
+BMLIZLVNXIYGCK	CN(C)C(=O)Nc1ccc(Cl)cc1	Eawag_XBridgeC18	6.7	 Benzenoids	 Benzene and substituted derivatives
+COLNVLDHVKWLRT	NC(Cc1ccccc1)C(=O)O	Boudah_et_al_2014_C18	2.19	 Organic acids and derivatives	 Carboxylic acids and derivatives
+COLNVLDHVKWLRT	NC(Cc1ccccc1)C(=O)O	LIFE_new	1.5870166666999999	 Organic acids and derivatives	 Carboxylic acids and derivatives
+COLNVLDHVKWLRT	NC(Cc1ccccc1)C(=O)O	LIFE_old	1.403	 Organic acids and derivatives	 Carboxylic acids and derivatives
+DMCFAMSXKWZQEI	O=C(O)CCC1N=C(O)C(CC(=O)O)N=C1O	LIFE_old	0.88355	 Organic acids and derivatives	 Carboxylic acids and derivatives
+WCPTXJJVVDAEMW	N=c1ccn(C2OC3COP(=O)(O)OC3C2O)c(O)n1	RIKEN	0.67	 Organic oxygen compounds	 Organooxygen compounds
+CTSLUCNDVMMDHG	CCC(C)n1c(O)nc(C)c(Br)c1=O	Eawag_XBridgeC18	7	 Organoheterocyclic compounds	 Diazines
+MZZBPDKVEFVLFF	CCN=c1nc(Cl)nc(NC(C)(C)C#N)[nH]1	Eawag_XBridgeC18	6.6	 Organoheterocyclic compounds	 Triazines
+KWTSXDURSIMDCE	CC(N)Cc1ccccc1	Eawag_XBridgeC18	3.5	 Benzenoids	 Benzene and substituted derivatives
+CKTSBUTUHBMZGZ	N=c1ccn(C2CC(O)C(CO)O2)c(O)n1	RIKEN	0.45	 Nucleosides, nucleotides, and analogues	 Pyrimidine nucleosides
+UHDGCWIWMRVCDJ	N=c1ccn(C2OC(CO)C(O)C2O)c(O)n1	LIFE_old	0.7487333333	 Nucleosides, nucleotides, and analogues	 Pyrimidine nucleosides
+SONNWYBIRXJNDC	CNCC(O)c1cccc(O)c1	RIKEN	0.59	 Benzenoids	 Phenols
+UDCDOJQOXWCCSD	Cc1ccc(NS(=O)(=O)N(C)C)cc1	Eawag_XBridgeC18	7.5	 Benzenoids	 Benzene and substituted derivatives
+UBLWFFBGMBRBMC	CC(O)C1N=C(O)C2CCCN2C1=O	LIFE_new	1.5418833333000002	 Organic acids and derivatives	 Carboxylic acids and derivatives
+UBLWFFBGMBRBMC	CC(O)C1N=C(O)C2CCCN2C1=O	LIFE_old	1.3674833333	 Organic acids and derivatives	 Carboxylic acids and derivatives
+ZIMGGGWCDYVHOY	N=c1nc(N2CCCCC2)cc(N)n1O	RIKEN	1.32	 Organic nitrogen compounds	 Organonitrogen compounds
+BZRUVKZGXNSXMB	CCN=c1nc(Cl)[nH]c(=NC(C)CC)[nH]1	Eawag_XBridgeC18	9.8	 Organoheterocyclic compounds	 Triazines
+WJNRPILHGGKWCK	CC(C)N=c1nc(Cl)[nH]c(=NC(C)C)[nH]1	Eawag_XBridgeC18	9.9	 Organoheterocyclic compounds	 Triazines
+FZXISNSWEXTPMF	CCN=c1nc(Cl)nc(NC(C)(C)C)[nH]1	Eawag_XBridgeC18	10.1	 Organoheterocyclic compounds	 Triazines
+JDRIJDPCYNFZIT	CCC(C)C1N=C(O)C(C)N=C1O	LIFE_old	1.79755	 Organic acids and derivatives	 Carboxylic acids and derivatives
+DBJPZCJQDRPOME	CC(C)CC1N=C(O)C(C)N=C1O	LIFE_old	1.8597	 Organic acids and derivatives	 Carboxylic acids and derivatives
+OALYTRUKMRCXNH	CCCCCC1CCC(=O)O1	RIKEN	1.87	 Organoheterocyclic compounds	 Lactones
+BDJRBEYXGGNYIS	O=C(O)CCCCCCCC(=O)O	Boudah_et_al_2014_C18	8.12	 Lipids and lipid-like molecules	 Fatty Acyls
+BDJRBEYXGGNYIS	O=C(O)CCCCCCCC(=O)O	LIFE_new	3.6263666667	 Lipids and lipid-like molecules	 Fatty Acyls
+OYTCZOJKXCTBHG	CCN=c1nc(O)[nH]c(NC(C)(C)C)n1	Eawag_XBridgeC18	5.6	 Organoheterocyclic compounds	 Triazines
+PXWUKZGIHQRDHL	CCN=c1nc(OC)[nH]c(=NC(C)C)[nH]1	Eawag_XBridgeC18	5.7	 Organoheterocyclic compounds	 Triazines
+UGJMXCAKCUNAIE	NCC1(CC(=O)O)CCCCC1	Eawag_XBridgeC18	3.6	 Organic acids and derivatives	 Carboxylic acids and derivatives
+GHOKWGTUZJEAQD	CC(C)(CO)C(O)C(O)=NCCC(=O)O	FEM_long	14.3	 Organic acids and derivatives	 Carboxylic acids and derivatives
+GHOKWGTUZJEAQD	CC(C)(CO)C(O)C(O)=NCCC(=O)O	RIKEN	1.11	 Organic acids and derivatives	 Carboxylic acids and derivatives
+FBUKVWPVBMHYJY	CCCCCCCCC(=O)O	FEM_long	43.105	 Lipids and lipid-like molecules	 Fatty Acyls
+JGHZJRVDZXSNKQ	CCCCCCCC(=O)OC	FEM_long	44.25	 Lipids and lipid-like molecules	 Fatty Acyls
+SNPLKNRPJHDVJA	CC(C)(CO)C(O)C(O)=NCCCO	Boudah_et_al_2014_C18	2.15	 Lipids and lipid-like molecules	 Fatty Acyls
+WZZLDXDUQPOXNW	CCCOC(O)=NCCCN(C)C	Eawag_XBridgeC18	2.4	 Organic acids and derivatives	 Carboxylic acids and derivatives
+RLQJEEJISHYWON	N#CCN=C(O)c1cnccc1C(F)(F)F	Eawag_XBridgeC18	3.9	 Organoheterocyclic compounds	 Pyridines and derivatives
+ZYGHJZDHTFUPRJ	O=c1ccc2ccccc2o1	Boudah_et_al_2014_C18	9.03	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+ORHBXUUXSCNDEV	O=c1ccc2ccc(O)cc2o1	Eugster_et_al_2015	5.14	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+ORHBXUUXSCNDEV	O=c1ccc2ccc(O)cc2o1	FEM_long	23.9	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+VXIXUWQIVKSKSA	O=c1cc(O)c2ccccc2o1	Eugster_et_al_2015	7.04	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+OWBBAPRUYLEWRR	O=c1cc(O)oc2ccccc12	FEM_long	24.2	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+YBGKGTOOPNQOKH	O=c1cc(O)c2cccc(O)c2o1	FEM_long	21.595	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+ATEFPOUAMCWAQS	O=c1ccc2ccc(O)c(O)c2o1	RIKEN	1.34	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+ILEDWLMCKZNDJK	O=c1ccc2cc(O)c(O)cc2o1	FEM_long	20.13	 Phenylpropanoids and polyketides	 Coumarins and derivatives
+PYZRQGJRPPTADH	N=c1nnc(-c2cccc(Cl)c2Cl)c(N)[nH]1	Eawag_XBridgeC18	5.4	 Benzenoids	 Benzene and substituted derivatives
+OLNJUISKUQQNIM	O=Cc1c[nH]c2ccccc12	LIFE_old	2.2741333333	 Organoheterocyclic compounds	 Indoles and derivatives
+HDHQZCHIXUUSMK	Oc1cc(O)c2ccccc2n1	Boudah_et_al_2014_C18	6.99	 Organoheterocyclic compounds	 Quinolines and derivatives
+KMAKOBLIOCQGJP	O=C(O)c1c[nH]c2ccccc12	Boudah_et_al_2014_C18	7.61	 Organoheterocyclic compounds	 Indoles and derivatives
+KMAKOBLIOCQGJP	O=C(O)c1c[nH]c2ccccc12	FEM_long	25.59	 Organoheterocyclic compounds	 Indoles and derivatives
+HCUARRIEZVDMPT	O=C(O)c1cc2ccccc2[nH]1	Boudah_et_al_2014_C18	9	 Organoheterocyclic compounds	 Indoles and derivatives
+HCUARRIEZVDMPT	O=C(O)c1cc2ccccc2[nH]1	FEM_long	38.5	 Organoheterocyclic compounds	 Indoles and derivatives
+MZHCENGPTKEIGP	CC(Oc1ccc(Cl)cc1Cl)C(=O)O	Eawag_XBridgeC18	10.7	 Benzenoids	 Benzene and substituted derivatives
+KJPRLNWUNMBNBZ	O=CC=Cc1ccccc1	Eugster_et_al_2015	9.59	 Phenylpropanoids and polyketides	 Cinnamaldehydes
+WBYWAXJHAXSJNI	O=C(O)C=Cc1ccccc1	Boudah_et_al_2014_C18	9.59	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+WBYWAXJHAXSJNI	O=C(O)C=Cc1ccccc1	Eugster_et_al_2015	8.88	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+WBYWAXJHAXSJNI	O=C(O)C=Cc1ccccc1	FEM_long	31.8	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+WBYWAXJHAXSJNI	O=C(O)C=Cc1ccccc1	RIKEN	1.64	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+BTNMPGBKDVTSJY	O=C(O)C(=O)Cc1ccccc1	Boudah_et_al_2014_C18	6.18	 Benzenoids	 Benzene and substituted derivatives
+BTNMPGBKDVTSJY	O=C(O)C(=O)Cc1ccccc1	RIKEN	1.36	 Benzenoids	 Benzene and substituted derivatives
+KKSDGJDHHZEWEP	O=C(O)C=Cc1cccc(O)c1	Boudah_et_al_2014_C18	7.36	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+KKSDGJDHHZEWEP	O=C(O)C=Cc1cccc(O)c1	Eugster_et_al_2015	5.67	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+KKSDGJDHHZEWEP	O=C(O)C=Cc1cccc(O)c1	FEM_long	26.175	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+KKSDGJDHHZEWEP	O=C(O)C=Cc1cccc(O)c1	LIFE_new	3.5286	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+NGSWKAQJJWESNS	O=C(O)C=Cc1ccc(O)cc1	Boudah_et_al_2014_C18	7.26	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+NGSWKAQJJWESNS	O=C(O)C=Cc1ccc(O)cc1	Eugster_et_al_2015	4.67	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+PMOWTIHVNWZYFI	O=C(O)C=Cc1ccccc1O	Boudah_et_al_2014_C18	8.24	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+PMOWTIHVNWZYFI	O=C(O)C=Cc1ccccc1O	Eugster_et_al_2015	6.63	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+PMOWTIHVNWZYFI	O=C(O)C=Cc1ccccc1O	FEM_long	28.05	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+PMOWTIHVNWZYFI	O=C(O)C=Cc1ccccc1O	RIKEN	1.51	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+QAIPRVGONGVQAS	O=C(O)C=Cc1ccc(O)c(O)c1	Eugster_et_al_2015	3.54	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+QAIPRVGONGVQAS	O=C(O)C=Cc1ccc(O)c(O)c1	FEM_long	20.7	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+QAIPRVGONGVQAS	O=C(O)C=Cc1ccc(O)c(O)c1	LIFE_new	3.2009666667000003	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+QAIPRVGONGVQAS	O=C(O)C=Cc1ccc(O)c(O)c1	LIFE_old	1.704675	 Phenylpropanoids and polyketides	 Cinnamic acids and derivatives
+WHKUVVPPKQRRBV	Cc1cc(Cl)ccc1OCC(=O)O	Eawag_XBridgeC18	9.5	 Benzenoids	 Benzene and substituted derivatives
+ZFRKQXVRDFCRJG	Cc1c[nH]c2ccccc12	FEM_long	34.1	 Organoheterocyclic compounds	 Indoles and derivatives
+JNMRHUJNCSQMMB	Nc1ccc(S(=O)(=O)Nc2nccs2)cc1	Eawag_XBridgeC18	2.8	 Benzenoids	 Benzene and substituted derivatives
+QCXJEYYXVJIFCE	CC(O)=Nc1ccc(C(=O)O)cc1	LIFE_new	3.2320333333	 Benzenoids	 Benzene and substituted derivatives
+QCXJEYYXVJIFCE	CC(O)=Nc1ccc(C(=O)O)cc1	LIFE_old	1.7073833333000001	 Benzenoids	 Benzene and substituted derivatives
+QIAFMBKCNZACKA	O=C(O)CN=C(O)c1ccccc1	Boudah_et_al_2014_C18	5.79	 Benzenoids	 Benzene and substituted derivatives
+QIAFMBKCNZACKA	O=C(O)CN=C(O)c1ccccc1	LIFE_new	3.0974166667	 Benzenoids	 Benzene and substituted derivatives
+QIAFMBKCNZACKA	O=C(O)CN=C(O)c1ccccc1	LIFE_old	1.7732	 Benzenoids	 Benzene and substituted derivatives
+YBTVSGCNBZPRBD	CC(O)=Nc1ccc(C(=O)O)c(O)c1	Boudah_et_al_2014_C18	6.01	 Benzenoids	 Benzene and substituted derivatives
+GEFDRROBUCULOD	CC(O)=Nc1ccc(O)c(C(=O)O)c1	Boudah_et_al_2014_C18	5.34	 Benzenoids	 Benzene and substituted derivatives
+GCWCVCCEIQXUQU	O=C(O)C(O)N=C(O)c1ccccc1	Boudah_et_al_2014_C18	3.59	 Benzenoids	 Benzene and substituted derivatives
+ZMHLUFWWWPBTIU	O=C(O)CNC(=O)c1ccc(O)cc1	LIFE_new	2.1902666667	 Benzenoids	 Benzene and substituted derivatives
+ONJSZLXSECQROL	O=C(O)CN=C(O)c1ccccc1O	Boudah_et_al_2014_C18	6.88	 Benzenoids	 Benzene and substituted derivatives
+UZUFPBIDKMEQEQ	O=C(O)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)C(F)(F)F	Eawag_XBridgeC18	13.9	 Organohalogen compounds	 Alkyl halides
