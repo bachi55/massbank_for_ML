@@ -83,7 +83,8 @@ if __name__ == "__main__":
                                   spec.get("retention_time"),
                                   spec.get("retention_time_unit"),
                                   spec.get("inchikey"),
-                                  spec.get("precursor_type")])
+                                  spec.get("precursor_type"),
+                                  spec.get("molecular_formula")])
 
                 # Write out the configuration, peak list and candidates
                 for k, v in metfrag_output.items():
@@ -110,5 +111,5 @@ if __name__ == "__main__":
             os.makedirs(os.path.join("mol_rt_info"), exist_ok=True)
             pd.DataFrame(mol_rt_df,
                          columns=["accession", "original_accessions", "pubchem_id", "smiles_iso", "rt", "rt_unit",
-                                  "inchikey", "precursor_type"]) \
+                                  "inchikey", "precursor_type", "molecular_formula"]) \
                 .to_csv(os.path.join("mol_rt_info", ds + ".csv"), index=False)
