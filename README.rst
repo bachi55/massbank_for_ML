@@ -8,6 +8,12 @@ one experiment. Therefore, our training dataset needs to contains sub-sets of co
 and RTs have been measured under the same experimental conditions, such as the liquid chromatographic (LC) system,
 mass spectra ionization, etc.
 
+Install
+=======
+- activate the virtual environment
+- run the 'setup.py'
+- also install the 'rosvm' and 'msmsrt_scorer' packages
+
 Massbank
 ========
 
