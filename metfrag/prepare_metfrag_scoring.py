@@ -73,6 +73,7 @@ if __name__ == "__main__":
                 except ValueError as err:
                     print("Skip:", spec.get("original_accessions"))
                     print(err)
+                    continue
 
                 # Collect information about the ground truth structure and retention time
                 mol_rt_df.append([spec.get("accession"),
@@ -81,7 +82,8 @@ if __name__ == "__main__":
                                   spec.get("smiles_iso"),
                                   spec.get("retention_time"),
                                   spec.get("retention_time_unit"),
-                                  spec.get("inchikey")])
+                                  spec.get("inchikey"),
+                                  spec.get("precursor_type")])
 
                 # Write out the configuration, peak list and candidates
                 for k, v in metfrag_output.items():
@@ -108,5 +110,5 @@ if __name__ == "__main__":
             os.makedirs(os.path.join("mol_rt_info"), exist_ok=True)
             pd.DataFrame(mol_rt_df,
                          columns=["accession", "original_accessions", "pubchem_id", "smiles_iso", "rt", "rt_unit",
-                                  "inchikey"]) \
+                                  "inchikey", "precursor_type"]) \
                 .to_csv(os.path.join("mol_rt_info", ds + ".csv"), index=False)
