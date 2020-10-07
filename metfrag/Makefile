@@ -26,6 +26,7 @@
 
 # Path to the MetFrag jar-file
 METFRAG_JAR:=~/.local/bin/MetFrag2.4.5.jar
+METFRAG_NICE_VALUE:=19
 
 # Input and output directories
 CONF_DIR:=configs/
@@ -73,11 +74,20 @@ verify:
 	$(if $(findstring $(NSPEC), $(NCONF)),,$(error Number of spectra != Number of configurations))
 	$(if $(findstring $(NSPEC), $(NINFO)),,$(error Number of spectra != Number of information))
 
+scoring_progress:
+	$(eval DATASETS := $(basename $(notdir $(wildcard $(MOL_RT_INFO_DIR)/*.csv))))
+	$(eval NSPEC := $(foreach DS, $(DATASETS), $(words $(wildcard $(PEAK_DIR)/$(DS)/*.peaks))))
+	$(eval NRES := $(foreach DS, $(DATASETS), $(words $(wildcard $(RES_DIR)/$(DS)/*.csv.gz))))
+	@echo "SPECTRA:" $(NSPEC)
+	@echo "RESULTS:" $(NRES)
+
 remove_records:
 	# Delete (merged) records that cannot be processed by MetFrag
 	$(foreach RECORD,$(notdir $(RECORDS_TO_DELETE)),find . -name $(notdir $(RECORD))* -delete;)
 	# Remove those also from the mol_rt_info tables
 	$(foreach RECORD,$(RECORDS_TO_DELETE),sed -i '/$(notdir $(RECORD))/d' $(MOL_RT_INFO_DIR)/$(subst /,,$(dir $(RECORD))).csv;)
+	# Remove those also from the classyfire tables
+	$(foreach RECORD,$(RECORDS_TO_DELETE),sed -i '/$(notdir $(RECORD))/d' $(CLASS_DIR)/$(subst /,,$(dir $(RECORD))).classes;)
 
 clean:
 	rm -f $(addsuffix .gz, $(addprefix $(RES_DIR), $(OUTPUTS_CANDIDATES)))
@@ -87,7 +97,7 @@ $(RES_DIR)%.csv.gz: %.conf %.peaks %.cands.gz
 	@echo "========"
 	@echo "Scoring:" $<
 	gunzip -fk $(word 3, $^)
-	java -jar $(METFRAG_JAR) \
+	nice -$(METFRAG_NICE_VALUE) java -jar $(METFRAG_JAR) \
 		ParameterFile=$(word 1, $^) \
 		PeakListPath=$(word 2, $^) \
 		LocalDatabasePath=$(subst .gz,,$(word 3, $^)) \
