@@ -52,11 +52,26 @@ RECORDS_TO_DELETE:=BML_000/BML05865 BS_000/BS483105 BS_000/BS576728 BS_000/BS629
 
 default: all
 
-.PHONY: all scoring clean
+.PHONY: all scoring clean verify
 
 all: scoring
 
-scoring: remove_records $(addprefix $(RES_DIR), $(OUTPUTS_CANDIDATES))
+scoring: remove_records verify $(addprefix $(RES_DIR), $(OUTPUTS_CANDIDATES))
+
+verify:
+	$(eval DATASETS := $(basename $(notdir $(wildcard $(MOL_RT_INFO_DIR)/*.csv))))
+	$(eval NSPEC := $(foreach DS, $(DATASETS), $(words $(wildcard $(PEAK_DIR)/$(DS)/*.peaks))))
+	$(eval NCAND := $(foreach DS, $(DATASETS), $(words $(wildcard $(CAND_DIR)/$(DS)/*.cands.gz))))
+	$(eval NCONF := $(foreach DS, $(DATASETS), $(words $(wildcard $(CONF_DIR)/$(DS)/*.conf))))
+	$(eval NINFO := $(foreach FILE, $(wildcard $(MOL_RT_INFO_DIR)/*.csv),\
+		$(words $(wordlist 2, $(words $(file <$(FILE))), $(file <$(FILE))))))
+	@echo "SPECTRA   :" $(NSPEC)
+	@echo "CANDIDATES:" $(NCAND)
+	@echo "CONFIGS   :" $(NCONF)
+	@echo "INFO      :" $(NINFO)
+	$(if $(findstring $(NSPEC), $(NCAND)),,$(error Number of spectra != Number of candidates))
+	$(if $(findstring $(NSPEC), $(NCONF)),,$(error Number of spectra != Number of configurations))
+	$(if $(findstring $(NSPEC), $(NINFO)),,$(error Number of spectra != Number of information))
 
 remove_records:
 	# Delete (merged) records that cannot be processed by MetFrag
@@ -87,4 +102,4 @@ $(CLASS_DIR)%.classes: $(MOL_RT_INFO_DIR)/%.csv
 	mkdir -p classyfire
 	Rscript get_classyfire_classes.R $< $@
 
-classyfire: remove_records $(addprefix $(CLASS_DIR), $(OUTPUTS_CLASSYFIRE))
+classyfire: remove_records verify $(addprefix $(CLASS_DIR), $(OUTPUTS_CLASSYFIRE))
