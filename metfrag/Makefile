@@ -46,10 +46,7 @@ OUTPUTS_CLASSYFIRE:=$(addsuffix .classes,$(subst $(CONF_DIR),,$(wildcard $(CONF_
 
 # Multiple (merged) records cannot be processed by MetFrag (due to 'GC overhead limit exceeded'). We delete those
 # records.
-RECORDS_TO_DELETE:=BML_000/BML05865 BS_000/BS483105 BS_000/BS576728 BS_000/BS629471 BS_000/BS679807 BS_000/BS790201 \
-	BS_000/BS808533 EQ_000/EQ064253 EQ_000/EQ067784 EQ_000/EQ164898 EQ_000/EQ322405 EQ_000/EQ357642 EQ_000/EQ357642 \
-	EQ_000/EQ445376 EQ_000/EQ636351 EQ_001/EQ032906 EQ_001/EQ055269 EQ_001/EQ110751 PR_000/PR127009 PR_000/PR312201 \
-	PR_000/PR312648
+RECORDS_TO_DELETE:=BS_000/BS48628730
 
 default: all
 
@@ -78,8 +75,9 @@ scoring_progress:
 	$(eval DATASETS := $(basename $(notdir $(wildcard $(MOL_RT_INFO_DIR)/*.csv))))
 	$(eval NSPEC := $(foreach DS, $(DATASETS), $(words $(wildcard $(PEAK_DIR)/$(DS)/*.peaks))))
 	$(eval NRES := $(foreach DS, $(DATASETS), $(words $(wildcard $(RES_DIR)/$(DS)/*.csv.gz))))
-	@echo "SPECTRA:" $(NSPEC)
-	@echo "RESULTS:" $(NRES)
+	@echo "DATASETS:" $(DATASETS)
+	@echo "SPECTRA :" $(NSPEC)
+	@echo "RESULTS :" $(NRES)
 
 remove_records:
 	# Delete (merged) records that cannot be processed by MetFrag
