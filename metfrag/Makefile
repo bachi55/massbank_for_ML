@@ -46,7 +46,7 @@ OUTPUTS_CLASSYFIRE:=$(addsuffix .classes,$(subst $(CONF_DIR),,$(wildcard $(CONF_
 
 # Multiple (merged) records cannot be processed by MetFrag (due to 'GC overhead limit exceeded'). We delete those
 # records.
-RECORDS_TO_DELETE:=BS_000/BS48628730
+RECORDS_TO_DELETE:=BS_000/BS48628730 PR_000/PR50010698
 
 default: all
 
