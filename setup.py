@@ -4,7 +4,7 @@ setup(
     name="msmsrt_ssvm_dataset",
     version="0.0.1",
     license="MIT",
-    packages=find_packages(exclude=["analysis", "metfrag", "tests", "examples", "*.ipynb"]),
+    packages=find_packages(exclude=["metfrag", "tests", "examples", "*.ipynb"]),
 
     # Minimum requirements the package was tested with
     install_requires=[
@@ -14,6 +14,7 @@ setup(
         "pandas",
         "matplotlib",
         "seaborn",
+        "joblib",
         "xlrd",
         "setuptools>=46.1"
     ],
