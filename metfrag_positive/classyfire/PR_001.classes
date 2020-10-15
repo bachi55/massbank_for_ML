@@ -1,0 +1,812 @@
+"pubchem_id","inchikey","kindom","superclass","class","subclass","level_5","level_6","level_7","level_8"
+149,"WUUGFSXJNOTRMR-UHFFFAOYSA-N","Organic compounds","Nucleosides, nucleotides, and analogues","5'-deoxyribonucleosides","5'-deoxy-5'-thionucleosides",NA,NA,NA,NA
+191,"OIRDTQYFTABQOQ-UHFFFAOYSA-N","Organic compounds","Nucleosides, nucleotides, and analogues","Purine nucleosides",NA,NA,NA,NA,NA
+207,"GFXYTQPNNXGICT-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Alpha amino acids",NA
+322,"NGSWKAQJJWESNS-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Hydroxycinnamic acids",NA,NA,NA
+370,"LNTHITQWFMADLM-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Benzoic acids and derivatives","Hydroxybenzoic acid derivatives","Gallic acid and derivatives","Gallic acids",NA
+409,"RWFBQHICRCUQJJ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Pyridines and derivatives","Pyrrolidinylpyridines",NA,NA,NA,NA
+425,"DXDRHHKMWQZJHT-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Linear 1,3-diarylpropanoids","Chalcones and dihydrochalcones","2'-Hydroxychalcones",NA,NA,NA
+499,"ODHCTXKNWHHXJC-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Proline and derivatives",NA
+636,"OLXZPDWKRNYJJZ-UHFFFAOYSA-N","Organic compounds","Nucleosides, nucleotides, and analogues","Purine nucleosides","Purine 2'-deoxyribonucleosides",NA,NA,NA,NA
+662,"PADQINQHPQKXNL-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavanones","Flavanonols",NA,NA
+709,"KSEBMYQBYZTDHS-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Hydroxycinnamic acids",NA,NA,NA
+745,"RWSXRVCMGQZWBV-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Oligopeptides",NA,NA
+791,"AGPKZVBTJJNPAG-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Isoleucine and derivatives",NA
+857,"ROHFNLRQFUQHCH-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Leucine and derivatives",NA
+932,"FTVWIRXFELQLPI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavanones",NA,NA,NA
+942,"SNICXCGAKADSCV-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Pyridines and derivatives","Pyrrolidinylpyridines",NA,NA,NA,NA
+988,"GHOKWGTUZJEAQD-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Beta amino acids and derivatives",NA,NA
+994,"COLNVLDHVKWLRT-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Phenylalanine and derivatives",NA
+1065,"LOUPRKONTZGTKE-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Cinchona alkaloids",NA,NA,NA,NA,NA
+1148,"QIVBCDIJIAJPQS-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Indolyl carboxylic acids and derivatives",NA,NA,NA,NA
+1150,"APJYDQYYACXCRM-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Tryptamines and derivatives",NA,NA,NA,NA
+1153,"OUYCCCASQSFEME-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Tyrosine and derivatives",NA
+1177,"DRTQHJPVMGBUCF-UHFFFAOYSA-N","Organic compounds","Nucleosides, nucleotides, and analogues","Pyrimidine nucleosides",NA,NA,NA,NA,NA
+1188,"LRFVTYWOQMYALW-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Imidazopyrimidines","Purines and purine derivatives","Xanthines",NA,NA,NA
+1189,"UBORTCNDUKBEOP-UHFFFAOYSA-N","Organic compounds","Nucleosides, nucleotides, and analogues","Purine nucleosides",NA,NA,NA,NA,NA
+1203,"PFTAWBLQPZVEMU-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavan-3-ols","Catechins",NA,NA
+1309,"JZUTXVTYJDCMDU-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Phthalide isoquinolines",NA,NA,NA,NA,NA
+1669,"DIVQKHQLANKJQO-UHFFFAOYSA-N","Organic compounds","Benzenoids","Phenols","Methoxyphenols",NA,NA,NA,NA
+1889,"FURUXTVZLHCCNA-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavanones",NA,NA,NA
+2012,"XFSBVAOIAHNAPC-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+2073,"CJDRUOGAGYHKKD-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Ajmaline-sarpagine alkaloids",NA,NA,NA,NA,NA
+2080,"OMNVYXHOSHNURL-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+2151,"RLFWWDJHLFCNIJ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Azoles","Pyrazoles","Phenylpyrazoles",NA,NA,NA
+2180,"XUCIJNAGGSZNQT-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","Cyanogenic glycosides",NA,NA
+2266,"BDJRBEYXGGNYIS-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Medium-chain fatty acids",NA,NA,NA
+2356,"YWJXCIXBAKGUKZ-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Benzoic acids and derivatives","Hydroxybenzoic acid derivatives","Gallic acid and derivatives",NA,NA
+2358,"GDNZNIJPBQATCZ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzoxazines","Benzoxazinones",NA,NA,NA,NA
+2464,"QEEBRPGZBVVINN-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroid lactones","Bufanolides and derivatives",NA,NA,NA
+2518,"QAIPRVGONGVQAS-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Hydroxycinnamic acids",NA,NA,NA
+2538,"VSJKWCGYPAHWDS-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Camptothecins",NA,NA,NA,NA,NA
+2550,"FAKRSMQSSFJEIM-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","N-acyl-alpha amino acids and derivatives","N-acyl-alpha amino acids"
+2665,"DTGZHCFJNDAHEN-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Emetine alkaloids",NA,NA,NA,NA,NA
+2703,"LLEJIEBFSOEYIV-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Benzophenanthridine alkaloids","Quaternary benzophenanthridine alkaloids",NA,NA,NA,NA
+2757,"KMPWYEUPVWOPIM-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Cinchona alkaloids",NA,NA,NA,NA,NA
+2860,"GPLGAQQQNWMVMM-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal alkaloids","Conanine-type alkaloids",NA,NA,NA
+2866,"BLGXFZZNTVWLAY-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Yohimbine alkaloids",NA,NA,NA,NA,NA
+2989,"BNDDTTIRGZIQSE-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","O-glycosyl compounds",NA,NA
+3195,"WYJAPUKIYAZSEM-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Eburnan-type alkaloids",NA,NA,NA,NA,NA
+3213,"CTSPAMFJBXKSOY-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Carbazoles",NA,NA,NA,NA
+3310,"VJJPUSNTGOMMGY-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds","Lignan lactones","Podophyllotoxins",NA,NA,NA,NA
+3442,"DGMPVYSXXIOGJY-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Pyridines and derivatives","Pyridinecarboxylic acids and derivatives","Pyridinecarboxylic acids","Pyridine-2-carboxylic acids","5-alkyl-2-carboxypyrimidines",NA
+3495,"LPLVUJXQOOQHMX-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+3593,"AIONOLUJZLIMTK-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","O-methylated flavonoids","4'-O-methylated flavonoids",NA,NA,NA
+3623,"ZTVIKZXZYLEVOL-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Tropane alkaloids",NA,NA,NA,NA,NA
+3646,"XXANNZJIZQTCBP-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Tetrahydroisoquinolines",NA,NA,NA,NA,NA
+3661,"RKUNBYITZUJHSG-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Tropane alkaloids",NA,NA,NA,NA,NA
+3816,"VLSMHEGGTFMBBZ-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Kainoids",NA,NA
+3845,"HCZHHEIFKROPDY-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Quinolines and derivatives","Quinoline carboxylic acids",NA,NA,NA,NA
+3866,"ZGUNAGUHMKGQNY-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Alpha amino acids",NA
+3923,"KAZSKMJFUPEHHW-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Linear 1,3-diarylpropanoids","Chalcones and dihydrochalcones","Retrochalcones",NA,NA,NA
+3966,"SLRCCWJSBJZJBV-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Lupin alkaloids","Sparteine, lupanine, and related alkaloids",NA,NA,NA,NA
+4441,"DFPMSGMNTNDNHN-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+4453,"ITVGXXMINPYUHD-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides",NA,NA,NA
+4680,"XQYZDYMELSJDRZ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Isoquinolines and derivatives","Benzylisoquinolines",NA,NA,NA,NA
+4811,"PIJVFDBKTWXHHD-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Pyrroloindoles",NA,NA,NA,NA
+4819,"QCHFTSOMWOSFHM-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives",NA,NA,NA,NA,NA,NA
+4840,"MXXWOMGUGJBKIW-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives",NA,NA,NA,NA,NA,NA
+4865,"YJGVMLPVUAXIQN-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds","Lignan lactones","Podophyllotoxins",NA,NA,NA,NA
+4914,"MFDFERRIHVXMIY-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Benzoic acids and derivatives","Benzoic acid esters",NA,NA,NA
+4970,"GPTFURBXHJWNHR-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Protopine alkaloids",NA,NA,NA,NA,NA
+5052,"QEVHRUUCFGRFIF-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Yohimbine alkaloids",NA,NA,NA,NA,NA
+5056,"LUKBXSAWLPMMSZ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+5154,"INVGWHRKADIJHF-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Benzophenanthridine alkaloids","Quaternary benzophenanthridine alkaloids",NA,NA,NA,NA
+5304,"QMGVPVSNSZLJIA-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Strychnos alkaloids",NA,NA,NA,NA,NA
+5350,"SUVMJBTUFCVSAD-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Sulfoxides",NA,NA,NA,NA,NA
+5367,"ZCDNRPPFBQDQHR-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Yohimbine alkaloids",NA,NA,NA,NA,NA
+5422,"WVTKBKWTSCPRNU-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds",NA,NA,NA,NA,NA,NA
+5513,"REJLGAUYTKNVJM-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+5668,"RXPRRQLKFXBCSJ-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Eburnan-type alkaloids",NA,NA,NA,NA,NA
+5910,"QCHFTSOMWOSFHM-WPRPVWTQSA-N","Organic compounds","Alkaloids and derivatives",NA,NA,NA,NA,NA,NA
+5983,"PIJVFDBKTWXHHD-HIFRSBDPSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Pyrroloindoles",NA,NA,NA,NA
+6890,"OCDGBSUVYYVKQZ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Indoles","3-alkylindoles",NA,NA,NA
+7189,"DQFBYFPFKXHELB-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Linear 1,3-diarylpropanoids","Chalcones and dihydrochalcones","Retrochalcones",NA,NA,NA
+7431,"PBAYDYUZOSNJGU-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Pyrans","Pyranones and derivatives",NA,NA,NA,NA
+7444,"DSBIJCMXAIKKKI-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Nitrobenzenes",NA,NA,NA,NA
+7644,"CCRCUPLGCSFEDV-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Cinnamic acid esters",NA,NA,NA,NA
+8096,"ODJQKYXPKWQWNK-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Dicarboxylic acids and derivatives",NA,NA,NA,NA
+8417,"GUAFOGOEJLSQBT-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Coumarins and derivatives",NA,NA,NA,NA,NA
+8784,"WBYWAXJHAXSJNI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Cinnamic acids",NA,NA,NA,NA
+9064,"PFTAWBLQPZVEMU-DZGCQCFKSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavan-3-ols","Catechins",NA,NA
+9426,"AUVVAXYIELKVAI-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Emetine alkaloids",NA,NA,NA,NA,NA
+9984,"DKZBBWMURDFHNE-UHFFFAOYSA-N","Organic compounds","Benzenoids","Phenols","Methoxyphenols",NA,NA,NA,NA
+9985,"NDNUANOUGZGEPO-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives",NA,NA,NA,NA,NA,NA
+10143,"QELDJEKNFOQJOY-ZDUSSCGKSA-N","Organic compounds","Alkaloids and derivatives","Aporphines",NA,NA,NA,NA,NA
+10154,"LZJRNLRASBVRRX-ZDUSSCGKSA-N","Organic compounds","Alkaloids and derivatives","Aporphines",NA,NA,NA,NA,NA
+10207,"YDQWDHRMZQUTBA-UHFFFAOYSA-N","Organic compounds","Benzenoids","Anthracenes","Anthraquinones",NA,NA,NA,NA
+10219,"AUVVAXYIELKVAI-CKBKHPSWSA-N","Organic compounds","Alkaloids and derivatives","Emetine alkaloids",NA,NA,NA,NA,NA
+10228,"MBRLOUHOWLUMFF-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Coumarins and derivatives",NA,NA,NA,NA,NA
+10242,"SDIVYZXRQHWCKF-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Diazanaphthalenes","Benzodiazines","Quinazolines",NA,NA,NA
+10251,"ZONYXWQDUYMKFB-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavanones",NA,NA,NA
+10255,"VLSMHEGGTFMBBZ-OOZYFLPDSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Kainoids",NA,NA
+10384,"SFUVCMKSYKHYLD-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives",NA,NA,NA,NA
+10523,"DLNWZIVYKQXLTN-CGYUPCHJSA-N","Organic compounds","Organoheterocyclic compounds","Pyrrolizidines",NA,NA,NA,NA,NA
+10607,"YJGVMLPVUAXIQN-XVVDYKMHSA-N","Organic compounds","Lignans, neolignans and related compounds","Lignan lactones","Podophyllotoxins",NA,NA,NA,NA
+10621,"QUQPHWDTPGMPEX-QJBIFVCTSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+10680,"VHBFFQKBGNRLFZ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones",NA,NA,NA,NA
+11092,"UILPJVPSNHJFIK-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds","Ketones","Aryl ketones","Phenylketones","Alkyl-phenylketones"
+11095,"SBHXYTNGIZCORC-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavanones",NA,NA,NA
+11496,"KKSDGJDHHZEWEP-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Hydroxycinnamic acids",NA,NA,NA
+11620,"QKGJFQMGPDVOQE-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Sulfoxides",NA,NA,NA,NA,NA
+13245,"AFDXODALSZRGIH-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Cinnamic acids",NA,NA,NA,NA
+15548,"KGPAYJZAMGEDIQ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Isoquinolines and derivatives","Benzylisoquinolines",NA,NA,NA,NA
+16848,"HJBWJAPEBGSQPR-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Coumaric acids and derivatives",NA,NA,NA
+17198,"OJOBTAOGJIWAGB-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds","Ketones","Aryl ketones","Phenylketones","Alkyl-phenylketones"
+19009,"QUCQEUCGKKTEBI-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Protoberberine alkaloids and derivatives",NA,NA,NA,NA,NA
+20485,"FNGGIPWAZSFKCN-ACRUOGEOSA-N","Organic compounds","Alkaloids and derivatives","Plumeran-type alkaloids",NA,NA,NA,NA,NA
+22384,"SFVVQRJOGUKCEG-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives",NA,NA,NA,NA,NA,NA
+22652,"VASUQTGZAPZKFK-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Dihydroisoquinolines",NA,NA,NA,NA,NA
+23307,"GOEJQGGEIVSVOK-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Isoquinolines and derivatives",NA,NA,NA,NA,NA
+23915,"YEFOAORQXAOVJQ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Tannins","Hydrolyzable tannins",NA,NA,NA,NA
+28126,"SOFSXTKPGSIDCI-UHFFFAOYSA-N","Organic compounds","Hydrocarbon derivatives","Tropones",NA,NA,NA,NA,NA
+28495,"COVOPZQGJGUPEY-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzoxazines","Benzoxazinones",NA,NA,NA,NA
+30231,"ITVGXXMINPYUHD-CUVHLRMHSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides",NA,NA,NA
+34781,"RFKQJTRWODZPHF-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Protoberberine alkaloids and derivatives",NA,NA,NA,NA,NA
+36462,"VJJPUSNTGOMMGY-MRVIYFEKSA-N","Organic compounds","Lignans, neolignans and related compounds","Lignan lactones","Podophyllotoxins",NA,NA,NA,NA
+37361,"HYDDDNUKNMMWBD-WJWSUNTISA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+44093,"FAKRSMQSSFJEIM-RQJHMYQMSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Proline and derivatives",NA
+48704,"QELDJEKNFOQJOY-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Aporphines",NA,NA,NA,NA,NA
+53595,"RIPYIJVYDYCPKW-WEVHBWGYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+61229,"PZSJOBKRSVRODF-UHFFFAOYSA-N","Organic compounds","Benzenoids","Phenol esters",NA,NA,NA,NA,NA
+64961,"AIFRHYZBTHREPW-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Pyridoindoles","Beta carbolines",NA,NA,NA
+64981,"NQWVSMVXKMHKTF-JKSUJKDBSA-N","Organic compounds","Lignans, neolignans and related compounds","Furanoid lignans","Tetrahydrofuran lignans","9,9'-epoxylignans","Dibenzylbutyrolactone lignans",NA,NA
+65036,"JDLKFOPOAOFWQN-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Thiosulfinic acid esters",NA,NA,NA,NA,NA
+65064,"WMBWREPUVVBILR-WIYYLYMNSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavan-3-ols","Catechins","Catechin gallates",NA
+65138,"GADGMZDHLQLZRI-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Glutamic acid and derivatives",NA
+65237,"IYRGXJIJGHOCFS-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Phenanthrolines",NA,NA,NA,NA,NA
+65243,"SQOJOAFXDQDRGF-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene lactones","Diterpene lactones","Ginkgolides and bilobalides",NA,NA
+65373,"PUETUDUXMCLALY-HOTGVXAUSA-N","Organic compounds","Lignans, neolignans and related compounds","Dibenzylbutane lignans","Dibenzylbutanediol lignans",NA,NA,NA,NA
+65747,"JVHNBFFHWQQPLL-WOXROFTLSA-N","Organic compounds","Alkaloids and derivatives","Corynanthean-type alkaloids",NA,NA,NA,NA,NA
+66065,"YWJXCIXBAKGUKZ-HJJNZUOJSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Benzoic acids and derivatives","Hydroxybenzoic acid derivatives","Gallic acid and derivatives",NA,NA
+68261,"VARHXCYGZKSOOO-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Diazanaphthalenes","Benzodiazines","Quinazolines",NA,NA,NA
+68313,"KUBCEEMXQZUPDQ-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Phenethylamines",NA,NA,NA,NA
+69141,"PMZDQRJGMBOQBF-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Quinolines and derivatives","Quinolones and derivatives","Hydroquinolones",NA,NA,NA
+72276,"PFTAWBLQPZVEMU-UKRRQHHQSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavan-3-ols","Catechins",NA,NA
+72281,"AIONOLUJZLIMTK-AWEZNQCLSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","O-methylated flavonoids","4'-O-methylated flavonoids",NA,NA,NA
+72300,"VVOAZFWZEDHOOU-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Biphenyls and derivatives",NA,NA,NA,NA
+72303,"FVYXIJYOAGAUQK-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Biphenyls and derivatives",NA,NA,NA,NA
+72373,"IXELFRRANAOWSF-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Sulfoxides",NA,NA,NA,NA,NA
+72610,"YIICVSCAKJMMDJ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Diazanaphthalenes","Benzodiazines","Quinazolines",NA,NA,NA
+73078,"WVTKBKWTSCPRNU-KYJUHHDHSA-N","Organic compounds","Lignans, neolignans and related compounds",NA,NA,NA,NA,NA,NA
+73296,"KEOITPILCOILGM-LLJOFIFVSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+73571,"DJOJDHGQRNZXQQ-AWEZNQCLSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","O-methylated flavonoids","7-O-methylated flavonoids",NA,NA,NA
+73659,"MDZKJHQSJHYOHJ-LLICELPBSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+74761,"XPRZAEWSYWTDSQ-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Thiosulfinic acid esters",NA,NA,NA,NA,NA
+79070,"LESXFEZIFXFIQR-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+79772,"VMQHGBUSMBFWHN-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Benzoic acids and derivatives","Benzamides",NA,NA,NA
+83489,"OMQADRGFMLGFJF-MNPJBKLOSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+85704,"HXTFHSYLYXVTHC-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+85705,"RMCRQBAILCLJGU-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+86092,"VLSRUFWCGBMYDJ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Coumaric acids and derivatives",NA,NA,NA
+86554,"ASWBNKHCZGQVJV-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Glycerophospholipids","Glycerophosphocholines","Lysophosphatidylcholines","1-acyl-sn-glycero-3-phosphocholines",NA,NA
+87155,"LZPNXAULYJPXEH-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Coumaric acids and derivatives",NA,NA,NA
+87371,"FZHZQHNKCPJTNQ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Pyridoindoles","Beta carbolines",NA,NA,NA
+88708,"DUAGQYUORDTXOR-GPQRQXLASA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","O-glycosyl compounds",NA,NA
+89229,"YVYMBNSKXOXSKW-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Glycerophospholipids","Glycerophosphoethanolamines","Lysophosphatidylethanolamines","1-acyl-sn-glycero-3-phosphoethanolamines",NA,NA
+89322,"RXGUTQNKCXHALN-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Coumaric acids and derivatives",NA,NA,NA
+91466,"ZSBXGIUJOOQZMP-JLNYLFASSA-N","Organic compounds","Alkaloids and derivatives","Lupin alkaloids","Matrine alkaloids",NA,NA,NA,NA
+92794,"DLIKSSGEMUFQOK-SFTVRKLSSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+94160,"JMIAZDVHNCCPDM-DAFCLMLCSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+94244,"LCPYQJIKPJDLLB-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides",NA,NA,NA
+98285,"FSNCEEGOMTYXKY-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Pyridoindoles","Beta carbolines",NA,NA,NA
+98363,"JMIAZDVHNCCPDM-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+99924,"YOTUXHIWBVZAJQ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+100004,"RLAKWLFUMAABBE-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Strychnos alkaloids",NA,NA,NA,NA,NA
+100099,"ACIJGUBIMXQCMF-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+100853,"JXAZKNVJWYDQJY-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal alkaloids","Spirosolanes and derivatives",NA,NA,NA
+101301,"VRSRXLJTYQVOHC-YEJXKQKISA-N","Organic compounds","Alkaloids and derivatives","Protoberberine alkaloids and derivatives",NA,NA,NA,NA,NA
+101781,"DGGOLFCPSUVVHX-RTHJTPBESA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+102468,"DKEXFJVMVGETOO-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+102892,"SZJNCZMRZAUNQT-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives",NA,NA
+108062,"WYQVAPGDARQUBT-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+108168,"MEEXETVZNQYRSP-UHFFFAOYSA-N","Organic compounds","Benzenoids","Phenanthrenes and derivatives","Aristolochic acids and derivatives",NA,NA,NA,NA
+111585,"JTEGNNHWOIJBJZ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Medium-chain fatty acids",NA,NA,NA
+114627,"OBKKEZLIABHSGY-DOYQYKRZSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+114739,"HVDGDHBAMCBBLR-PBHICJAKSA-N","Organic compounds","Lignans, neolignans and related compounds","Furanoid lignans","Tetrahydrofuran lignans","9,9'-epoxylignans","Dibenzylbutyrolactone lignans",NA,NA
+114776,"ODBRNZZJSYPIDI-VJXVFPJBSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides",NA,NA,NA
+115089,"DWONJCNDULPHLV-HOTGVXAUSA-N","Organic compounds","Lignans, neolignans and related compounds","Dibenzylbutane lignans","Dibenzylbutanediol lignans",NA,NA,NA,NA
+119205,"MATGKVZWFZHCLI-LSDHHAIUSA-N","Organic compounds","Lignans, neolignans and related compounds","Furanoid lignans","Tetrahydrofuran lignans","9,9'-epoxylignans","Dibenzylbutyrolactone lignans",NA,NA
+119216,"CDICDSOGTRCHMG-UHFFFAOYSA-N","Organic compounds","Benzenoids","Phenols","Methoxyphenols",NA,NA,NA,NA
+119269,"MERHMOCEIBOOMA-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavans","Isoflavanones","8-prenylated isoflavanones",NA,NA
+122097,"PTDAHAWQAGSZDD-IOVCITQVSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+122738,"XFZJEEAOWLFHDH-NFJBMHMQSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Biflavonoids and polyflavonoids",NA,NA,NA,NA
+123725,"DWONJCNDULPHLV-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds","Dibenzylbutane lignans","Dibenzylbutanediol lignans",NA,NA,NA,NA
+123917,"HVDGDHBAMCBBLR-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds","Furanoid lignans","Tetrahydrofuran lignans","9,9'-epoxylignans","Dibenzylbutyrolactone lignans",NA,NA
+125213,"NPNNKDMSXVRADT-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives",NA,NA,NA,NA
+126154,"OWOHLURDBZHNGG-YFKPBYRVSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives",NA,NA
+128853,"JKHRCGUTYDNCLE-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Hydroxyflavonoids","7-hydroxyflavonoids",NA,NA,NA
+128861,"VEVZSMAEJFVWIL-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Hydroxyflavonoids","7-hydroxyflavonoids",NA,NA,NA
+130556,"XFZJEEAOWLFHDH-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Biflavonoids and polyflavonoids",NA,NA,NA,NA
+133420,"CJHDBEPXEKGBDW-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Coumaric acids and derivatives",NA,NA,NA
+144746,"GJNDXQBALKCYSZ-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+151289,"TXDUTHBFYKGSAH-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Pyridoindoles","Beta carbolines",NA,NA,NA
+154417,"RKUNBYITZUJHSG-VFSICIBPSA-N","Organic compounds","Alkaloids and derivatives","Tropane alkaloids",NA,NA,NA,NA,NA
+155948,"FBMORZZOJSDNRQ-GLQYFDAESA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene lactones","Sesquiterpene lactones","Eudesmanolides, secoeudesmanolides, and derivatives",NA,NA
+159335,"VSUODASNSRJNCP-WGVBKJPXSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Lappaconitine-type diterpenoid alkaloids",NA,NA,NA
+160481,"HMUJXQRRKBLVOO-AWEZNQCLSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","O-methylated flavonoids","4'-O-methylated flavonoids",NA,NA,NA
+160517,"VLEUZFDZJKSGMX-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+160525,"IYLRRIUNGGQRTN-GKCDKPGPSA-N","Organic compounds","Alkaloids and derivatives","Aspidofractine alkaloids",NA,NA,NA,NA,NA
+160869,"ORXQGKIUCDPEAJ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Linear 1,3-diarylpropanoids","Chalcones and dihydrochalcones","3-prenylated chalcones",NA,NA,NA
+161120,"AMOGMTLMADGEOQ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene lactones","Diterpene lactones","Ginkgolides and bilobalides",NA,NA
+161313,"TZRDBHMKTWECOV-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Pyridines and derivatives","Bipyridines and oligopyridines",NA,NA,NA,NA
+161823,"BNMGUJRJUUDLHW-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+162350,"MYXNWGACZJSMBT-VJXVFPJBSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides",NA,NA,NA
+165274,"NBFGYDJKTHENDP-UHFFFAOYSA-N","Organic compounds","Benzenoids","Phenanthrenes and derivatives","Aristolochic acids and derivatives",NA,NA,NA,NA
+167928,"KYWSCMDFVARMPN-MSSMMRRTSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+168919,"UQVUEULZDJRMJR-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Pyridoindoles","Beta carbolines",NA,NA,NA
+168985,"JMIAZDVHNCCPDM-ZUNJVLJPSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+170157,"HKQZUYOVMYOFIT-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+171311,"FHSDVOJKLYJNCQ-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Organic disulfides",NA,NA,NA,NA,NA
+176925,"KZKWCKFDCPVDFJ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavanones",NA,NA,NA
+178247,"JTXVTHCLTOUSSL-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+181734,"CHEMZHJQHCVLFI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives",NA,NA,NA,NA
+181743,"WSVWKHTVFGTTKJ-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Aporphines",NA,NA,NA,NA,NA
+182033,"RZBFPDQKWUWUCK-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Aspidospermatan-type alkaloids",NA,NA,NA,NA,NA
+182094,"BQGJXFQCMYJENQ-HLAWJBBLSA-N","Organic compounds","Alkaloids and derivatives","Eburnan-type alkaloids",NA,NA,NA,NA,NA
+182232,"PFTAWBLQPZVEMU-ZFWWWQNUSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavan-3-ols","Catechins",NA,NA
+185914,"HITJFUSPLYBJPE-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+188366,"PMTMAFAPLCGXGK-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Fatty Acyls","Eicosanoids","Prostaglandins and related compounds",NA,NA,NA
+188999,"JMIAZDVHNCCPDM-DQDWJNSRSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+193540,"OWOHLURDBZHNGG-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives",NA,NA
+193568,"DUWPGRAKHMEPCM-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Linear 1,3-diarylpropanoids","Chalcones and dihydrochalcones","3-prenylated chalcones",NA,NA,NA
+193923,"LUZSWWYKKLTDHU-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives",NA,NA,NA,NA
+196319,"FBMORZZOJSDNRQ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene lactones","Sesquiterpene lactones","Eudesmanolides, secoeudesmanolides, and derivatives",NA,NA
+196982,"OYMQKBZMKFJPMH-VJMPXSKLSA-N","Organic compounds","Alkaloids and derivatives","Ibogan-type alkaloids",NA,NA,NA,NA,NA
+197001,"WSVWKHTVFGTTKJ-AWEZNQCLSA-N","Organic compounds","Alkaloids and derivatives","Aporphines",NA,NA,NA,NA,NA
+197775,"XRBIHOLQAKITPP-SBHAEUEKSA-N","Organic compounds","Alkaloids and derivatives","Rhoeadine alkaloids",NA,NA,NA,NA,NA
+197810,"GHKISGDRQRSCII-ZOCIIQOWSA-N","Organic compounds","Alkaloids and derivatives","Benzophenanthridine alkaloids","Hexahydrobenzophenanthridine alkaloids",NA,NA,NA,NA
+197835,"JZUTXVTYJDCMDU-MOPGFXCFSA-N","Organic compounds","Alkaloids and derivatives","Phthalide isoquinolines",NA,NA,NA,NA,NA
+230232,"NQWVSMVXKMHKTF-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds","Furanoid lignans","Tetrahydrofuran lignans","9,9'-epoxylignans","Dibenzylbutyrolactone lignans",NA,NA
+232990,"ARGKVCXINMKCAZ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+235224,"JCTYWRARKVGOBK-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Aporphines",NA,NA,NA,NA,NA
+245005,"XFSBVAOIAHNAPC-XTHSEXKGSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+248507,"LZJRNLRASBVRRX-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Aporphines",NA,NA,NA,NA,NA
+248575,"AERBNCYCJBRYDG-UHFFFAOYSA-N","Organic compounds","Organic nitrogen compounds","Organonitrogen compounds","Amines","Alkanolamines","1,3-aminoalcohols",NA,NA
+251561,"GRTOGORTSDXSFK-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Yohimbine alkaloids",NA,NA,NA,NA,NA
+254855,"HKODIGSRFALUTA-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Macrolides and analogues",NA,NA,NA,NA,NA
+259321,"HSQGMTRYSIHDAC-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+259325,"KFKWRHQBZQICHA-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+259583,"RDIKFPRVLJLMER-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+259992,"ATLJNLYIJOCWJE-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroid lactones","Bufanolides and derivatives",NA,NA,NA
+262500,"ZGVSETXHNHBTRK-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+262502,"MCQNPWNREVNWDQ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal alkaloids","Spirosolanes and derivatives",NA,NA,NA
+263469,"RWCOTTLHDJWHRS-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+264115,"XSYCDVWYEVUDKQ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Quinolines and derivatives","Aminoquinolines and derivatives",NA,NA,NA,NA
+266552,"PEZXVOHRDBYBFR-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Pyranopyridines",NA,NA,NA,NA,NA
+267360,"KEOITPILCOILGM-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+267891,"BCJMNZRQJAVDLD-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Macrolides and analogues",NA,NA,NA,NA,NA
+279057,"NFYYATWFXNPTRM-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Gelsemium alkaloids",NA,NA,NA,NA,NA
+282013,"DLIKSSGEMUFQOK-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+285698,"ZSBXGIUJOOQZMP-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Lupin alkaloids","Matrine alkaloids",NA,NA,NA,NA
+301757,"FAZIYUIDUNHZRG-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroid lactones","Withanolides and derivatives",NA,NA,NA
+308359,"FUZMQNZACIFDBL-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Tannins",NA,NA,NA,NA,NA
+322640,"GNMSLDIYJOSUSW-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","N-acyl-alpha amino acids and derivatives","N-acyl-alpha amino acids"
+326549,"VRSRXLJTYQVOHC-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Protoberberine alkaloids and derivatives",NA,NA,NA,NA,NA
+328232,"AVRFPRAAVSCSSZ-GSEWTJHMSA-N","Organic compounds","Alkaloids and derivatives","Ibogan-type alkaloids",NA,NA,NA,NA,NA
+338256,"DROXVBRNXCRUHP-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","2-arylbenzofuran flavonoids",NA,NA,NA,NA,NA
+345761,"MATGKVZWFZHCLI-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds","Furanoid lignans","Tetrahydrofuran lignans","9,9'-epoxylignans","Dibenzylbutyrolactone lignans",NA,NA
+348130,"DJOJDHGQRNZXQQ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","O-methylated flavonoids","7-O-methylated flavonoids",NA,NA,NA
+348159,"CWVRJTMFETXNAD-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Alcohols and polyols","Cyclic alcohols and derivatives","Cyclitols and derivatives","Quinic acids and derivatives",NA
+352038,"MDSUKZSLOATHMH-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+354445,"DUAGQYUORDTXOR-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","O-glycosyl compounds",NA,NA
+362568,"YWNUNVSMOKMJMG-LJAQVGFWSA-N","Organic compounds","Phenylpropanoids and polyketides","Tannins",NA,NA,NA,NA,NA
+364707,"GDHNBPHYVRHYCC-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+366354,"FQWLMRXWKZGLFI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","2-arylbenzofuran flavonoids",NA,NA,NA,NA,NA
+369002,"CSKKDSFETGLMSB-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides",NA,NA,NA,NA
+369636,"ABRULANJVVJLFI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides",NA,NA,NA
+371257,"HGNHIFJNOKGSKI-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds",NA,NA,NA,NA,NA,NA
+393787,"HSTZMXCBWJGKHG-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes","Stilbene glycosides",NA,NA,NA,NA
+398934,"JJXCEOLNFSCNNE-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds","Arylnaphthalene lignans",NA,NA,NA,NA,NA
+409518,"DAXYUDFNWXHGBE-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+409682,"KRNYOVHEKOBTEF-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+409778,"UVYVLBIGDKGWPX-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+415704,"NMLUOJBSAYAYEM-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Corynanthean-type alkaloids",NA,NA,NA,NA,NA
+416119,"INYYVPJSBIVGPH-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Morphinans",NA,NA,NA,NA,NA
+416228,"XUHJBXVYNBQQBD-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+418553,"CMKFQVZJOWHHDV-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Ibogan-type alkaloids",NA,NA,NA,NA,NA
+419781,"JVHNBFFHWQQPLL-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Corynanthean-type alkaloids",NA,NA,NA,NA,NA
+420422,"AEFPCFUCFQBXDQ-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Benzoic acids and derivatives","Methoxybenzoic acids and derivatives","P-methoxybenzoic acids and derivatives",NA,NA
+431673,"PIWJSAMCEMZIDO-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Villanovane, atisane, trachylobane or helvifulvane diterpenoids","Atisane diterpenoids",NA,NA
+432450,"NODILNFGTFIURN-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+432524,"GZYPWOGIYAIIPV-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+435949,"BCXBIONYYJCSDF-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+439246,"FTVWIRXFELQLPI-ZDUSSCGKSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavanones",NA,NA,NA
+439476,"UMLOUOBDBGOHHR-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds","Ketones","Aryl ketones","Aryl alkyl ketones",NA
+439829,"QWYFHHGCZUCMBN-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Fatty Acyls","Fatty acid esters","Acyl carnitines",NA,NA,NA
+439877,"KTZNZCYTXQYEHT-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives",NA,NA,NA,NA
+440362,"AKIHYQWCLCDMMI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Coumaric acids and derivatives",NA,NA,NA
+440733,"CJXMVKYNVIGQBS-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamaldehydes",NA,NA,NA,NA,NA
+440735,"SBHXYTNGIZCORC-ZDUSSCGKSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavanones",NA,NA,NA
+441071,"QMGVPVSNSZLJIA-FVWCLLPLSA-N","Organic compounds","Alkaloids and derivatives","Strychnos alkaloids",NA,NA,NA,NA,NA
+441082,"GPLGAQQQNWMVMM-MYAJQUOBSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal alkaloids","Conanine-type alkaloids",NA,NA,NA
+441381,"HGUVPEBGCAVWID-KETMJRJWSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+441667,"RKWHWFONKJEUEF-GQUPQBGVSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+441674,"USNPULRDBDVJAO-FXCAAIILSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+441688,"RDFLLVCQYHQOBU-ZOTFFYTFSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-5-O-glycosides",NA
+441699,"RKWHWFONKJEUEF-WVXKDWSHSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+441708,"NNDHDYDFEDRMGH-CAEIVAEBSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+441737,"FIDOCHXHMJHKRW-VHQVDBNASA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+441742,"HKQZUYOVMYOFIT-VHNBHZRZSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+441746,"YOTUXHIWBVZAJQ-YAEAOFIFSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+441747,"XUHJBXVYNBQQBD-TUWOXVOMSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+441749,"AZAZKLKDEOMJBJ-BOPAMEKVSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Kaurane diterpenoids","Napelline-type diterpenoid alkaloids",NA,NA
+441764,"BMLIIPOXVWESJG-LMBCONBSSA-N","Organic compounds","Phenylpropanoids and polyketides","2-arylbenzofuran flavonoids",NA,NA,NA,NA,NA
+441772,"SLCKJKWFULXZBD-ZOTFFYTFSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-5-O-glycosides",NA
+442088,"TXDUTHBFYKGSAH-SFHVURJKSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Pyridoindoles","Beta carbolines",NA,NA,NA
+442195,"DTGZHCFJNDAHEN-OZEXIGSWSA-N","Organic compounds","Alkaloids and derivatives","Emetine alkaloids",NA,NA,NA,NA,NA
+442431,"HXTFHSYLYXVTHC-AJHDJQPGSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+442435,"HEYZWPRKKUGDCR-QBXMEVCASA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","O-glycosyl compounds",NA,NA
+442439,"ARGKVCXINMKCAZ-UZRWAPQLSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+442456,"NLAWPKPYBMEWIR-SKYQDXIQSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+442653,"VABYUUZNAVQNPG-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives",NA,NA,NA,NA,NA
+442758,"SFVVQRJOGUKCEG-ZRQNBYAXSA-N","Organic compounds","Alkaloids and derivatives",NA,NA,NA,NA,NA,NA
+442770,"JIJYZALGIIQXKE-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavans","Isoflavanones","8-prenylated isoflavanones",NA,NA
+442813,"MGJLSBDCWOSMHL-MIUGBVLSSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+442894,"WUFQLZTXIWKION-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Diazanaphthalenes","Benzodiazines","Quinazolines",NA,NA,NA
+442929,"YIICVSCAKJMMDJ-SNVBAGLBSA-N","Organic compounds","Organoheterocyclic compounds","Diazanaphthalenes","Benzodiazines","Quinazolines",NA,NA,NA
+442959,"YUKCLPPRYNXRAF-RFVXBFLTSA-N","Organic compounds","Alkaloids and derivatives","Lupin alkaloids","Aloperine and related alkaloids","Ormosia-type alkaloids",NA,NA,NA
+443648,"ABVCUBUIXWJYSE-GQUPQBGVSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+443651,"CCQDWIRWKWIUKK-QKYBYQKWSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+443654,"ZZWPMFROUHHAKY-OUUKCGNVSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+444539,"WBYWAXJHAXSJNI-VOTSOKGWSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Cinnamic acids",NA,NA,NA,NA
+444899,"YZXBAPSDXZZRGB-DOFZRALJSA-N","Organic compounds","Lipids and lipid-like molecules","Fatty Acyls","Fatty acids and conjugates","Long-chain fatty acids",NA,NA,NA
+445154,"LUKBXSAWLPMMSZ-OWOJBTEDSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+445858,"KSEBMYQBYZTDHS-HWKANZROSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Hydroxycinnamic acids",NA,NA,NA
+446641,"AZEGJHGXTSUPPG-AWEZNQCLSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Valine and derivatives",NA
+472335,"VHXNKPBCCMUMSW-FQEVSTJZSA-N","Organic compounds","Alkaloids and derivatives","Camptothecins",NA,NA,NA,NA,NA
+480763,"UOWOIGNEFLTNAW-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","6-prenylated flavans","6-prenylated flavanones",NA,NA
+480770,"HCBKENVWCDLQOA-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","8-prenylated flavans","8-prenylated flavanones",NA,NA
+480815,"QFAPONVNJTUMHF-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+494542,"YWNUNVSMOKMJMG-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Tannins",NA,NA,NA,NA,NA
+495009,"OYNIUJOJEWHJPN-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal alkaloids","Spirosolanes and derivatives",NA,NA,NA
+495253,"FNGGIPWAZSFKCN-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Plumeran-type alkaloids",NA,NA,NA,NA,NA
+503731,"CNPMAFLUEHEXRE-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","2-arylbenzofuran flavonoids",NA,NA,NA,NA,NA
+503737,"DEMKZLAVQYISIA-ZRWXNEIDSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides",NA,NA,NA
+509245,"LPEPZZAVFJPLNZ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","8-prenylated flavans","8-prenylated flavanones",NA,NA
+521227,"FCEVNJIUIMLVML-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives",NA,NA,NA,NA,NA,NA
+522740,"JVKYZPBMZPJNAJ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal alkaloids","Solanidines and derivatives",NA,NA,NA
+537159,"QCTMYNGDIBTNSK-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+543743,"FGYQUFZANKOISC-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Sulfoxides",NA,NA,NA,NA,NA
+558649,"XHHOHZPNYFQJKL-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+558826,"YUKCLPPRYNXRAF-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Lupin alkaloids","Aloperine and related alkaloids","Ormosia-type alkaloids",NA,NA,NA
+572828,"SSSCMFCWHWCCEH-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Gelsemium alkaloids",NA,NA,NA,NA,NA
+573380,"IYLRRIUNGGQRTN-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Aspidofractine alkaloids",NA,NA,NA,NA,NA
+573663,"GWWGRYGNRKFSSX-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Benzoic acids and derivatives","Methoxybenzoic acids and derivatives","M-methoxybenzoic acids and derivatives",NA,NA
+580313,"CZLWGXKWXLVFJU-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Aspidospermatan-type alkaloids",NA,NA,NA,NA,NA
+586372,"PUETUDUXMCLALY-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds","Dibenzylbutane lignans","Dibenzylbutanediol lignans",NA,NA,NA,NA
+601064,"XRBIHOLQAKITPP-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Rhoeadine alkaloids",NA,NA,NA,NA,NA
+605462,"SLOQSNHEHSCLGS-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Diazanaphthalenes","Benzodiazines","Quinoxalines",NA,NA,NA
+611919,"LELBFTMXCIIKKX-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Corynanthean-type alkaloids",NA,NA,NA,NA,NA
+623060,"NSRJSISNDPOJOP-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Furanoisoflavonoids","Pterocarpans",NA,NA,NA
+626363,"VXTDUGOBAOLMED-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Macroline alkaloids",NA,NA,NA,NA,NA
+630921,"AADVZSXPNRLYLV-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Corynanthean-type alkaloids",NA,NA,NA,NA,NA
+633349,"SCULJPGYOQQXTK-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroid lactones","Bufanolides and derivatives",NA,NA,NA
+633463,"AVRFPRAAVSCSSZ-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Ibogan-type alkaloids",NA,NA,NA,NA,NA
+637247,"UMBTUNCDJTWDLW-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+637541,"KKSDGJDHHZEWEP-SNAWJCMRSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Hydroxycinnamic acids",NA,NA,NA
+637542,"NGSWKAQJJWESNS-ZZXKWVIFSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Hydroxycinnamic acids",NA,NA,NA
+637668,"LZPNXAULYJPXEH-AATRIKPKSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Coumaric acids and derivatives",NA,NA,NA
+637760,"DQFBYFPFKXHELB-VAWYXSNFSA-N","Organic compounds","Phenylpropanoids and polyketides","Linear 1,3-diarylpropanoids","Chalcones and dihydrochalcones","Retrochalcones",NA,NA,NA
+637775,"PCMORTLOPMLEFB-ONEGZZNKSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Hydroxycinnamic acids",NA,NA,NA
+637858,"VABYUUZNAVQNPG-BQYQJAHWSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives",NA,NA,NA,NA,NA
+638024,"MXXWOMGUGJBKIW-YPCIICBESA-N","Organic compounds","Alkaloids and derivatives",NA,NA,NA,NA,NA,NA
+638278,"DXDRHHKMWQZJHT-FPYGCLRLSA-N","Organic compounds","Phenylpropanoids and polyketides","Linear 1,3-diarylpropanoids","Chalcones and dihydrochalcones","2'-Hydroxychalcones",NA,NA,NA
+641301,"CJXMVKYNVIGQBS-OWOJBTEDSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamaldehydes",NA,NA,NA,NA,NA
+644020,"SLRCCWJSBJZJBV-ZQDZILKHSA-N","Organic compounds","Alkaloids and derivatives","Lupin alkaloids","Sparteine, lupanine, and related alkaloids",NA,NA,NA,NA
+644226,"WPTUQMUCTTVOFW-BONVTDFDSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Isoleucine and derivatives",NA
+644227,"BUGQHORRADGONS-KRWDZBQOSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Phenylalanine and derivatives",NA
+656516,"XUCIJNAGGSZNQT-JHSLDZJXSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","Cyanogenic glycosides",NA,NA
+688836,"PFMGWOVPHHEHAL-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones","Flavonols",NA,NA,NA
+689043,"QAIPRVGONGVQAS-DUXPYHPUSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Hydroxycinnamic acids",NA,NA,NA
+717531,"HJBWJAPEBGSQPR-GQCTYLIASA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Coumaric acids and derivatives",NA,NA,NA
+927945,"VNBUMBNLPGLBML-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Quinolines and derivatives","Furanoquinolines",NA,NA,NA,NA
+1548910,"LUKBXSAWLPMMSZ-UPHRSURJSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+2724372,"KMPWYEUPVWOPIM-FGVBSWQGSA-N","Organic compounds","Alkaloids and derivatives","Cinchona alkaloids",NA,NA,NA,NA,NA
+2734580,"XYHWPQUEOOBIOW-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavanones",NA,NA,NA
+3034396,"LELBFTMXCIIKKX-QVRQZEMUSA-N","Organic compounds","Alkaloids and derivatives","Corynanthean-type alkaloids",NA,NA,NA,NA,NA
+3037048,"DAXYUDFNWXHGBE-VKCGGMIFSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+3037151,"TZUGIFAYWNNSAO-AZQGJTAVSA-N","Organic compounds","Alkaloids and derivatives","Corynanthean-type alkaloids",NA,NA,NA,NA,NA
+3037884,"NMLUOJBSAYAYEM-AZQGJTAVSA-N","Organic compounds","Alkaloids and derivatives","Corynanthean-type alkaloids",NA,NA,NA,NA,NA
+3082003,"YAMUFBLWGFFICM-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Glycerophospholipids","Glycerophosphocholines","Lysophosphatidylcholines","1-acyl-sn-glycero-3-phosphocholines",NA,NA
+3084020,"RBSZCNOWHDHRFZ-CFIIAAHPSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+3084407,"FIAAVMJLAGNUKW-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+3101182,"XGTNTUKODZZCGL-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Villanovane, atisane, trachylobane or helvifulvane diterpenoids","Atisane diterpenoids",NA,NA
+3101183,"DLNWZIVYKQXLTN-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Pyrrolizidines",NA,NA,NA,NA,NA
+3133561,"AZAZKLKDEOMJBJ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Kaurane diterpenoids","Napelline-type diterpenoid alkaloids",NA,NA
+3262516,"XBAMJZTXGWPTRM-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides",NA,NA,NA,NA
+3281521,"TZUGIFAYWNNSAO-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Corynanthean-type alkaloids",NA,NA,NA,NA,NA
+3321053,"MDLTWTOQCHCLSZ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Pyridines and derivatives","Pyridoxines",NA,NA,NA,NA
+3321899,"WPTUQMUCTTVOFW-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Isoleucine and derivatives",NA
+3336566,"MZDGQNFFUITEAB-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Biflavonoids and polyflavonoids",NA,NA,NA,NA
+3398622,"FBDCJLXTUCMFLF-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","N-acyl-alpha amino acids and derivatives","N-acyl-alpha amino acids"
+3403655,"CPINTEKYWNYXNP-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal alkaloids","Cerveratrum-type alkaloids",NA,NA,NA
+3439560,"MRVHCCZFXHOQOT-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Lupin alkaloids","Cytisine and derivatives",NA,NA,NA,NA
+3454277,"BWQSLRZZOVFVHJ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Pyrrolizidines",NA,NA,NA,NA,NA
+3509806,"SKHJNNFXCKTDBG-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+3515873,"IBFYXTRXDNAPMM-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Iridoid O-glycosides",NA,NA,NA
+3515878,"HEYZWPRKKUGDCR-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","O-glycosyl compounds",NA,NA
+3542481,"XBGYTZHKGMCEGE-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+3549960,"ZLPSOQFIIQIIAX-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+3564542,"OMQADRGFMLGFJF-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+3568969,"PXUQTDZNOHRWLI-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+3582412,"OYMQKBZMKFJPMH-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Ibogan-type alkaloids",NA,NA,NA,NA,NA
+3605588,"HYDDDNUKNMMWBD-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+3694932,"MDZKJHQSJHYOHJ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+3721430,"QAGPPGDCPAPQLW-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal alkaloids","22,26-epiminocholestanes",NA,NA,NA
+3733033,"MGJLSBDCWOSMHL-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+3748667,"VSUODASNSRJNCP-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Lappaconitine-type diterpenoid alkaloids",NA,NA,NA
+3752085,"CLDCTFPNFRITPI-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds",NA,NA,NA,NA,NA,NA
+3753277,"TTZWEOINXHJHCY-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+3789345,"RIPYIJVYDYCPKW-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+3794292,"DEMKZLAVQYISIA-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides",NA,NA,NA
+3800367,"NNDHDYDFEDRMGH-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+3803978,"JDOFCMASVRMYJU-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Strychnos alkaloids",NA,NA,NA,NA,NA
+3807559,"IKIIZLYTISPENI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid O-glucuronides","Flavonoid-7-O-glucuronides",NA
+3818601,"LWSPRPDSPCBAKK-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal alkaloids","Cerveratrum-type alkaloids",NA,NA,NA
+3874518,"RYHDIBJJJRNDSX-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+3935161,"PDAYUJSOJIMKIS-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+3945661,"HCZNPUHZYPPINM-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Leucine and derivatives",NA
+3977067,"VTJUNIYRYIAIHF-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+4096934,"IEHDJWSAXBGJIP-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+4115417,"TYNQWWGVEGFKRU-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+4183640,"KYQZWONCHDNPDP-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+4255608,"BUGQHORRADGONS-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Phenylalanine and derivatives",NA
+4278576,"OBKKEZLIABHSGY-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+4420322,"BQBCIBCLXBKYHW-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+4463283,"NLAWPKPYBMEWIR-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+4475102,"MYXNWGACZJSMBT-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides",NA,NA,NA
+4480100,"JJWYIMQKLTVAGZ-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","O-glycosyl compounds",NA,NA
+4480305,"WTGXAWKVZMQEDA-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","O-glycosyl compounds",NA,NA
+4481259,"RKWHWFONKJEUEF-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+4481797,"BMLIIPOXVWESJG-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","2-arylbenzofuran flavonoids",NA,NA,NA,NA,NA
+4483255,"GQPGGSOQFNPVJI-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+4483645,"KYWSCMDFVARMPN-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+4483646,"PYJMYPPFWASOJX-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+4524287,"MYFMARDICOWMQP-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+4526188,"FIDOCHXHMJHKRW-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+4586441,"RBSZCNOWHDHRFZ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Aconitane-type diterpenoid alkaloids",NA,NA,NA
+4604444,"FOSPCYZZRVNHJS-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","N-acyl-alpha amino acids and derivatives","N-acyl-alpha amino acids"
+4628123,"XRKBRPFTFKKHEF-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Hydroxycinnamic acid esters","Hydroxycinnamic acid glycosides",NA,NA
+4636593,"HGUVPEBGCAVWID-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+4999763,"SLCKJKWFULXZBD-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-5-O-glycosides",NA
+5015264,"LBRPLJCNRZUXLS-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Pyridoindoles","Beta carbolines",NA,NA,NA
+5056755,"VVLXCWVSSLFQDS-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+5087640,"PTDAHAWQAGSZDD-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+5153580,"KJXSIXMJHKAJOD-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","Flavan-3-ols","Catechins","Epigallocatechins",NA
+5158756,"RDFLLVCQYHQOBU-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-5-O-glycosides",NA
+5165230,"AZEGJHGXTSUPPG-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","N-acyl-alpha amino acids and derivatives","N-acyl-alpha amino acids"
+5199636,"OVEAWSPZRGBTSS-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","N-acyl-alpha amino acids and derivatives","N-acyl-alpha amino acids"
+5226097,"IWIANZLCJVYEFX-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+5246012,"PNVLWFYAPWAQMU-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+5280343,"REFJWTPEDVJJIY-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones","Flavonols",NA,NA,NA
+5280373,"WUADCCWRTIWANL-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","O-methylated isoflavonoids","4'-O-methylated isoflavonoids","4'-O-methylisoflavones",NA,NA
+5280378,"HKQYGTCOTHHOMP-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","O-methylated isoflavonoids","4'-O-methylated isoflavonoids","4'-O-methylisoflavones",NA,NA
+5280441,"SGEWCQFRYRRZDC-VPRICQMDSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+5280442,"DANYIYRPLHHOCZ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","O-methylated flavonoids","4'-O-methylated flavonoids",NA,NA,NA
+5280443,"KZNIFHPLKGYRTM-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones",NA,NA,NA,NA
+5280445,"IQPNAANSBPBGFQ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones",NA,NA,NA,NA
+5280459,"OXGUCUVFOIWWQJ-HQBVPOQASA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5280460,"RODXRVNMMDRFIK-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Coumarins and derivatives","Hydroxycoumarins","7-hydroxycoumarins",NA,NA,NA
+5280536,"DKZBBWMURDFHNE-NSCUHMNNSA-N","Organic compounds","Benzenoids","Phenols","Methoxyphenols",NA,NA,NA,NA
+5280569,"ATEFPOUAMCWAQS-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Coumarins and derivatives","Hydroxycoumarins","7,8-dihydroxycoumarins",NA,NA,NA
+5280637,"PEFNSGRTCBGNAN-QNDFHXLGSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5280704,"KMOUJOKENFFTPU-QNDFHXLGSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5280781,"LFEUICHQZGNOHD-RECXWPGBSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+5280802,"CDICDSOGTRCHMG-ONEGZZNKSA-N","Organic compounds","Benzenoids","Phenols","Methoxyphenols",NA,NA,NA,NA
+5280804,"OVSQVDMCBVZWGM-QSOFNFLRSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5280805,"IKGXIBQEEMLURG-NVPNHPEKSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5280863,"IYRMWMYZSQPJKC-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones","Flavonols",NA,NA,NA
+5280906,"HKODIGSRFALUTA-JTLQZVBZSA-N","Organic compounds","Phenylpropanoids and polyketides","Macrolides and analogues",NA,NA,NA,NA,NA
+5280953,"BXNJHAXVSOCGBA-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Harmala alkaloids",NA,NA,NA,NA,NA
+5280961,"TZBJGXHYKVUXJN-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflav-2-enes","Isoflavones",NA,NA,NA
+5281404,"PSFDQSOCUJVVGF-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Harmala alkaloids",NA,NA,NA,NA,NA
+5281408,"DAXYUDFNWXHGBE-KAXDATADSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+5281416,"ILEDWLMCKZNDJK-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Coumarins and derivatives","Hydroxycoumarins","6,7-dihydroxycoumarins",NA,NA,NA
+5281605,"FXNFHKRTJBSTCS-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones",NA,NA,NA,NA
+5281607,"RTIXKCRFFJGDFG-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones",NA,NA,NA,NA
+5281613,"GZSOSUNBTXMUFQ-YFAPSIMESA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5281621,"SJRXVLUZMMDCNG-KKPQBLLMSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-8-O-glycosides",NA,NA
+5281643,"OVSQVDMCBVZWGM-DTGCRPNFSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5281654,"IZQSVPBOUDKVDZ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones","Flavonols",NA,NA,NA
+5281666,"SQFSKOYWJBQGKQ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones","Flavonols",NA,NA,NA
+5281672,"IKMDFBPHZNJCSN-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones","Flavonols",NA,NA,NA
+5281675,"PLAPMLGJVGLZOV-VPRICQMDSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+5281693,"PEFASEPMJYRQBW-HKWQTAEVSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5281703,"XLTFNNCXVBYBSX-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","O-methylated flavonoids","8-O-methylated flavonoids",NA,NA,NA
+5281707,"ZZIALNLLNHEQPJ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Coumestans",NA,NA,NA,NA
+5281708,"ZQSIJRDFPHDXIC-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflav-2-enes","Isoflavones",NA,NA,NA
+5281727,"VLEUZFDZJKSGMX-ONEGZZNKSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+5281728,"FQWLMRXWKZGLFI-YVYUXZJTSA-N","Organic compounds","Phenylpropanoids and polyketides","2-arylbenzofuran flavonoids",NA,NA,NA,NA,NA
+5281743,"BCJMNZRQJAVDLD-CQRYIUNCSA-N","Organic compounds","Phenylpropanoids and polyketides","Macrolides and analogues",NA,NA,NA,NA,NA
+5281750,"FCEVNJIUIMLVML-QPSVUOIXSA-N","Organic compounds","Alkaloids and derivatives",NA,NA,NA,NA,NA,NA
+5281789,"KCUZCRLRQVRBBV-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflav-2-enes","Isoflavones",NA,NA,NA
+5281807,"HKEAFJYKMMKDOR-VPRICQMDSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid C-glycosides",NA,NA,NA,NA
+5281811,"OBBCRPUNCUPUOS-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflav-2-enes","Isoflavones",NA,NA,NA
+5282073,"LCAWNFIFMLXZPQ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones",NA,NA,NA,NA
+5282102,"JPUKWEQWGBDDQB-QSOFNFLRSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5282150,"RPMNUQRUHXIGHK-PYXJVEIZSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5282151,"LYGPBZVKGHHTIE-HUBYJIGHSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+5282154,"CFYMYCCYMJIYAB-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavones","Flavonols",NA,NA,NA
+5282155,"LKZDFKLGDGSGEO-UJECXLDQSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5284648,"DDKGKOOLFLYZDL-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflav-2-enes","Isoflavones",NA,NA,NA
+5293655,"IKGXIBQEEMLURG-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5315459,"IWEIJEPIYMAGTH-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Biflavonoids and polyflavonoids",NA,NA,NA,NA
+5316673,"SOSLMHZOJATCCP-AEIZVZFYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5317025,"YFVGIJBUXMQFOF-PJOVQGMDSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5317385,"MLWDGPFGTFOLRJ-CUVHLRMHSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5317478,"JQNSUDIGIIGIOL-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavans","Isoflavanones","6-prenylated isoflavanones",NA,NA
+5317750,"DXYUAIFZCFRPTH-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflav-2-enes","Isoflavones",NA,NA,NA
+5317756,"NZYSZZDSYIBYLC-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Hydroxyisoflavonoids",NA,NA,NA,NA
+5318098,"BIGABVPVCRHEES-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives",NA,NA,NA,NA,NA
+5318565,"HOEVRHHMDJKUMZ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Coumarins and derivatives","Hydroxycoumarins","7-hydroxycoumarins",NA,NA,NA
+5318645,"CQLRUIIRRZYHHS-LFXZADKFSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5318759,"FNTJVYCFNVUBOL-ZUGPOPFOSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid O-glucuronides","Flavonoid-3-O-glucuronides",NA
+5318767,"RTATXGUCZHCSNG-QHWHWDPRSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5318846,"VTLYEMHGPMGUOT-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Indoles","3-alkylindoles",NA,NA,NA
+5318997,"TZJALUIVHRYQQB-XLRXWWTNSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5319116,"UHNXUSWGOJMEFO-QNDFHXLGSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides",NA,NA,NA
+5319853,"RAFHNDRXYHOLSH-RGHIGTIISA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5320053,"OBGPEBYHGIUFBN-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflav-2-enes","Isoflavones",NA,NA,NA
+5320623,"VUGRLRAUZWGZJP-IAAKTDFRSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5320686,"DVGGLGXQSFURLP-VWMSDXGPSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid 3-O-p-coumaroyl glycosides",NA,NA
+5320835,"RPVIQWDFJPYNJM-DEFKTLOSSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5320844,"OIUBYZLTFSLSBY-HMGRVEAOSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides",NA,NA,NA
+5320863,"PZZRDJXEMZMZFD-DUYPVGENSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5321577,"JMFWYRWPJVEZPV-AVGVHVDKSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5324325,"YTQRHYCHEIXUIU-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Harmala alkaloids",NA,NA,NA,NA,NA
+5324677,"VLSRUFWCGBMYDJ-ONEGZZNKSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Coumaric acids and derivatives",NA,NA,NA
+5351997,"PEFASEPMJYRQBW-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5353588,"GZSOSUNBTXMUFQ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5358913,"LFEUICHQZGNOHD-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+5378597,"OVSQVDMCBVZWGM-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5385074,"HKEAFJYKMMKDOR-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid C-glycosides",NA,NA,NA,NA
+5388063,"GDHNBPHYVRHYCC-SNAWJCMRSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+5392245,"XSYCDVWYEVUDKQ-GXRSIYKFSA-N","Organic compounds","Organoheterocyclic compounds","Quinolines and derivatives","Aminoquinolines and derivatives",NA,NA,NA,NA
+5458190,"CMKFQVZJOWHHDV-NQZBTDCJSA-N","Organic compounds","Alkaloids and derivatives","Ibogan-type alkaloids",NA,NA,NA,NA,NA
+5459217,"RPMNUQRUHXIGHK-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5459308,"INYYVPJSBIVGPH-QHRIQVFBSA-N","Organic compounds","Alkaloids and derivatives","Morphinans",NA,NA,NA,NA,NA
+5462193,"JPUKWEQWGBDDQB-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5462429,"NFYYATWFXNPTRM-ICFOCEFXSA-N","Organic compounds","Alkaloids and derivatives","Gelsemium alkaloids",NA,NA,NA,NA,NA
+5480901,"YFVGIJBUXMQFOF-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5481663,"UIDGLYUNOUKLBM-GEBJFKNCSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5483905,"ZEJXENDZTYVXDP-CSJHBIPPSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5484066,"YNMFDPCLPIMRFD-KSPKLRDJSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5486199,"PUPKKEQDLNREIM-QNSQPKOQSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5487249,"UIDGLYUNOUKLBM-ZLADREHTSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5488811,"IPVSUYLZIAYTOK-DPOJTEBASA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-5-O-glycosides",NA
+5856141,"JXWAQRJFONLTSI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5858132,"RNDGJCZQVKFBPI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+5859848,"RLTNQOUWXZXZCS-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5874704,"LYGPBZVKGHHTIE-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+5878729,"PZZRDJXEMZMZFD-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5883291,"BJJCTXDEJUWVIC-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+5949214,"SJRXVLUZMMDCNG-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-8-O-glycosides",NA,NA
+5962587,"PDAYUJSOJIMKIS-SNAWJCMRSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes",NA,NA,NA,NA,NA
+6223069,"UIDGLYUNOUKLBM-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+6324617,"SQOJOAFXDQDRGF-MMQTXUMRSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene lactones","Diterpene lactones","Ginkgolides and bilobalides",NA,NA
+6426860,"ODBRNZZJSYPIDI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides",NA,NA,NA
+6439048,"PHLXREOMFNVWOH-WJJFPOJFSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+6441269,"XGEYXJDOVMEJNG-HTFDPZBKSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides",NA,NA,NA
+6441560,"RIMDDIPKIZTBHU-KPDHXFAYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Indoles","3-alkylindoles",NA,NA,NA
+6441960,"SJKRPUOXUNOPOP-HEXYGZIHSA-N","Organic compounds","Alkaloids and derivatives","Gelsemium alkaloids",NA,NA,NA,NA,NA
+6445140,"RBALEJFQJCAPLN-RFEOFLAMSA-N","Organic compounds","Alkaloids and derivatives","Macroline alkaloids",NA,NA,NA,NA,NA
+6450184,"SYRURBPRFQUYQS-RHEJLWEFSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Aurone O-glycosides",NA,NA
+6453144,"BWQSLRZZOVFVHJ-ABHRYQDASA-N","Organic compounds","Organoheterocyclic compounds","Pyrrolizidines",NA,NA,NA,NA,NA
+6474107,"UVYVLBIGDKGWPX-KUAJCENISA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+6602304,"ZPPQIOUITZSYAO-AOBOYTTNSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+6604605,"LOUPRKONTZGTKE-VPCNSNALSA-N","Organic compounds","Alkaloids and derivatives","Cinchona alkaloids",NA,NA,NA,NA,NA
+6917974,"ATLJNLYIJOCWJE-CWMZOUAVSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroid lactones","Bufanolides and derivatives",NA,NA,NA
+6918774,"HFGSQOYIOKBQOW-ZSDYHTTISA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+7097227,"YRKLGWOHYXIKSF-LBPRGKRZSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Glutamic acid and derivatives",NA
+7098682,"FUZMQNZACIFDBL-IHLOFXLRSA-N","Organic compounds","Phenylpropanoids and polyketides","Tannins",NA,NA,NA,NA,NA
+9547215,"QEEBRPGZBVVINN-BMPKRDENSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroid lactones","Bufanolides and derivatives",NA,NA,NA
+9549171,"ZGVSETXHNHBTRK-UDJLNJFBSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+9794659,"BCRXKWOQVFKZAG-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Sulfoxides",NA,NA,NA,NA,NA
+9809542,"XNGXWSFSJIQMNC-FIYORUNESA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+9837367,"OGYHCBGORZWBPH-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Sulfoxides",NA,NA,NA,NA,NA
+9852086,"FVIZARNDLVOMSU-IRFFNABBSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+9898279,"GZYPWOGIYAIIPV-JBDTYSNRSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+9943917,"XKQKXKRCMAJADR-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Glutamine and derivatives",NA
+9972910,"OWQLBLNRUZULFV-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","O-methylated flavonoids","8-O-methylated flavonoids",NA,NA,NA
+9989779,"FZAQRVWPQCXSPC-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzoxazoles","Benzoxazolones",NA,NA,NA,NA
+10006384,"IGLUNMMNDNWZOA-LNNZMUSMSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+10053626,"TUIJPUWSXVFWSH-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+10125146,"LDIRGNDMTOGVRB-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Isothiocyanates",NA,NA,NA,NA,NA
+10177002,"LRCNOZRCYBNMEP-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Fatty Acyls","Fatty acid esters","Acyl carnitines",NA,NA,NA
+10196837,"TWYYVOVDSNRIJM-AFAGGVQESA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+10197243,"OLBLWNPOURNBCY-MRBLLYQQSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-5-O-glycosides",NA
+10429112,"JMIAZDVHNCCPDM-QLMFUGSGSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+10483216,"LHKZIVMTXZLOTP-RMKGEEGASA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides",NA,NA,NA,NA
+10555648,"PFRUIDZIJVQVOR-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Biflavonoids and polyflavonoids",NA,NA,NA,NA
+11064107,"XCSFLMDXLJMLBA-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzoxazines","Benzoxazinones",NA,NA,NA,NA
+11169452,"SXYMMDGPXYVCER-WGNLCONDSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+11193907,"FUTHBNRZCFKVQZ-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+11250133,"XFZJEEAOWLFHDH-UKWJTHFESA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Biflavonoids and polyflavonoids",NA,NA,NA,NA
+11464648,"USWXMMRFOWNEOR-VWLKIGRWSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+11491905,"RYHDIBJJJRNDSX-MCGLQMIESA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+11499199,"NJUXRKMKOFXMRX-OOFHPJNRSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+11725803,"SFQIGPZCFNTPOD-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","3'-prenylated flavans","3'-prenylated flavanones",NA,NA
+11815492,"NFZYDZXHKFHPGA-QQHDHSITSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+11870645,"JDOFCMASVRMYJU-JYTRXFNOSA-N","Organic compounds","Alkaloids and derivatives","Strychnos alkaloids",NA,NA,NA,NA,NA
+11875904,"QAGPPGDCPAPQLW-HAQROMNMSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal alkaloids","22,26-epiminocholestanes",NA,NA,NA
+11969542,"SCULJPGYOQQXTK-OLRINKBESA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroid lactones","Bufanolides and derivatives",NA,NA,NA
+12073937,"UYLFIIUIXMINML-CMDGGOBGSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Cinnamic acid amides",NA,NA,NA,NA
+12302249,"ABVCUBUIXWJYSE-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+12302820,"ZLSYCIYRYZUJCZ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+12302914,"NFZYDZXHKFHPGA-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+12304286,"JMIAZDVHNCCPDM-XJKYNJMSSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+12304288,"JMIAZDVHNCCPDM-PMJXBNNDSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+12304737,"UHNXUSWGOJMEFO-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides",NA,NA,NA
+12309901,"DGGOLFCPSUVVHX-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+12313332,"RTATXGUCZHCSNG-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+12313913,"IPVSUYLZIAYTOK-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-5-O-glycosides",NA
+12314844,"IDTDRZPBDLMCLB-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+12442845,"CDDWAYFUFNQLRZ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+12442849,"CDDWAYFUFNQLRZ-KJVHGCRFSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+12442855,"VNGUCOGHCJHFID-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+12442935,"JDGKHHCYVKBIIT-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+12442954,"OIUBYZLTFSLSBY-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides",NA,NA,NA
+12444947,"YLYJXNTZVUEFJZ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+12855923,"XNGXWSFSJIQMNC-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+12972420,"CEBSROOTTDEPKN-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavans","Isoflavanones","3'-prenylated isoflavanones",NA,NA
+13254471,"RAFHNDRXYHOLSH-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+13326381,"IBZLICPLPYSFNZ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+13376715,"BQGJXFQCMYJENQ-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Eburnan-type alkaloids",NA,NA,NA,NA,NA
+13457498,"BCNKILSUUHWRTG-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+13644660,"OVMFOVNOXASTPA-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+13647412,"LKZDFKLGDGSGEO-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+13846903,"QWAZWXOCSOFIPS-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides",NA,NA,NA
+13879965,"BCVIOZZGJNOEQS-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+13887800,"YNMFDPCLPIMRFD-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+13894650,"UPCDLBPYWXOCOK-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+13915667,"XENHPQQLDPAYIJ-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+13919048,"NFDYGNFETJVMSE-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+13940823,"HQNOUCSPWAGQND-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+13942388,"SPUFXPFDJYNCFD-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+13984469,"JGXFMIJHKASCIZ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+14035324,"JYXSWDCPHRTYGU-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+14159396,"FEWRYXXFMHQZRI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+14185731,"FNTJVYCFNVUBOL-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid O-glucuronides","Flavonoid-3-O-glucuronides",NA
+14186188,"YZNCIXVBVQRGQN-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+14186901,"UYVBMGULWGRDQT-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+14217344,"SSSCMFCWHWCCEH-MTYPYGCKSA-N","Organic compounds","Alkaloids and derivatives","Gelsemium alkaloids",NA,NA,NA,NA,NA
+14218027,"CGKWSLSAYABZTL-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","3'-prenylated flavans","3'-prenylated flavanones",NA,NA
+14238625,"DFNXNCCYQRPZMD-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+14304554,"WKXVAXOSIPTXEC-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+14309606,"FWZXNPNHUWFOCM-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Tyrosine and derivatives",NA
+14310763,"VCCNKWWXYVWTLT-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+14310828,"XLQFMBLUUSGXQY-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+14311149,"CCQDWIRWKWIUKK-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+14325222,"LYFXRHUNCZZUTQ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+14332446,"VUGRLRAUZWGZJP-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+14407400,"WNGIVKPPGCCJNP-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+14426033,"TWVKGYNQQAUNRN-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+14427338,"LDVNKZYMYPZDAI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+14500869,"MTXMHWSVSZKYBT-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+14524434,"JMFWYRWPJVEZPV-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+14730813,"NBQPHANHNTWDML-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+14779569,"SXYMMDGPXYVCER-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+14844938,"MVGLREOVTAENKK-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Sulfoxides",NA,NA,NA,NA,NA
+14891565,"WBQVRPYEEYUEBQ-OJVDLISWSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+15200290,"VHXNKPBCCMUMSW-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Camptothecins",NA,NA,NA,NA,NA
+15574829,"FVIZARNDLVOMSU-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+15596585,"IGLUNMMNDNWZOA-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+15608214,"CROUPKILZUPLQA-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+15608234,"WFRQIKSNAYYUJZ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+15730308,"RNEHQZRKZJSYOL-UHFFFAOYSA-N","Organic compounds","Benzenoids","Phenols","Benzenediols","Catechols",NA,NA,NA
+15917996,"HFGSQOYIOKBQOW-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+15939882,"MRVHCCZFXHOQOT-ZJUUUORDSA-N","Organic compounds","Alkaloids and derivatives","Lupin alkaloids","Cytisine and derivatives",NA,NA,NA,NA
+16396557,"CLDCTFPNFRITPI-MUUNZHRXSA-N","Organic compounds","Lignans, neolignans and related compounds",NA,NA,NA,NA,NA,NA
+16760075,"RMCRQBAILCLJGU-HIBKWJPLSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+17751008,"RKBDCPZCGRWNMP-SJBKTWHCSA-N","Organic compounds","Alkaloids and derivatives","Rhoeadine alkaloids",NA,NA,NA,NA,NA
+18218218,"KTGFOCFYOZQVRJ-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+18218232,"JWBLQDDHSDGEGR-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+20140672,"JQWABENXVMJJMW-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Oligopeptides",NA,NA
+21123652,"BIGABVPVCRHEES-NWPJSNQLSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives",NA,NA,NA,NA,NA
+21159153,"WXNJNHFYIWEHIL-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","O-methylated flavonoids","3'-O-methylated flavonoids",NA,NA,NA
+21405068,"MKCVLTRITQNGQI-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+21477996,"SBEOEJNITMVWLK-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+21591148,"QNLGNISMYMFVHP-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavans","Isoflavanones","6-prenylated isoflavanones",NA,NA
+21627963,"TTZWEOINXHJHCY-UHJVZONPSA-N","Organic compounds","Organoheterocyclic compounds","Indolizidines",NA,NA,NA,NA,NA
+21637642,"WRYJYFCCMSVEPQ-ORAXXRKOSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+21679027,"FAZIYUIDUNHZRG-PCTWTJKKSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroid lactones","Withanolides and derivatives",NA,NA,NA
+22304495,"XGTNTUKODZZCGL-LFXJTNOVSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Villanovane, atisane, trachylobane or helvifulvane diterpenoids","Atisane diterpenoids",NA,NA
+22630387,"RPVIQWDFJPYNJM-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+22935676,"CNPNWGHRMBQHBZ-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+23502663,"VPQWOQSQAVBHEV-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+23641080,"XJTWLFBHBFSVRS-CRJBWSHOSA-N","Organic compounds","Alkaloids and derivatives","Macroline alkaloids",NA,NA,NA,NA,NA
+23757137,"UZLBTLIRYSYTRG-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides",NA,NA,NA,NA
+23757216,"ZALWWUJLKFBCQF-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+23760107,"WLPJMCCYDZFCBL-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+23815364,"UYVBMGULWGRDQT-KABOUGNXSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+23815431,"YFPYXTNSQOUHPS-NIILUQFKSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+23900088,"SBEOEJNITMVWLK-CFSKSFDZSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+24211943,"HWRDCYOHJBCWGW-SMJLESKMSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides",NA,NA,NA
+24721278,"VCCNKWWXYVWTLT-LOYITBPBSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+25200809,"YRKLGWOHYXIKSF-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Glutamic acid and derivatives",NA
+25201130,"UOASSFRPBORTCT-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Glycosyl compounds","O-glycosyl compounds",NA,NA
+25203699,"HOWDEROVXAADRI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+25203815,"CQKNELOTFUSOTP-UHFFFAOYSA-N","Organic compounds","Organic nitrogen compounds","Organonitrogen compounds","Amines","Alkanolamines","1,3-aminoalcohols",NA,NA
+44257470,"WIEKYGJSRGBBTQ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Furanoisoflavonoids","Pterocarpans",NA,NA,NA
+44583834,"VTLYEMHGPMGUOT-XMHJOAAQSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Indoles","3-alkylindoles",NA,NA,NA
+44584550,"VXTDUGOBAOLMED-CPEJFPLXSA-N","Organic compounds","Alkaloids and derivatives","Macroline alkaloids",NA,NA,NA,NA,NA
+44891335,"CJDRUOGAGYHKKD-UORGRDHFSA-N","Organic compounds","Alkaloids and derivatives","Ajmaline-sarpagine alkaloids",NA,NA,NA,NA,NA
+45356919,"BNMGUJRJUUDLHW-CIZDPPTDSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+45358102,"TYNQWWGVEGFKRU-OHIAVPKISA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+46841213,"XMFILYNCNQOLOA-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Biflavonoids and polyflavonoids",NA,NA,NA,NA
+53344647,"HCKWMBTVENMFOU-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflav-2-enes","Isoflavones",NA,NA,NA
+53398699,"ZMOZJTDOTOZVRT-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+53442196,"XGEYXJDOVMEJNG-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides",NA,NA,NA
+53463172,"LHKZIVMTXZLOTP-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides",NA,NA,NA,NA
+53891100,"HQNOUCSPWAGQND-UIXBWGQISA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+54344714,"UBMDAKWARMURDL-UHFFFAOYSA-N","Organic compounds","Benzenoids","Phenols","Methoxyphenols",NA,NA,NA,NA
+56671053,"MSUVUDCULKNUJL-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+56995003,"NMGVHLDIHNFGQB-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+57369598,"DVGGLGXQSFURLP-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid 3-O-p-coumaroyl glycosides",NA,NA
+57390614,"JYXSWDCPHRTYGU-VYARGGPUSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+59915712,"LMNDKWXDMBGGAL-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides","Dipeptides",NA,NA
+60150332,"KRZBCHWVBQOTNZ-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Alcohols and polyols","Cyclic alcohols and derivatives","Cyclitols and derivatives","Quinic acids and derivatives",NA
+66751582,"TVUGLERLRIQATC-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Linear 1,3-diarylpropanoids","Chalcones and dihydrochalcones","2'-Hydroxychalcones",NA,NA,NA
+66751828,"RDYZHQQZLIBKBP-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Linear 1,3-diarylpropanoids","Chalcones and dihydrochalcones","Retrochalcones",NA,NA,NA
+67111365,"ACSWAJLDOHJFNA-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives",NA,NA,NA,NA
+69604805,"RZGFUGXQKMEMOO-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Fatty Acyls","Lineolic acids and derivatives","Jasmonic acids",NA,NA,NA
+71264311,"LASVNNIDKPXXMG-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+71308731,"ZRJBHWIHUMBLCN-HNWKQCISSA-N","Organic compounds","Organoheterocyclic compounds","Quinolines and derivatives","Quinolones and derivatives",NA,NA,NA,NA
+71581504,"KYWSCMDFVARMPN-DISCDMJRSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+71587721,"VINGQMQXGDIELG-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds","Arylnaphthalene lignans",NA,NA,NA,NA,NA
+71749158,"RYENLSMHLCNXJT-ZHOKILCHSA-N","Organic compounds","Alkaloids and derivatives","Corynanthean-type alkaloids",NA,NA,NA,NA,NA
+71752015,"HSTZMXCBWJGKHG-GHHIHIOFSA-N","Organic compounds","Phenylpropanoids and polyketides","Stilbenes","Stilbene glycosides",NA,NA,NA,NA
+72731117,"XLVMWOFYTFNDKM-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Thiosulfinic acid esters",NA,NA,NA,NA,NA
+72739177,"PFDVWJCSCYDRMZ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Coumaric acids and derivatives",NA,NA,NA
+72791584,"ZZFQYZCZBBRLTI-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Fatty Acyls","Fatty acyl glycosides","Fatty acyl glycosides of mono- and disaccharides",NA,NA,NA
+72809424,"HJRVLGWTJSLQIG-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+72985464,"NJUXRKMKOFXMRX-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+73082110,"RIMDDIPKIZTBHU-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Indoles","3-alkylindoles",NA,NA,NA
+73157181,"WBQVRPYEEYUEBQ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+73190496,"QYBCBMVQSCJMSA-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Styrenes",NA,NA,NA,NA
+73210496,"RAGZUCNPTLULOL-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Alcohols and polyols","Cyclic alcohols and derivatives","Cyclitols and derivatives","Quinic acids and derivatives",NA
+73717426,"PHLXREOMFNVWOH-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+73802481,"WYYFCTVKFALPQV-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+73806906,"CMMIVMFGFIBAGC-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides",NA,NA,NA,NA
+73822533,"WRDDFOFFQDOVRV-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+73829969,"RJQUXMJLUPJNPG-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+73880679,"WCVUIHQUPRXYKT-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Saccharolipids",NA,NA,NA,NA,NA
+74029747,"SLWCVFLNZDOMEZ-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+74071575,"LTOOPESWVADEAE-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Strychnos alkaloids",NA,NA,NA,NA,NA
+74079809,"KUCVMQMKRICXJC-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+74124649,"YFPYXTNSQOUHPS-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+74328989,"SBVBJPHMDABKJV-UHFFFAOYSA-N","Organic compounds","Lignans, neolignans and related compounds","Lignan glycosides",NA,NA,NA,NA,NA
+74332158,"ZLYIWYCHNAZAQI-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives","Coumaric acids and derivatives",NA,NA,NA
+74376401,"ONAAMCDHQSWPDU-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+74385208,"JCIFZANQIXZLGH-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides",NA,NA,NA
+74413803,"PBBVWJQPAZYQDB-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid O-glucuronides","Flavonoid-7-O-glucuronides",NA
+74428193,"QFSDWLPMRWDFID-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+74976933,"OLBLWNPOURNBCY-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-5-O-glycosides",NA
+74977035,"TWYYVOVDSNRIJM-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-3-O-glycosides",NA
+74977392,"JSKGNHCHUPJTOQ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Coumestans",NA,NA,NA,NA
+74977517,"SJFTVAAHLRFBST-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid O-glucuronides","Flavonoid-7-O-glucuronides",NA
+74977689,"AQQFWSYLUDMDBP-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides",NA,NA,NA
+74977725,"XCKMDTYMOHXUHG-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid O-glucuronides","Flavonoid-7-O-glucuronides",NA
+74977750,"AIBMPOJXBGZIPQ-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+74977751,"HJWFFBNADKDQPV-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid O-glucuronides","Flavonoid-7-O-glucuronides",NA
+74978041,"KNBPTHQAIKQFMM-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+74978212,"LSMKTLJKBSXMMR-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+74978238,"ZLQYEKDHCDLAGO-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-7-O-glycosides",NA,NA
+75052012,"HXMZQSGMNGTGGB-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Alpha amino acids",NA
+75055101,"SJKRPUOXUNOPOP-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Gelsemium alkaloids",NA,NA,NA,NA,NA
+75114729,"OCVQAFQRXHOFMV-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+77986559,"ZXQLECPLGKEUQV-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Camptothecins",NA,NA,NA,NA,NA
+78190875,"LAQLCZKPJGMFRM-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavans","8-prenylated flavans","8-prenylated flavanones",NA,NA
+78358483,"IBFYXTRXDNAPMM-VWSFEJNESA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Iridoid O-glycosides",NA,NA,NA
+85194431,"UZZVCPOZXWRBFO-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+85263199,"DYJBTUINEBYYQT-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+85993300,"XGRYRNQISNOEGY-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Sulfoxides",NA,NA,NA,NA,NA
+89380295,"LSMKTLJKBSXMMR-RUDMXATFSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+90662359,"HGNHIFJNOKGSKI-FICMROCWSA-N","Organic compounds","Lignans, neolignans and related compounds",NA,NA,NA,NA,NA,NA
+102301053,"VHOPIWUPYREUSE-SOFGYWHQSA-N","Organic compounds","Phenylpropanoids and polyketides","Cinnamic acids and derivatives","Hydroxycinnamic acids and derivatives",NA,NA,NA,NA
+121232642,"PUZLVBQOZIVDKI-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Alpha amino acids",NA
+121232643,"QRXRWDDFTQIZAV-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Alpha amino acids",NA
+121232644,"VRYSUGWFYFXWLB-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Sulfoxides",NA,NA,NA,NA,NA
+121232645,"NEMIGFQIONIZCH-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Sulfoxides",NA,NA,NA,NA,NA
+121232648,"SSWZIHDEYOORCA-UHFFFAOYSA-N","Organic compounds","Organosulfur compounds","Sulfoxides",NA,NA,NA,NA,NA
+131750832,"TUIJPUWSXVFWSH-FBMRRHFKSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+131750877,"RDTAGQKYPGLCBK-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+131750882,"FRAUJUKWSKMNJY-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+131751062,"VRCBYTZZZFFKEN-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Isoflavonoids","Isoflavonoid O-glycosides",NA,NA,NA,NA
+131751243,"BYMOGFTUZUEFHY-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Steroidal glycosides","Steroidal saponins",NA,NA,NA
+131751577,"MISLOXVLNGPFID-UHFFFAOYSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides","Triterpene glycosides","Triterpene saponins",NA,NA
+131752191,"RDNMWJOGZVGRGW-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid O-glucuronides","Flavonoid-7-O-glucuronides",NA
+131752299,"BXEZTCOKOLHMKY-UHFFFAOYSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Anthocyanins","Anthocyanidin-5-O-glycosides",NA
+131833385,"MKNZYNHECYGLOH-UHFFFAOYSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid O-glucuronides",NA,NA
+132557742,"OUONWRIEOZGMSQ-NUUNSNFRSA-N","Organic compounds","Alkaloids and derivatives","Macroline alkaloids",NA,NA,NA,NA,NA
+135398635,"NYHBQMYGNKIUIF-UUOKFMHZSA-N","Organic compounds","Nucleosides, nucleotides, and analogues","Purine nucleosides",NA,NA,NA,NA,NA
+137832344,"DRLZZQRQMWQRLZ-FBMRRHFKSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA
+137832346,"HJRVLGWTJSLQIG-TVOOLRDFSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Triterpenoids",NA,NA,NA,NA
+137832347,"JFJZZMVDLULRGK-URLMMPGGSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Ethers","Diarylethers",NA,NA,NA
+137832348,"JVIKUDVTJCANPX-NBYDKTAJSA-N","Organic compounds","Alkaloids and derivatives","Aspidofractine alkaloids",NA,NA,NA,NA,NA
+137832350,"KUCVMQMKRICXJC-VLNXYBQZSA-O","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid O-glycosides","Flavonoid-3-O-glycosides",NA,NA
+137832351,"KWXHCCIXBUPHTG-ICLMVOIRSA-N","Organic compounds","Alkaloids and derivatives","Aspidofractine alkaloids",NA,NA,NA,NA,NA
+137832352,"LTOOPESWVADEAE-JHOCLNBPSA-N","Organic compounds","Alkaloids and derivatives","Strychnos alkaloids",NA,NA,NA,NA,NA
+137832353,"UZLBTLIRYSYTRG-FMKZDVGKSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Terpene glycosides",NA,NA,NA,NA
+137832354,"ZLPSOQFIIQIIAX-FCSQLNSJSA-N","Organic compounds","Phenylpropanoids and polyketides","Flavonoids","Flavonoid glycosides","Flavonoid C-glycosides","Flavonoid 8-C-glycosides",NA,NA

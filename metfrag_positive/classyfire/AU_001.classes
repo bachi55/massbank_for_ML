@@ -1,0 +1,89 @@
+"pubchem_id","inchikey","kindom","superclass","class","subclass","level_5","level_6","level_7","level_8"
+199,"QYPPJABKJHAVHS-UHFFFAOYSA-N","Organic compounds","Organic nitrogen compounds","Organonitrogen compounds","Guanidines",NA,NA,NA,NA
+774,"NTYJJOPFIAHURM-UHFFFAOYSA-N","Organic compounds","Organic nitrogen compounds","Organonitrogen compounds","Amines","Primary amines","2-arylethylamines",NA,NA
+791,"AGPKZVBTJJNPAG-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Isoleucine and derivatives",NA
+1001,"BHHGXPLMPWCGHP-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Phenethylamines",NA,NA,NA,NA
+1981,"FSQKKOOTNAMONP-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Benzoylindoles",NA,NA,NA,NA
+1982,"YASYVMFAVPKPKE-UHFFFAOYSA-N","Organic compounds","Organophosphorus compounds","Organothiophosphorus compounds",NA,NA,NA,NA,NA
+2332,"PXXJHWLDUBFPOL-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives",NA,NA,NA,NA,NA
+2541,"HTQMVQVXFRQIKW-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Biphenyls and derivatives",NA,NA,NA,NA
+2555,"ZRWWEEVEIOGMMT-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzazepines","Dibenzazepines",NA,NA,NA,NA
+3007,"KWTSXDURSIMDCE-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Phenethylamines","Amphetamines and derivatives",NA,NA,NA
+3082,"MCWXGJITAZMZEV-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Organic dithiophosphoric acids and derivatives","Dithiophosphate O-esters",NA,NA,NA,NA
+3168,"RMEDXOLNCUSCGS-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds","Ketones","Aryl ketones","Phenylketones","Alkyl-phenylketones"
+3393,"SAADBVWGJQAEFS-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzodiazepines","1,4-benzodiazepines",NA,NA,NA,NA
+3749,"YOSHYTLCDANDAN-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Biphenyls and derivatives",NA,NA,NA,NA
+3772,"DPBWFNDFMCCGGJ-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Piperidines","Piperidinecarboxylic acids and derivatives","Piperidinecarboxamides",NA,NA,NA
+3981,"VAYOSLLFUXYJDT-UHFFFAOYSA-N","Organic compounds","Alkaloids and derivatives","Ergoline and derivatives","Lysergic acids and derivatives",NA,NA,NA,NA
+4011,"QSLMDECMDJKHMQ-UHFFFAOYSA-N","Organic compounds","Benzenoids","Anthracenes",NA,NA,NA,NA,NA
+4192,"DDLIGBOFAVUZHB-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzodiazepines","1,4-benzodiazepines","Imidazo[1,5-a][1,4]benzodiazepines",NA,NA,NA
+4205,"RONZAEMNMFQXRA-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Piperazinoazepines",NA,NA,NA,NA,NA
+4891,"FSVJFNAIGNNGKK-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Tetrahydroisoquinolines",NA,NA,NA,NA,NA
+5073,"RAPZEAPATHNIPO-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Pyridopyrimidines",NA,NA,NA,NA,NA
+5610,"DZGWFCGJZKJUFP-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Phenethylamines",NA,NA,NA,NA
+5865,"XOFYZVNMUHMLCC-ZPOLXVRWSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Hydroxysteroids","21-hydroxysteroids",NA,NA,NA
+6167,"IAKHMKGGTNLKSZ-INIZCTEOSA-N","Organic compounds","Hydrocarbon derivatives","Tropones",NA,NA,NA,NA,NA
+6535,"DQWPFSLDHJDLRL-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Organic phosphoric acids and derivatives","Phosphate esters","Alkyl phosphates","Trialkyl phosphates",NA,NA
+6661,"CYSGHNMQYZDMIA-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Azolidines","Imidazolidines","Imidazolidinones",NA,NA,NA
+6741,"VHRSUDSXCMQTMA-PJHHCJLFSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Hydroxysteroids","21-hydroxysteroids",NA,NA,NA
+7220,"QRUDEWIWKLJBPS-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzotriazoles",NA,NA,NA,NA,NA
+7222,"IOJUPLGTWVMSFF-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzothiazoles",NA,NA,NA,NA,NA
+7257,"SDYWXFYBZPNOFX-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Halobenzenes","Chlorobenzenes","Dichlorobenzenes",NA,NA
+7616,"YFTHZRPMJXBUME-UHFFFAOYSA-N","Organic compounds","Organic nitrogen compounds","Organonitrogen compounds","Amines","Tertiary amines","Trialkylamines",NA,NA
+7955,"JDSHMPZPIAZGSV-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Triazines","1,3,5-triazines",NA,NA,NA,NA
+8705,"LRUDIIUSNGCQKF-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzotriazoles",NA,NA,NA,NA,NA
+8706,"UHGULLIUJBCTEF-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzothiazoles",NA,NA,NA,NA,NA
+12560,"ULGZDMOVFRHVEP-RWJQBGPGSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Aminosaccharides","Aminoglycosides",NA,NA
+13624,"JWYUFVNJZUSCSM-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzimidazoles",NA,NA,NA,NA,NA
+14210,"PZXOQEXFMJCDPG-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Carboxylic acid derivatives","Carboxylic acid amides","Secondary carboxylic acid amides",NA,NA
+15466,"NXFQWRWXEYTOTK-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Triazines","1,3,5-triazines","Alkoxy-S-triazines","2-methoxy-1,3,5-triazines",NA,NA
+21389,"SCEVFJUWLLRELN-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","N-phenylureas",NA,NA,NA,NA
+25902,"HXQHRUJXQJEGER-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzotriazoles",NA,NA,NA,NA,NA
+33255,"MLYYVTUWGNIJIB-BXKDBHETSA-N","Organic compounds","Organoheterocyclic compounds","Lactams","Beta lactams","Cephems","Cephalosporins",NA,NA
+35970,"DNVLJEWNNDHELH-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Trithianes",NA,NA,NA,NA,NA
+47866,"LVQDKIWDGQRHTE-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Triazines","Aminotriazines","N-aliphatic s-triazines",NA,NA,NA
+53232,"PCZOHLXUXFIOCF-BXMDZJJMSA-N","Organic compounds","Organoheterocyclic compounds","Lactones","Delta valerolactones",NA,NA,NA,NA
+55891,"BIDNLKIUORFRQP-FKDWWROVSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Proline and derivatives",NA
+60198,"BFYIZQONLCFLEV-DAELLWKTSA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Androstane steroids","Androgens and derivatives",NA,NA,NA
+60823,"XUKUURHRXDUEBC-KAYWLYCHSA-N","Organic compounds","Organoheterocyclic compounds","Pyrroles","Substituted pyrroles","Phenylpyrroles","Diphenylpyrroles",NA,NA
+60846,"ACWBQPMHZXGDFX-QFIPXVFZSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Valine and derivatives",NA
+65981,"FAEKWTJYAYMJKF-QHCPKHFHSA-N","Organic compounds","Organoheterocyclic compounds","Piperidines","Phenylpiperidines",NA,NA,NA,NA
+65999,"RMMXLENWKUUMAY-UHFFFAOYSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Biphenyls and derivatives",NA,NA,NA,NA
+71158,"AFCGFAGUEYAMAO-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Organic sulfonic acids and derivatives","Organosulfonic acids and derivatives","Organosulfonic acids",NA,NA,NA
+75771,"ASOKPJOREAFHNY-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzotriazoles",NA,NA,NA,NA,NA
+84029,"AGOYDEPGAOXOCK-KCBOHYOISA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Aminosaccharides","Aminoglycosides",NA,NA
+88761,"INOGLHRUEYDAHX-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzotriazoles",NA,NA,NA,NA,NA
+114976,"YOYLLRBMGQRFTN-IOMBULRVSA-N","Organic compounds","Benzenoids","Phenanthrenes and derivatives",NA,NA,NA,NA,NA
+115194,"ZBILSSSEXRZGKS-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzazepines","Dibenzazepines",NA,NA,NA,NA
+148192,"AXRYRYVKAWYZBR-GASGPIRDSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Valine and derivatives",NA
+208898,"ZQTNQVWKHCQYLQ-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbonyl compounds","Ketones","Aryl ketones","Phenylketones","Aryl-phenylketones"
+213039,"CJBJHOAVZSMMDJ-HEXNFIEUSA-N","Organic compounds","Benzenoids","Benzene and substituted derivatives","Benzenesulfonamides","Aminobenzenesulfonamides",NA,NA,NA
+392622,"NCDNCNXCDXHOMX-XGKFQTDJSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","N-carbamoyl-alpha amino acids and derivatives",NA
+441341,"HPHUVLMMVZITSG-ZCFIWIBFSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives",NA,NA
+443967,"AKUJBENLRBOFTD-QZIXMDIESA-N","Organic compounds","Lipids and lipid-like molecules","Steroids and steroid derivatives","Pregnane steroids","Gluco/mineralocorticoids, progestogins and derivatives",NA,NA,NA
+550774,"VLJNHYLEOZPXFW-UHFFFAOYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Proline and derivatives",NA
+594330,"XNSGCNYTNLWRKM-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Diazines","Pyridazines and derivatives","Pyridazinones",NA,NA,NA
+656958,"UURAUHCOJAIIRQ-QGLSALSOSA-N","Organic compounds","Lipids and lipid-like molecules","Prenol lipids","Diterpenoids","Mutilane diterpenoids","Mutilin derivatives","Pleuromutilin and derivatives",NA
+1349907,"PMRYVIKBURPHAH-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Azolines","Imidazolines","Imidazolethiones",NA,NA,NA
+4369359,"MFFMDFFZMYYVKS-SECBINFHSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Beta amino acids and derivatives",NA,NA
+5280440,"WBPYTXDJUQJLPQ-VMXQISHHSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Aminosaccharides","Aminoglycosides",NA,NA
+5281071,"JBIMVDZLSHOPLA-LSCVHKIXSA-N","Organic compounds","Organoheterocyclic compounds","Benzoxepines","Dibenzoxepines",NA,NA,NA,NA
+5284371,"OROGSEYTTFOCAN-DNJOTXNNSA-N","Organic compounds","Alkaloids and derivatives","Morphinans",NA,NA,NA,NA,NA
+5284543,"RBOXVHNMENFORY-DNJOTXNNSA-N","Organic compounds","Alkaloids and derivatives","Morphinans",NA,NA,NA,NA,NA
+5284603,"BRUQQQPBMZOVGD-XFKAJCMBSA-N","Organic compounds","Benzenoids","Phenanthrenes and derivatives",NA,NA,NA,NA,NA
+5288826,"BQJCRHHNABKAKU-KBQPJGBKSA-N","Organic compounds","Alkaloids and derivatives","Morphinans",NA,NA,NA,NA,NA
+5371562,"KRTSDMXIXPKRQR-AATRIKPKSA-N","Organic compounds","Organic acids and derivatives","Organic phosphoric acids and derivatives","Phosphate esters","Alkyl phosphates","Dialkyl phosphates",NA,NA
+5462328,"GVGLGOZIDCSQPN-PVHGPHFFSA-N","Organic compounds","Alkaloids and derivatives","Morphinans",NA,NA,NA,NA,NA
+5486971,"AYXYPKUFHZROOJ-ZETCQYMHSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Gamma amino acids and derivatives",NA,NA
+6435415,"DHSUYTOATWAVLW-WFVMDLQDSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","N-acyl-alpha amino acids and derivatives","N-acyl-alpha amino acids"
+6436173,"NZCRJKRKKOLAOJ-XRCRFVBUSA-N","Organic compounds","Phenylpropanoids and polyketides","Macrolactams",NA,NA,NA,NA,NA
+6915744,"RXZBMPWDPOLZGW-XMRMVWPWSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Aminosaccharides","Aminoglycosides",NA,NA
+6918537,"SYOKIDBDQMKNDQ-XWTIBIIYSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Amino acids and derivatives","Alpha amino acids and derivatives","Alpha amino acid amides",NA
+7048632,"GCFBRXLSHGKWDP-WJONJSRFSA-N","Organic compounds","Organic acids and derivatives","Carboxylic acids and derivatives","Amino acids, peptides, and analogues","Peptides",NA,NA,NA
+10382701,"JDNLPKCAXICMBW-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Naphthoylindoles",NA,NA,NA,NA
+10471670,"VCHHHSMPMLNVGS-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Indoles and derivatives","Naphthoylindoles",NA,NA,NA,NA
+11500131,"DAWYIZBOUQIVNX-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Piperazinoazepines",NA,NA,NA,NA,NA
+13923912,"CIJTVUQEURKBDL-UHFFFAOYSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Carbohydrates and carbohydrate conjugates","Aminosaccharides","Aminoglycosides",NA,NA
+57568992,"CSQXUYGPAMNXJT-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Pyridopyrimidines",NA,NA,NA,NA,NA
+66685656,"IKCXDZCEWZARFL-FOWTUZBSSA-N","Organic compounds","Organic oxygen compounds","Organooxygen compounds","Ethers","Diarylethers",NA,NA,NA
+135398745,"KVWDHTXUZHCGIO-UHFFFAOYSA-N","Organic compounds","Organoheterocyclic compounds","Benzodiazepines",NA,NA,NA,NA,NA
